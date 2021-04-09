@@ -24,7 +24,10 @@
         "url": "https://github.com/IronManRust/q101-top-101/issues",
         "email": "shawn_headrick@yahoo.com"
     },
-    "scripts": {},
-    "dependencies": {},
-    "devDependencies": {}
+    "scripts": {
+        "json2ts": "json2ts --no-style.semi -i schema/ -o types/"
+    },
+    "devDependencies": {
+        "json-schema-to-typescript": "^10.1.4"
+    }
 }
