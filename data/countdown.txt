@@ -1,8 +1,5 @@
 TODO: Turn these links into JSON.
 
-1993
-- https://q101.com/2020/03/q101-top-101-songs-of-1993/
-- https://www.rocklists.com/q101-1993.html
 1994
 - https://q101.com/2020/03/q101-top-101-alternative-songs-of-1994/
 - https://www.rocklists.com/q101-1994.html
