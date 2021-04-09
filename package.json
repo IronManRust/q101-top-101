@@ -1,0 +1,30 @@
+{
+    "name": "q101-top-101",
+    "version": "1.0.0",
+    "description": "The Chicago radio station Q101 used to do a countdown leading up to New Year's Eve where they would play the top 101 songs of the year. This takes that song data and generates a webpage to display it in an organized fashion.",
+    "keywords": [
+        "q101",
+        "chicago",
+        "alternative",
+        "music",
+        "countdown"
+    ],
+    "license": "MIT",
+    "author": {
+        "name": "Shawn Headrick",
+        "email": "shawn_headrick@yahoo.com",
+        "url": "https://github.com/IronManRust"
+    },
+    "homepage": "https://github.com/IronManRust/q101-top-101",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/IronManRust/q101-top-101.git"
+    },
+    "bugs": {
+        "url": "https://github.com/IronManRust/q101-top-101/issues",
+        "email": "shawn_headrick@yahoo.com"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {}
+}
