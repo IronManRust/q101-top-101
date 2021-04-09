@@ -25,9 +25,12 @@
         "email": "shawn_headrick@yahoo.com"
     },
     "scripts": {
-        "json2ts": "json2ts --no-style.semi -i schema/ -o types/"
+        "clean": "rimraf ./dist/",
+        "build": "npm run clean && npm run build:json2ts",
+        "build:json2ts": "json2ts --no-style.semi -i ./schema/ -o ./types/"
     },
     "devDependencies": {
-        "json-schema-to-typescript": "^10.1.4"
+        "json-schema-to-typescript": "^10.1.4",
+        "rimraf": "^3.0.2"
     }
 }
