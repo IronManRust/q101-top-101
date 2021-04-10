@@ -32,7 +32,8 @@
         "build:static": "echo TODO: Static Assets",
         "build:json2ts": "json2ts --no-style.semi -i ./schema/ -o ./types/",
         "build:src": "tsc",
-        "generate": "node ./dist/index.js"
+        "generate": "node ./dist/index.js",
+        "serve": "http-server ./dist -d false -a 0.0.0.0 -p 8080"
     },
     "devDependencies": {
         "@types/node": "^14.14.37",
@@ -42,6 +43,7 @@
         "eslint": "^7.23.0",
         "eslint-config-prettier": "^8.1.0",
         "eslint-plugin-prefer-arrow": "^1.2.3",
+        "http-server": "^0.12.3",
         "json-schema-to-typescript": "^10.1.4",
         "rimraf": "^3.0.2",
         "tsc": "^1.20150623.0",
