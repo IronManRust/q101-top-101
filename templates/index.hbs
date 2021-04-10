@@ -3,37 +3,48 @@
 
 <head>
     <title>{{title}}</title>
-    <meta name="viewport" content="width=device-width, initial-scale-1" />
     <meta charset="utf-8" />
-    <!-- TODO: Favicon -->
-    <!-- TODO: CSS -->
-    <!-- TODO: Download Link To JSON -->
-    <!-- TODO: YouTube / Wikipedia Links -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+    <meta name="description" content="{{description}}" />
+    <meta name="keywords" content="{{keywords}}" />
+    <meta name="author" content="{{author}}" />
+    <link href="./favicon.ico" type="image/x-icon" rel="icon" />
+    <link href="./bootstrap.min.css" type="text/css" rel="stylesheet" />
 </head>
 
 <body>
-    <h1>{{title}}</h1>
-    {{#each years}}
-    <h2>{{this.year}}</h2>
-    <table>
-        <thead>
-            <tr>
-                <th>Position</th>
-                <th>Artist</th>
-                <th>Song</th>
-            </tr>
-        </thead>
-        <tbody>
-            {{#each this.items}}
-            <tr>
-                <td>{{this.position}}</td>
-                <td>{{this.artist}}</td>
-                <td>{{this.song}}</td>
-            </tr>
-            {{/each}}
-        </tbody>
-    </table>
-    {{/each}}
+    <div class="container">
+        <div class="jumbotron text-center">
+            <h1>{{title}}</h1>
+        </div>
+        <div class="text-center">
+            <p>{{description}}</p>
+            <p><a href="./countdown.json">Countdown Data JSON</a></p>
+        </div>
+        {{#each years}}
+        <div>
+            <h2>{{this.year}}</h2>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">Position</th>
+                        <th scope="col">Artist</th>
+                        <th scope="col">Song</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {{#each this.items}}
+                    <tr>
+                        <th scope="row">{{this.position}}</td>
+                        <td>{{this.artist}}</td>
+                        <td>{{this.song}}</td>
+                    </tr>
+                    {{/each}}
+                </tbody>
+            </table>
+        </div>
+        {{/each}}
+    </div>
 </body>
 
 </html>
