@@ -29,13 +29,14 @@
         "clean": "rimraf ./dist/",
         "lint": "eslint ./src/ --ext .ts",
         "build": "npm run build:static && npm run build:json2ts && npm run build:src",
-        "build:static": "echo TODO: Static Assets",
+        "build:static": "copyfiles --flat ./data/*.* ./templates/*.* ./dist",
         "build:json2ts": "json2ts --no-style.semi -i ./schema/ -o ./types/",
         "build:src": "tsc",
         "generate": "node ./dist/index.js",
         "serve": "http-server ./dist -d false -a 0.0.0.0 -p 8080"
     },
     "devDependencies": {
+        "@types/handlebars": "^4.1.0",
         "@types/node": "^14.14.37",
         "@typescript-eslint/eslint-plugin": "^4.21.0",
         "@typescript-eslint/parser": "^4.21.0",
@@ -43,6 +44,7 @@
         "eslint": "^7.23.0",
         "eslint-config-prettier": "^8.1.0",
         "eslint-plugin-prefer-arrow": "^1.2.3",
+        "handlebars": "^4.7.7",
         "http-server": "^0.12.3",
         "json-schema-to-typescript": "^10.1.4",
         "rimraf": "^3.0.2",

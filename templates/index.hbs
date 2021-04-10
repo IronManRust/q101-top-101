@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>{{title}}</title>
+    <meta name="viewport" content="width=device-width, initial-scale-1" />
+    <meta charset="utf-8" />
+    <!-- TODO: Favicon -->
+    <!-- TODO: CSS -->
+    <!-- TODO: Download Link To JSON -->
+    <!-- TODO: YouTube / Wikipedia Links -->
+</head>
+
+<body>
+    <h1>{{title}}</h1>
+    {{#each years}}
+    <h2>{{this.year}}</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Position</th>
+                <th>Artist</th>
+                <th>Song</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{#each this.items}}
+            <tr>
+                <td>{{this.position}}</td>
+                <td>{{this.artist}}</td>
+                <td>{{this.song}}</td>
+            </tr>
+            {{/each}}
+        </tbody>
+    </table>
+    {{/each}}
+</body>
+
+</html>
