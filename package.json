@@ -25,6 +25,11 @@
         "email": "shawn_headrick@yahoo.com"
     },
     "scripts": {
+        "scrape": "npm run scrape:clean && npm run scrape:build && npm run scrape:execute && npm run scrape:cleanup",
+        "scrape:clean": "npm run clean",
+        "scrape:build": "npm run build:content && npm run build:src",
+        "scrape:execute": "node ./dist/scrape.js",
+        "scrape:cleanup": "echo TODO: Delete Everything Except Scraped JSON",
         "all-the-things": "npm run clean && npm run lint && npm run build && npm run generate",
         "clean": "rimraf ./dist/",
         "lint": "eslint ./src/ --ext .ts",

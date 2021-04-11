@@ -17,7 +17,7 @@ const metadata = {
   homepage: packageJSON.homepage
 }
 
-// TODO: YouTube / Wikipedia Links
+// TODO: Add Links
 
 const html = template({
   ...countdown,
