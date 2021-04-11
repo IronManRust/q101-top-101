@@ -18,7 +18,6 @@ const metadata = {
 }
 
 // TODO: YouTube / Wikipedia Links
-// TODO: Web Hosting
 
 const html = template({
   ...countdown,
