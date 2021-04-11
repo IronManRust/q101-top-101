@@ -10,9 +10,11 @@ const countdown: Countdown = JSON.parse(fs.readFileSync(path.resolve(__dirname, 
 
 const packageJSON: NormalizedPackageJson = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../package.json'), 'utf-8'))
 const metadata = {
-  author: packageJSON.author?.name,
+  name: packageJSON.name,
   description: packageJSON.description,
-  keywords: packageJSON.keywords
+  keywords: packageJSON.keywords,
+  author: packageJSON.author?.name,
+  homepage: packageJSON.homepage
 }
 
 // TODO: YouTube / Wikipedia Links

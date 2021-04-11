@@ -10,6 +10,8 @@
     <meta name="author" content="{{author}}" />
     <link href="./favicon.ico" type="image/x-icon" rel="icon" />
     <link href="./bootstrap.min.css" type="text/css" rel="stylesheet" />
+    <script src="./jquery.slim.min.js" type="text/javascript"></script>
+    <script src="./bootstrap.min.js" type="text/javascript"></script>
 </head>
 
 <body>
@@ -19,31 +21,44 @@
         </div>
         <div class="text-center">
             <p>{{description}}</p>
-            <p><a href="./countdown.json">Countdown Data JSON</a></p>
+            <p><a href="./countdown.json" target="_blank">Countdown Data JSON</a></p>
         </div>
-        {{#each years}}
-        <div>
-            <h2>{{this.year}}</h2>
-            <table class="table">
-                <thead>
-                    <tr>
-                        <th scope="col">Position</th>
-                        <th scope="col">Artist</th>
-                        <th scope="col">Song</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    {{#each this.items}}
-                    <tr>
-                        <th scope="row">{{this.position}}</td>
-                        <td>{{this.artist}}</td>
-                        <td>{{this.song}}</td>
-                    </tr>
-                    {{/each}}
-                </tbody>
-            </table>
+        <div class="accordion" id="accordion">
+            {{#each years}}
+            <div class="card">
+                <div class="card-header" id="card-header-{{this.year}}">
+                    <button class="btn btn-block" type="button" data-toggle="collapse" data-target="#collapse-{{this.year}}">
+                        <h2>
+                            {{this.year}}
+                        </h2>
+                    </button>
+                </div>
+                <div class="collapse" id="collapse-{{this.year}}" data-parent="#accordion">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th scope="col">Position</th>
+                                <th scope="col">Artist</th>
+                                <th scope="col">Song</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {{#each this.items}}
+                            <tr>
+                                <th scope="row">{{this.position}}</td>
+                                <td>{{this.artist}}</td>
+                                <td>{{this.song}}</td>
+                            </tr>
+                            {{/each}}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            {{/each}}
         </div>
-        {{/each}}
+        <div class="text-center">
+            <p>Source code for <em>{{name}}</em> available <a href="{{homepage}}" target="_blank">here</a>.</p>
+        </div>
     </div>
 </body>
 
