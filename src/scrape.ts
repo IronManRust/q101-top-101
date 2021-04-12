@@ -30,6 +30,22 @@ for (const year of countdown.years) {
   }
 }
 
+const normalizeURL = (url: string | undefined): string | undefined => {
+  const domains = [
+    'facebook.com',
+    'twitter.com',
+    'youtube.com'
+  ]
+  if (url) {
+    for (const domain of domains) {
+      if (url.indexOf(domain) !== -1) {
+        return `https://www.${url.substr(url.indexOf(domain))}`
+      }
+    }
+  }
+  return url
+}
+
 const process = async (artistInformationList: ArtistInformationList) => {
   const apiKey = 1 // Public, Low-Volume Key
   const artistNames = Object.keys(artistInformationList).sort()
@@ -43,8 +59,8 @@ const process = async (artistInformationList: ArtistInformationList) => {
         const artistInformation = artistInformationList[x]
         if (x.toUpperCase().trim() === dbArtist.strArtist.toUpperCase().trim()) {
           artistInformation.id = dbArtist.idArtist
-          artistInformation.facebook = dbArtist.strFacebook || undefined
-          artistInformation.twitter = dbArtist.strTwitter || undefined
+          artistInformation.facebook = normalizeURL(dbArtist.strFacebook || undefined)
+          artistInformation.twitter = normalizeURL(dbArtist.strTwitter || undefined)
           if (artistInformation.id) {
             const responseSongs = await axios.get(`https://www.theaudiodb.com/api/v1/json/${apiKey}/mvid.php?i=${artistInformation.id}`)
             if (responseSongs.status === 200) {
@@ -54,7 +70,7 @@ const process = async (artistInformationList: ArtistInformationList) => {
                 for (const dbSong of dbSongsList.mvids) {
                   for (const song of artistInformation.songs) {
                     if (song.name.toUpperCase().trim() === dbSong.strTrack.toUpperCase().trim()) {
-                      song.musicVideo = dbSong.strMusicVid || undefined
+                      song.musicVideo = normalizeURL(dbSong.strMusicVid || undefined)
                     }
                   }
                 }
