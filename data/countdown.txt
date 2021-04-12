@@ -1,8 +1,6 @@
 TODO: Turn these links into JSON.
+TODO: Rebuild `artists.json` once done.
 
-1994
-- https://q101.com/2020/03/q101-top-101-alternative-songs-of-1994/
-- https://www.rocklists.com/q101-1994.html
 1995
 - https://q101.com/2018/07/q101-top-101-alternative-songs-of-1995/
 - https://www.rocklists.com/q101-1995.html
