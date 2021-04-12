@@ -24,7 +24,16 @@
                                 "artist": {
                                     "type": "string"
                                 },
+                                "facebook": {
+                                    "type": "string"
+                                },
+                                "twitter": {
+                                    "type": "string"
+                                },
                                 "song": {
+                                    "type": "string"
+                                },
+                                "musicVideo": {
                                     "type": "string"
                                 }
                             },

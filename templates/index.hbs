@@ -39,7 +39,8 @@
                             <tr>
                                 <th scope="col">Position</th>
                                 <th scope="col">Artist</th>
-                                <th scope="col">Song</th>
+                                <th scope="col">Links</th>
+                                <th scope="col">Song / Music Video</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -47,7 +48,34 @@
                             <tr>
                                 <th scope="row">{{this.position}}</td>
                                 <td>{{this.artist}}</td>
-                                <td>{{this.song}}</td>
+                                <td>
+                                    {{#if this.facebook}}
+                                    <a href="{{this.facebook}}" target="_blank">
+                                        <img src="./facebook-enabled.png" alt="Facebook Page" />
+                                    </a>
+                                    {{else}}
+                                    <div>
+                                        <img src="./facebook-disabled.png" alt="Facebook Page" />
+                                    </div>
+                                    {{/if}}
+
+                                    {{#if this.twitter}}
+                                    <a href="{{this.twitter}}" target="_blank">
+                                        <img src="./twitter-enabled.png" alt="Twitter Page" />
+                                    </a>
+                                    {{else}}
+                                    <div>
+                                        <img src="./twitter-disabled.png" alt="Twitter Page" />
+                                    </div>
+                                    {{/if}}
+                                </td>
+                                <td>
+                                    {{#if this.musicVideo}}
+                                    <a href="{{this.musicVideo}}" target="_blank">{{this.song}}</a>
+                                    {{else}}
+                                    {{this.song}}
+                                    {{/if}}
+                                </td>
                             </tr>
                             {{/each}}
                         </tbody>

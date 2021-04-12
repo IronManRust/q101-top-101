@@ -85,7 +85,7 @@ const process = async (artistInformationList: ArtistInformationList) => {
       console.log(`Artist Response - Error - ${x}`)
     }
   }))
-  fs.writeFileSync(path.resolve(__dirname, 'artist.json'), JSON.stringify(artistInformationList, null, 2), 'utf-8')
+  fs.writeFileSync(path.resolve(__dirname, 'artists.json'), JSON.stringify(artistInformationList, null, 2), 'utf-8')
 }
 
 process(artistInformationList)

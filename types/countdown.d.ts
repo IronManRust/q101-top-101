@@ -12,7 +12,10 @@ export interface Countdown {
     items: {
       position: number
       artist: string
+      facebook?: string
+      twitter?: string
       song: string
+      musicVideo?: string
     }[]
   }[]
 }
