@@ -54,9 +54,9 @@
                                         <img src="./facebook-enabled.png" alt="Facebook Page" />
                                     </a>
                                     {{else}}
-                                    <div>
+                                    <span>
                                         <img src="./facebook-disabled.png" alt="Facebook Page" />
-                                    </div>
+                                    </span>
                                     {{/if}}
 
                                     {{#if this.twitter}}
@@ -64,9 +64,9 @@
                                         <img src="./twitter-enabled.png" alt="Twitter Page" />
                                     </a>
                                     {{else}}
-                                    <div>
+                                    <span>
                                         <img src="./twitter-disabled.png" alt="Twitter Page" />
-                                    </div>
+                                    </span>
                                     {{/if}}
                                 </td>
                                 <td>
@@ -86,7 +86,7 @@
         </div>
         <div class="text-center">
             <p>Source code for <em>{{name}}</em> available <a href="{{homepage}}" target="_blank">here</a>.</p>
-            <!-- TODO: Cite TheAudioDB -->
+            <p>Artist and music video links retrieved from <a href="https://www.theaudiodb.com" target="_blank">The Audio DB</a>.</p>
         </div>
     </div>
 </body>
