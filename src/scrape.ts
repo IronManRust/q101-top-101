@@ -1,38 +1,26 @@
+import axios from 'axios'
 import fs from 'fs'
 import path from 'path'
+import { ArtistInformationList } from './artistInformationList'
+import { DBArtistList } from './dbArtistList'
+import { DBSongsList } from './dbSongsList'
 import { Countdown } from '../types/countdown'
-
-// TODO: Scrape https://www.theaudiodb.com/api_guide.php
-//       - https://www.theaudiodb.com/api/v1/json/{key}/search.php?s={name}
-//       - https://www.theaudiodb.com/api/v1/json/{key}/mvid.php?i={id}
-
-const artistInformation: {
-  [artist: string]: {
-    id?: number
-    website?: string
-    facebook?: string
-    twitter?: string
-    songs: {
-      name: string
-      musicVideo?: string
-    }[]
-  }
-} = {
-}
 
 const countdown: Countdown = JSON.parse(fs.readFileSync(path.resolve(__dirname, 'countdown.json'), 'utf-8'))
 
+const artistInformationList: ArtistInformationList = {
+}
 for (const year of countdown.years) {
   for (const item of year.items) {
     if (item.artist && item.song) {
-      if (item.artist in artistInformation) {
-        if (artistInformation[item.artist].songs.map((x) => { return x.name }).indexOf(item.song) === -1) {
-          artistInformation[item.artist].songs.push({
+      if (item.artist in artistInformationList) {
+        if (artistInformationList[item.artist].songs.map((x) => { return x.name }).indexOf(item.song) === -1) {
+          artistInformationList[item.artist].songs.push({
             name: item.song
           })
         }
       } else {
-        artistInformation[item.artist] = {
+        artistInformationList[item.artist] = {
           songs: [{
             name: item.song
           }]
@@ -42,4 +30,46 @@ for (const year of countdown.years) {
   }
 }
 
-console.log(JSON.stringify(artistInformation)) // TODO: Look Up Optional Data
+const process = async (artistInformationList: ArtistInformationList) => {
+  const apiKey = 1 // Public, Low-Volume Key
+  const artistNames = Object.keys(artistInformationList).sort()
+  await Promise.all(artistNames.map(async (x) => {
+    const responseArtist = await axios.get(`https://www.theaudiodb.com/api/v1/json/${apiKey}/search.php?s=${encodeURIComponent(x)}`)
+    if (responseArtist.status === 200) {
+      console.log(`Artist Response - Success - ${x}`)
+      const dbArtistList: DBArtistList = responseArtist.data
+      if (dbArtistList.artists && dbArtistList.artists.length === 1) {
+        const dbArtist = dbArtistList.artists[0]
+        const artistInformation = artistInformationList[x]
+        if (x.toUpperCase().trim() === dbArtist.strArtist.toUpperCase().trim()) {
+          artistInformation.id = dbArtist.idArtist
+          artistInformation.facebook = dbArtist.strFacebook || undefined
+          artistInformation.twitter = dbArtist.strTwitter || undefined
+          if (artistInformation.id) {
+            const responseSongs = await axios.get(`https://www.theaudiodb.com/api/v1/json/${apiKey}/mvid.php?i=${artistInformation.id}`)
+            if (responseSongs.status === 200) {
+              console.log(`Songs Response - Success - ${x}`)
+              const dbSongsList: DBSongsList = responseSongs.data
+              if (dbSongsList.mvids) {
+                for (const dbSong of dbSongsList.mvids) {
+                  for (const song of artistInformation.songs) {
+                    if (song.name.toUpperCase().trim() === dbSong.strTrack.toUpperCase().trim()) {
+                      song.musicVideo = dbSong.strMusicVid || undefined
+                    }
+                  }
+                }
+              }
+            } else {
+              console.log(`Songs Response - Error - ${x}`)
+            }
+          }
+        }
+      }
+    } else {
+      console.log(`Artist Response - Error - ${x}`)
+    }
+  }))
+  fs.writeFileSync(path.resolve(__dirname, 'artist.json'), JSON.stringify(artistInformationList, null, 2), 'utf-8')
+}
+
+process(artistInformationList)
