@@ -36,7 +36,7 @@
         "build": "npm run build:content && npm run build:dependencies && npm run build:json2ts && npm run build:src",
         "build:content": "copyfiles --flat ./data/*.* ./images/*.* ./templates/*.* ./dist",
         "build:dependencies": "copyfiles --flat ./node_modules/bootstrap/dist/css/bootstrap.min.css ./node_modules/bootstrap/dist/css/bootstrap.min.css.map ./node_modules/bootstrap/dist/js/bootstrap.min.js ./node_modules/bootstrap/dist/js/bootstrap.min.js.map ./node_modules/jquery/dist/jquery.slim.min.js ./node_modules/jquery/dist/jquery.slim.min.map ./dist",
-        "build:json2ts": "json2ts --no-style.semi -i ./schema/ -o ./types/",
+        "build:json2ts": "json2ts --no-style.semi -i './schema/*.json' -o ./types/",
         "build:src": "tsc",
         "generate": "npm run generate:compile && npm run generate:cleanup",
         "generate:compile": "node ./dist/index.js",

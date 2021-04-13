@@ -47,7 +47,7 @@
                         <tbody>
                             {{#each this.items}}
                             <tr>
-                                <th scope="row">{{this.position}}</td>
+                                <th scope="row">{{this.position}}</th>
                                 <td>{{this.artist}}</td>
                                 <td>
                                     {{#if this.facebook}}
@@ -85,7 +85,10 @@
             </div>
             {{/each}}
         </div>
+        <br />
         <div class="text-center">
+            <p>This countdown lists a total of {{positions}} positions consisting of {{artists.unique}} unique artists, {{artists.facebook}} of whom have Facebook accounts and {{artists.twitter}} of whom have Twitter accounts.</p>
+            <p>A total of {{songs.unique}} songs appear on this countdown, which may be less than the total number of positions as a song can appear on the list for multiple years. Of those songs, {{songs.youtube}} have music videos.</p>
             <p>Source code for <em>{{name}}</em> available <a href="{{homepage}}" target="_blank">here</a>.</p>
             <p>Artist and music video links retrieved from <a href="https://www.theaudiodb.com" target="_blank">The Audio DB</a>.</p>
         </div>

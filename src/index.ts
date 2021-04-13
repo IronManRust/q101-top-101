@@ -35,9 +35,47 @@ const metadata = {
   homepage: packageJSON.homepage
 }
 
+let positions = 0
+for (const year of countdown.years) {
+  for (const item of year.items) {
+    if (item.artist && item.song) {
+      positions += 1
+    }
+  }
+}
+
+let uniqueArtists = 0
+let uniqueSongs = 0
+let facebook = 0
+let twitter = 0
+let youtube = 0
+for (const artistName of Object.keys(artistInformationList)) {
+  const artistInformation = artistInformationList[artistName]
+  uniqueArtists += 1
+  facebook += artistInformation.facebook ? 1 : 0
+  twitter += artistInformation.twitter ? 1 : 0
+  for (const song of artistInformation.songs) {
+    uniqueSongs += 1
+    youtube += song.musicVideo ? 1 : 0
+  }
+}
+const statistics = {
+  positions,
+  artists: {
+    unique: uniqueArtists,
+    facebook,
+    twitter
+  },
+  songs: {
+    unique: uniqueSongs,
+    youtube
+  }
+}
+
 const html = template({
   ...countdown,
-  ...metadata
+  ...metadata,
+  ...statistics
 })
 
 fs.writeFileSync(path.resolve(__dirname, 'index.html'), html)
