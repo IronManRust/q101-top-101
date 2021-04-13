@@ -48,7 +48,7 @@ let uniqueArtists = 0
 let uniqueSongs = 0
 let facebook = 0
 let twitter = 0
-let youtube = 0
+let musicVideo = 0
 for (const artistName of Object.keys(artistInformationList)) {
   const artistInformation = artistInformationList[artistName]
   uniqueArtists += 1
@@ -56,7 +56,7 @@ for (const artistName of Object.keys(artistInformationList)) {
   twitter += artistInformation.twitter ? 1 : 0
   for (const song of artistInformation.songs) {
     uniqueSongs += 1
-    youtube += song.musicVideo ? 1 : 0
+    musicVideo += song.musicVideo ? 1 : 0
   }
 }
 const statistics = {
@@ -68,7 +68,7 @@ const statistics = {
   },
   songs: {
     unique: uniqueSongs,
-    youtube
+    musicVideo
   }
 }
 

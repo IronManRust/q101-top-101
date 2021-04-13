@@ -29,7 +29,7 @@
         "scrape:clean": "npm run clean",
         "scrape:build": "npm run build:content && npm run build:src",
         "scrape:execute": "node ./dist/scrape.js",
-        "scrape:cleanup": "rimraf ./dist/*.js && rimraf ./dist/*.ts && rimraf ./dist/*.map && rimraf ./dist/*.ico && rimraf ./dist/*.png && rimraf ./dist/*.hbs && rimraf ./dist/countdown.json",
+        "scrape:cleanup": "rimraf ./dist/*.js && rimraf ./dist/*.ts && rimraf ./dist/*.map && rimraf ./dist/*.ico && rimraf ./dist/*.png && rimraf ./dist/*.hbs && rimraf ./dist/*.md && rimraf ./dist/countdown.json",
         "all-the-things": "npm run clean && npm run lint && npm run build && npm run generate",
         "clean": "rimraf ./dist/",
         "lint": "eslint ./src/ --ext .ts",

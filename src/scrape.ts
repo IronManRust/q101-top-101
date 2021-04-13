@@ -34,7 +34,8 @@ const normalizeURL = (url: string | undefined): string | undefined => {
   const domains = [
     'facebook.com',
     'twitter.com',
-    'youtube.com'
+    'youtube.com',
+    'vimeo.com'
   ]
   if (url) {
     for (const domain of domains) {
