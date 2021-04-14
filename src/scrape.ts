@@ -1,4 +1,5 @@
 import axios from 'axios'
+import chalk from 'chalk'
 import fs from 'fs'
 import path from 'path'
 import { ArtistInformationList } from './artistInformationList'
@@ -53,19 +54,22 @@ const process = async (artistInformationList: ArtistInformationList) => {
   await Promise.all(artistNames.map(async (x) => {
     const responseArtist = await axios.get(`https://www.theaudiodb.com/api/v1/json/${apiKey}/search.php?s=${encodeURIComponent(x)}`)
     if (responseArtist.status === 200) {
-      console.log(`Artist Response - Success - ${x}`)
+      console.log(chalk.green(`Artist Response - Query Success - ${x}`))
       const dbArtistList: DBArtistList = responseArtist.data
       if (dbArtistList.artists && dbArtistList.artists.length === 1) {
+        console.log(chalk.green(`Artist Response - Single Result - ${x}`))
         const dbArtist = dbArtistList.artists[0]
         const artistInformation = artistInformationList[x]
         if (x.toUpperCase().trim() === dbArtist.strArtist.toUpperCase().trim()) {
+          console.log(chalk.green(`Artist Response - Exact Match - ${x}`))
           artistInformation.id = dbArtist.idArtist
           artistInformation.facebook = normalizeURL(dbArtist.strFacebook || undefined)
           artistInformation.twitter = normalizeURL(dbArtist.strTwitter || undefined)
           if (artistInformation.id) {
+            console.log(chalk.green(`Artist Response - ID Exists - ${x}`))
             const responseSongs = await axios.get(`https://www.theaudiodb.com/api/v1/json/${apiKey}/mvid.php?i=${artistInformation.id}`)
             if (responseSongs.status === 200) {
-              console.log(`Songs Response - Success - ${x}`)
+              console.log(chalk.green(`Songs Response - Query Success - ${x}`))
               const dbSongsList: DBSongsList = responseSongs.data
               if (dbSongsList.mvids) {
                 for (const dbSong of dbSongsList.mvids) {
@@ -77,13 +81,19 @@ const process = async (artistInformationList: ArtistInformationList) => {
                 }
               }
             } else {
-              console.log(`Songs Response - Error - ${x}`)
+              console.log(chalk.red(`Songs Response - Query Error - ${x}`))
             }
+          } else {
+            console.log(chalk.yellow(`Artist Response - No ID Exists - ${x}`))
           }
+        } else {
+          console.log(chalk.yellow(`Artist Response - No Exact Match - ${x} - ${dbArtist.strArtist}`))
         }
+      } else {
+        console.log(chalk.yellow(`Artist Response - Zero Or Multiple Results - ${x} - ${dbArtistList.artists?.map((y) => { return y.strArtist }).toString()}`))
       }
     } else {
-      console.log(`Artist Response - Error - ${x}`)
+      console.log(chalk.red(`Artist Response - Query Error - ${x}`))
     }
   }))
   const artistInformationListSorted: ArtistInformationList = {
