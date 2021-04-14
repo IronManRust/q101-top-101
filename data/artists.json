@@ -607,15 +607,15 @@
     "songs": [
       {
         "name": "My Own Prison",
-        "musicVideo": "http://youtu.be/iBBqjGd3fHQ"
+        "musicVideo": "https://www.youtube.com/watch?v=iBBqjGd3fHQ"
       },
       {
         "name": "Torn",
-        "musicVideo": "http://youtu.be/_IooIZbqcBs"
+        "musicVideo": "https://www.youtube.com/watch?v=_IooIZbqcBs"
       },
       {
         "name": "What's This Life For?",
-        "musicVideo": "http://youtu.be/8lKBro5YkPs"
+        "musicVideo": "https://www.youtube.com/watch?v=8lKBro5YkPs"
       }
     ]
   },
@@ -806,7 +806,7 @@
     "songs": [
       {
         "name": "A Girl Like You",
-        "musicVideo": "http://youtu.be/nkKxGzm98AU"
+        "musicVideo": "https://www.youtube.com/watch?v=nkKxGzm98AU"
       }
     ]
   },
@@ -889,7 +889,7 @@
     "songs": [
       {
         "name": "What It's Like",
-        "musicVideo": "http://youtu.be/FMYz5SteBBY"
+        "musicVideo": "https://www.youtube.com/watch?v=FMYz5SteBBY"
       }
     ]
   },
@@ -3063,7 +3063,7 @@
       },
       {
         "name": "Zero",
-        "musicVideo": "http://www.dailymotion.com/video/xcu9m7"
+        "musicVideo": "https://www.dailymotion.com/video/xcu9m7"
       }
     ]
   },

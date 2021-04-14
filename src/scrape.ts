@@ -32,20 +32,35 @@ for (const year of countdown.years) {
 }
 
 const normalizeURL = (url: string | undefined): string | undefined => {
-  const domains = [
-    'facebook.com',
-    'twitter.com',
-    'youtube.com',
-    'vimeo.com'
-  ]
   if (url) {
-    for (const domain of domains) {
+    const domainsStandardized = [
+      'facebook.com',
+      'twitter.com',
+      'youtube.com',
+      'vimeo.com',
+      'dailymotion.com'
+    ]
+    for (const domain of domainsStandardized) {
       if (url.indexOf(domain) !== -1) {
         return `https://www.${url.substr(url.indexOf(domain))}`
       }
     }
+    const domainsShortened = [
+      {
+        short: 'youtu.be/',
+        long: 'youtube.com/watch?v='
+      }
+    ]
+    for (const domain of domainsShortened) {
+      if (url.indexOf(domain.short) !== -1) {
+        return `https://www.${domain.long}${url.substr(url.indexOf(domain.short) + domain.short.length)}`
+      }
+    }
+    console.log(chalk.yellow(`${chalk.bold('URL, Not Normalized:')} ${url}`))
+    return url
+  } else {
+    return url
   }
-  return url
 }
 
 const process = async (artistInformationList: ArtistInformationList) => {
