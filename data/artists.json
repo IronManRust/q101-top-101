@@ -614,7 +614,8 @@
         "musicVideo": "http://youtu.be/_IooIZbqcBs"
       },
       {
-        "name": "What's This Life For"
+        "name": "What's This Life For?",
+        "musicVideo": "http://youtu.be/8lKBro5YkPs"
       }
     ]
   },
@@ -698,9 +699,6 @@
       {
         "name": "Touch, Peel And Stand",
         "musicVideo": "https://www.youtube.com/watch?v=Wg-HZd4Lb2Q"
-      },
-      {
-        "name": "Touch, Peel, And Stand"
       }
     ]
   },
@@ -1403,7 +1401,8 @@
     "id": "114137",
     "songs": [
       {
-        "name": "Do You Sleep"
+        "name": "Do You Sleep?",
+        "musicVideo": "https://www.youtube.com/watch?v=n-Ca62l_X8M"
       },
       {
         "name": "Stay",
@@ -1732,7 +1731,8 @@
         "name": "Dumb"
       },
       {
-        "name": "Heart Shaped Box"
+        "name": "Heart-Shaped Box",
+        "musicVideo": "https://www.youtube.com/watch?v=n6P0SitRwy8"
       },
       {
         "name": "Rape Me"
@@ -1974,7 +1974,8 @@
     "id": "117584",
     "songs": [
       {
-        "name": "Twiggy Twiggy"
+        "name": "Twiggy Twiggy / Twiggy vs. James Bond",
+        "musicVideo": "https://www.youtube.com/watch?v=j_F49QSHuDE"
       }
     ]
   },
@@ -3128,9 +3129,6 @@
         "musicVideo": "https://www.youtube.com/watch?v=1lyu1KKwC74"
       },
       {
-        "name": "Bittersweet Sympthony"
-      },
-      {
         "name": "Lucky Man",
         "musicVideo": "https://www.youtube.com/watch?v=MH6TJU0qWoY"
       }
@@ -3153,9 +3151,6 @@
     "twitter": "https://www.twitter.com/TheWallflowers",
     "songs": [
       {
-        "name": "3 Marlenas"
-      },
-      {
         "name": "6th Avenue Heartache",
         "musicVideo": "https://www.youtube.com/watch?v=kXDiGtgPL6E"
       },
@@ -3170,6 +3165,10 @@
       {
         "name": "The Difference",
         "musicVideo": "https://www.youtube.com/watch?v=5qSAMtomFvk"
+      },
+      {
+        "name": "Three Marlenas",
+        "musicVideo": "https://www.youtube.com/watch?v=RloXtzcCAf8"
       }
     ]
   },
@@ -3290,7 +3289,8 @@
         "name": "All I Want Is You"
       },
       {
-        "name": "Discotheque"
+        "name": "Discothèque",
+        "musicVideo": "https://www.youtube.com/watch?v=p2AjpPNDe-8"
       },
       {
         "name": "Hold Me, Thrill Me, Kiss Me, Kill Me"
@@ -3323,7 +3323,8 @@
     "twitter": "https://www.twitter.com/UB40OFFICIAL",
     "songs": [
       {
-        "name": "Can't Help Falling In Love"
+        "name": "(I Can't Help) Falling In Love With You",
+        "musicVideo": "https://www.youtube.com/watch?v=Ajp0Uaw4rqo"
       }
     ]
   },
@@ -3333,7 +3334,8 @@
     "twitter": "https://www.twitter.com/underworldlive",
     "songs": [
       {
-        "name": "Born Slippy"
+        "name": "Born Slippy (NUXX)",
+        "musicVideo": "https://www.youtube.com/watch?v=XiMrrleH_hI"
       }
     ]
   },
@@ -3403,7 +3405,8 @@
         "musicVideo": "https://www.youtube.com/watch?v=ENXvZ9YRjbo"
       },
       {
-        "name": "Undone (The Sweater Song)"
+        "name": "Undone - The Sweater Song",
+        "musicVideo": "https://www.youtube.com/watch?v=LHQqqM5sr7g"
       }
     ]
   },
@@ -3411,7 +3414,8 @@
     "id": "125279",
     "songs": [
       {
-        "name": "Hobo Humpin Slobo Babe"
+        "name": "Hobo Humpin' Slobo Babe",
+        "musicVideo": "https://www.youtube.com/watch?v=2up7su7CeMU"
       }
     ]
   },
@@ -3431,7 +3435,8 @@
         "musicVideo": "https://www.youtube.com/watch?v=E0E0ynyIUsg"
       },
       {
-        "name": "Thunderkiss '65"
+        "name": "Thunder Kiss '65",
+        "musicVideo": "https://www.youtube.com/watch?v=yPNFVj-pISU"
       }
     ]
   }
