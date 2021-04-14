@@ -1,6 +1,17 @@
 {
   "311": {
+    "id": "112951",
+    "facebook": "https://www.facebook.com/official311",
+    "twitter": "https://www.twitter.com/311",
     "songs": [
+      {
+        "name": "All Mixed Up",
+        "musicVideo": "https://www.youtube.com/watch?v=JjTjtJDZomw"
+      },
+      {
+        "name": "Beautiful Disaster",
+        "musicVideo": "https://www.youtube.com/watch?v=bDQlSUjqsuo"
+      },
       {
         "name": "Do You Right"
       },
@@ -11,544 +22,108 @@
       {
         "name": "Down",
         "musicVideo": "https://www.youtube.com/watch?v=lYBIRHi5-o8"
-      },
-      {
-        "name": "All Mixed Up",
-        "musicVideo": "https://www.youtube.com/watch?v=JjTjtJDZomw"
-      },
-      {
-        "name": "Beautiful Disaster",
-        "musicVideo": "https://www.youtube.com/watch?v=bDQlSUjqsuo"
       }
-    ],
-    "id": "112951",
-    "facebook": "https://www.facebook.com/official311",
-    "twitter": "https://www.twitter.com/311"
+    ]
   },
-  "Stone Temple Pilots": {
+  "10,000 Maniacs": {
+    "id": "114876",
     "songs": [
       {
-        "name": "Plush"
+        "name": "Because The Night",
+        "musicVideo": "https://www.youtube.com/watch?v=zKh1ZRyrQXY"
       },
       {
-        "name": "Sex Type Thing"
+        "name": "Candy Everybody Wants"
       },
       {
-        "name": "Wicked Garden"
-      },
-      {
-        "name": "Interstate Love Song"
-      },
-      {
-        "name": "Big Empty"
-      },
-      {
-        "name": "Creep"
-      },
-      {
-        "name": "Trippin' On A Hole In A Paper Heart"
-      },
-      {
-        "name": "Big Bang Baby",
-        "musicVideo": "https://www.youtube.com/watch?v=G0gAxuvo5rc"
-      },
-      {
-        "name": "Lady Picture Show"
+        "name": "These Are Days"
       }
-    ],
-    "id": "112007",
-    "facebook": "https://www.facebook.com/stpband",
-    "twitter": "https://www.twitter.com/STPBand"
+    ]
   },
-  "Blind Melon": {
+  "1000 Homo DJ's": {
     "songs": [
       {
-        "name": "No Rain",
-        "musicVideo": "https://www.youtube.com/watch?v=qmVn6b7DdpA"
-      },
-      {
-        "name": "Tones Of Home",
-        "musicVideo": "https://www.youtube.com/watch?v=WKJO67NszfA"
-      },
-      {
-        "name": "Galaxie",
-        "musicVideo": "https://www.youtube.com/watch?v=ktZoUHcP0wI"
+        "name": "Supernaut"
       }
-    ],
-    "id": "112304"
-  },
-  "Radiohead": {
-    "songs": [
-      {
-        "name": "Creep",
-        "musicVideo": "https://www.youtube.com/watch?v=XFkzRNyygfk"
-      },
-      {
-        "name": "Stop Whispering"
-      },
-      {
-        "name": "Fake Plastic Trees",
-        "musicVideo": "https://www.youtube.com/watch?v=pKd06s1LNik"
-      }
-    ],
-    "id": "111418",
-    "facebook": "https://www.facebook.com/radiohead",
-    "twitter": "https://www.twitter.com/radiohead"
-  },
-  "The Cranberries": {
-    "songs": [
-      {
-        "name": "Linger",
-        "musicVideo": "https://www.youtube.com/watch?v=G6Kspj3OO0s"
-      },
-      {
-        "name": "Dreams",
-        "musicVideo": "https://www.youtube.com/watch?v=Yam5uK6e-bQ"
-      },
-      {
-        "name": "Zombie",
-        "musicVideo": "https://www.youtube.com/watch?v=Jcwsfns7KPQ"
-      },
-      {
-        "name": "Ridiculous Thoughts"
-      },
-      {
-        "name": "Ode To My Family"
-      },
-      {
-        "name": "Salvation",
-        "musicVideo": "https://www.youtube.com/watch?v=KotlCEGNbh8"
-      },
-      {
-        "name": "Free To Decide"
-      }
-    ],
-    "id": "112943",
-    "facebook": "https://www.facebook.com/TheCranberries/",
-    "twitter": "https://www.twitter.com/The_Cranberries"
-  },
-  "The Smashing Pumpkins": {
-    "songs": [
-      {
-        "name": "Today",
-        "musicVideo": "https://www.youtube.com/watch?v=xmUZ6nCFNoU"
-      },
-      {
-        "name": "Disarm",
-        "musicVideo": "https://www.youtube.com/watch?v=d1acEVmnVhI"
-      },
-      {
-        "name": "Cherub Rock",
-        "musicVideo": "https://www.youtube.com/watch?v=q-KE9lvU810"
-      },
-      {
-        "name": "Landslide"
-      },
-      {
-        "name": "Mayonnaise"
-      },
-      {
-        "name": "Rocket",
-        "musicVideo": "https://www.youtube.com/watch?v=Th-AqMvvBzE"
-      },
-      {
-        "name": "Bullet With Butterfly Wings",
-        "musicVideo": "https://www.youtube.com/watch?v=8-r-V0uK4u0"
-      },
-      {
-        "name": "Never Let Me Down Again"
-      },
-      {
-        "name": "1979",
-        "musicVideo": "https://www.youtube.com/watch?v=4aeETEoNfOg"
-      },
-      {
-        "name": "Tonight, Tonight",
-        "musicVideo": "https://www.youtube.com/watch?v=NOG3eus4ZSo"
-      },
-      {
-        "name": "Zero",
-        "musicVideo": "http://www.dailymotion.com/video/xcu9m7"
-      },
-      {
-        "name": "Muzzle"
-      },
-      {
-        "name": "Eye"
-      },
-      {
-        "name": "Thirty-Three",
-        "musicVideo": "https://www.youtube.com/watch?v=AYSbztCCTlA"
-      },
-      {
-        "name": "The End Is The Beginning Is The End"
-      }
-    ],
-    "id": "111999",
-    "facebook": "https://www.facebook.com/smashingpumpkins",
-    "twitter": "https://www.twitter.com/smashingpumpkin"
-  },
-  "Soul Asylum": {
-    "songs": [
-      {
-        "name": "Runaway Train",
-        "musicVideo": "https://www.youtube.com/watch?v=NRtvqT_wMeY"
-      },
-      {
-        "name": "Black Gold"
-      },
-      {
-        "name": "Sexual Healing"
-      },
-      {
-        "name": "Misery"
-      },
-      {
-        "name": "Just Like Anyone"
-      }
-    ],
-    "id": "113067",
-    "facebook": "https://www.facebook.com/SoulAsylum",
-    "twitter": "https://www.twitter.com/soulasylum"
-  },
-  "Pearl Jam": {
-    "songs": [
-      {
-        "name": "Daughter",
-        "musicVideo": "https://www.youtube.com/watch?v=zgUwd2Gkb-E"
-      },
-      {
-        "name": "Black",
-        "musicVideo": "https://www.youtube.com/watch?v=pOM-h-bCHVA"
-      },
-      {
-        "name": "Go"
-      },
-      {
-        "name": "Crazy Mary"
-      },
-      {
-        "name": "Yellow Ledbetter"
-      },
-      {
-        "name": "Elderly Woman Behind The Counter In A Small Town"
-      },
-      {
-        "name": "Dissident"
-      },
-      {
-        "name": "Not For You"
-      },
-      {
-        "name": "Better Man",
-        "musicVideo": "https://www.youtube.com/watch?v=_4BObpNQqNo"
-      },
-      {
-        "name": "Glorified G"
-      },
-      {
-        "name": "Nothingman"
-      },
-      {
-        "name": "Corduroy"
-      },
-      {
-        "name": "Whipping"
-      },
-      {
-        "name": "Immortality"
-      },
-      {
-        "name": "Hail Hail"
-      },
-      {
-        "name": "I Got ID"
-      },
-      {
-        "name": "Who You Are"
-      }
-    ],
-    "id": "111341",
-    "facebook": "https://www.facebook.com/PearlJam",
-    "twitter": "https://www.twitter.com/pearljam"
-  },
-  "Gin Blossoms": {
-    "songs": [
-      {
-        "name": "Hey Jealousy"
-      },
-      {
-        "name": "Found Out About You"
-      },
-      {
-        "name": "Mrs. Rita"
-      },
-      {
-        "name": "Until I Fall Away"
-      },
-      {
-        "name": "Til I Heard It From You"
-      }
-    ],
-    "id": "117712",
-    "facebook": "https://www.facebook.com/pages/Gin-Blossoms/10194655949"
-  },
-  "Red Hot Chili Peppers": {
-    "songs": [
-      {
-        "name": "Soul To Squeeze"
-      },
-      {
-        "name": "Warped",
-        "musicVideo": "https://www.youtube.com/watch?v=xmyuJZH3RAc"
-      },
-      {
-        "name": "My Friends"
-      },
-      {
-        "name": "Aeroplane",
-        "musicVideo": "https://www.youtube.com/watch?v=vV8IAOojoAA"
-      },
-      {
-        "name": "Love Rollercoaster"
-      }
-    ],
-    "id": "111507",
-    "facebook": "https://www.facebook.com/ChiliPeppers",
-    "twitter": "https://www.twitter.com/ChiliPeppers"
-  },
-  "Duran Duran": {
-    "songs": [
-      {
-        "name": "Ordinary World"
-      },
-      {
-        "name": "Come Undone"
-      },
-      {
-        "name": "Too Much Information"
-      },
-      {
-        "name": "White Lines"
-      },
-      {
-        "name": "Electric Barbarella"
-      }
-    ],
-    "id": "111332",
-    "facebook": "https://www.facebook.com/duranduran",
-    "twitter": "https://www.twitter.com/duranduran"
-  },
-  "The Breeders": {
-    "songs": [
-      {
-        "name": "Cannonball",
-        "musicVideo": "https://www.youtube.com/watch?v=fxvkI9MTQw4"
-      }
-    ],
-    "id": "113103",
-    "facebook": "https://www.facebook.com/thebreeders",
-    "twitter": "https://www.twitter.com/thebreeders"
-  },
-  "Nirvana": {
-    "songs": [
-      {
-        "name": "Heart Shaped Box"
-      },
-      {
-        "name": "Rape Me"
-      },
-      {
-        "name": "Verse Chorus Verse"
-      },
-      {
-        "name": "All Apologies",
-        "musicVideo": "https://www.youtube.com/watch?v=aWmkuH1k7uA"
-      },
-      {
-        "name": "About A Girl",
-        "musicVideo": "https://www.youtube.com/watch?v=AhcttcXcRYY"
-      },
-      {
-        "name": "Dumb"
-      },
-      {
-        "name": "The Man Who Sold The World",
-        "musicVideo": "https://www.youtube.com/watch?v=fregObNcHC8"
-      },
-      {
-        "name": "Aneurysm"
-      }
-    ],
-    "id": "111319",
-    "facebook": "https://www.facebook.com/Nirvana",
-    "twitter": "https://www.twitter.com/Nirvana"
+    ]
   },
   "4 Non Blondes": {
+    "id": "113643",
     "songs": [
       {
         "name": "What's Up"
       }
-    ],
-    "id": "113643"
+    ]
   },
-  "Tears For Fears": {
+  "Abra Moore": {
+    "id": "119501",
     "songs": [
       {
-        "name": "Break It Down Again",
-        "musicVideo": "https://www.youtube.com/watch?v=x1100QINlo4"
+        "name": "Four Leaf Clover"
       }
-    ],
-    "id": "112268"
-  },
-  "Porno For Pyros": {
-    "songs": [
-      {
-        "name": "Pets"
-      },
-      {
-        "name": "Tahitian Moon"
-      }
-    ],
-    "id": "112937"
-  },
-  "Cracker": {
-    "songs": [
-      {
-        "name": "Low",
-        "musicVideo": "https://www.youtube.com/watch?v=gYdlqjiQPAc"
-      },
-      {
-        "name": "Get Off This"
-      },
-      {
-        "name": "Eurotrash Girl"
-      }
-    ],
-    "id": "115110"
-  },
-  "Spin Doctors": {
-    "songs": [
-      {
-        "name": "Two Princes",
-        "musicVideo": "https://www.youtube.com/watch?v=wsdy_rct6uo"
-      }
-    ],
-    "id": "112213",
-    "facebook": "https://www.facebook.com/spindoctorsband",
-    "twitter": "https://www.twitter.com/spindoctorsband"
-  },
-  "New Order": {
-    "songs": [
-      {
-        "name": "Regret",
-        "musicVideo": "https://www.youtube.com/watch?v=IHGYkYBD0h4"
-      },
-      {
-        "name": "World (The Price Of Love)"
-      }
-    ],
-    "id": "111519",
-    "facebook": "https://www.facebook.com/NewOrderOfficial",
-    "twitter": "https://www.twitter.com/peter_hook1"
-  },
-  "U2": {
-    "songs": [
-      {
-        "name": "Numb",
-        "musicVideo": "https://www.youtube.com/watch?v=zvUu0drDZkg"
-      },
-      {
-        "name": "Lemon"
-      },
-      {
-        "name": "Stay (Faraway So Close)"
-      },
-      {
-        "name": "All I Want Is You"
-      },
-      {
-        "name": "Hold Me, Thrill Me, Kiss Me, Kill Me"
-      },
-      {
-        "name": "Staring At The Sun"
-      },
-      {
-        "name": "Discotheque"
-      },
-      {
-        "name": "Last Night On Earth",
-        "musicVideo": "https://www.youtube.com/watch?v=gKr3Ov5szbU"
-      }
-    ],
-    "id": "112045",
-    "facebook": "https://www.facebook.com/u2",
-    "twitter": "https://www.twitter.com/#!/u2com"
+    ]
   },
   "Ace Of Base": {
+    "id": "111376",
+    "facebook": "https://www.facebook.com/aceofbase",
+    "twitter": "https://www.twitter.com/aceofbase",
     "songs": [
       {
         "name": "All That She Wants",
         "musicVideo": "https://www.youtube.com/watch?v=d73tiBBzvFM"
       }
-    ],
-    "id": "111376",
-    "facebook": "https://www.facebook.com/aceofbase",
-    "twitter": "https://www.twitter.com/aceofbase"
+    ]
   },
-  "Depeche Mode": {
+  "Adam Ant": {
+    "id": "115769",
     "songs": [
       {
-        "name": "I Feel You",
-        "musicVideo": "https://www.youtube.com/watch?v=SYoH4yYmdSk"
-      },
-      {
-        "name": "Walking In My Shoes",
-        "musicVideo": "https://www.youtube.com/watch?v=-4YEW8uibkY"
-      },
-      {
-        "name": "Condemnation"
-      },
-      {
-        "name": "It's No Good",
-        "musicVideo": "https://www.youtube.com/watch?v=_-QPvffO1gs"
-      },
-      {
-        "name": "Barrel Of A Gun",
-        "musicVideo": "https://www.youtube.com/watch?v=V7GCrTFCXYo"
+        "name": "Wonderful"
       }
-    ],
-    "id": "111295",
-    "facebook": "https://www.facebook.com/depechemode",
-    "twitter": "https://www.twitter.com/depechemode"
+    ]
   },
-  "Belly": {
+  "Afghan Whigs": {
     "songs": [
       {
-        "name": "Feed The Tree"
+        "name": "Gentlemen"
+      }
+    ]
+  },
+  "Alanis Morissette": {
+    "id": "111343",
+    "facebook": "https://www.facebook.com/alanismorissette",
+    "twitter": "https://www.twitter.com/morissette",
+    "songs": [
+      {
+        "name": "All I Really Want"
       },
       {
-        "name": "Slow Dog"
+        "name": "Hand In My Pocket"
       },
       {
-        "name": "Gepetto"
+        "name": "Head Over Feet",
+        "musicVideo": "https://www.youtube.com/watch?v=4iuO49jbovg"
+      },
+      {
+        "name": "Ironic",
+        "musicVideo": "https://www.youtube.com/watch?v=Jne9t8sHpUc"
+      },
+      {
+        "name": "You Learn"
+      },
+      {
+        "name": "You Oughta Know",
+        "musicVideo": "https://www.youtube.com/watch?v=NPcyTyilmYY"
       }
     ]
   },
   "Alice In Chains": {
+    "id": "111618",
+    "facebook": "https://www.facebook.com/aliceinchains",
+    "twitter": "https://www.twitter.com/#!/AliceInChains",
     "songs": [
       {
-        "name": "Rooster",
-        "musicVideo": "https://www.youtube.com/watch?v=uAE6Il6OTcs"
-      },
-      {
         "name": "Angry Chair"
-      },
-      {
-        "name": "No Excuses"
-      },
-      {
-        "name": "I Stay Away"
       },
       {
         "name": "Got Me Wrong"
@@ -559,20 +134,1017 @@
       {
         "name": "Heaven Beside You",
         "musicVideo": "https://www.youtube.com/watch?v=TEAylKJb-to"
+      },
+      {
+        "name": "I Stay Away"
+      },
+      {
+        "name": "No Excuses"
+      },
+      {
+        "name": "Rooster",
+        "musicVideo": "https://www.youtube.com/watch?v=uAE6Il6OTcs"
       }
-    ],
-    "id": "111618",
-    "facebook": "https://www.facebook.com/aliceinchains",
-    "twitter": "https://www.twitter.com/#!/AliceInChains"
+    ]
   },
-  "Stereo MC's": {
+  "Arrested Development": {
+    "id": "113741",
+    "facebook": "https://www.facebook.com/pages/Arrested-Development/32081803388",
+    "twitter": "https://www.twitter.com/ADtheBAND",
     "songs": [
       {
-        "name": "Connected"
+        "name": "Mr. Wendal",
+        "musicVideo": "https://www.youtube.com/watch?v=wyDjRd0Tjss"
+      }
+    ]
+  },
+  "Ass Ponys": {
+    "id": "141885",
+    "songs": [
+      {
+        "name": "Little Bastard"
+      }
+    ]
+  },
+  "Bad Religion": {
+    "id": "112954",
+    "facebook": "https://www.facebook.com/badreligion",
+    "twitter": "https://www.twitter.com/badreligion",
+    "songs": [
+      {
+        "name": "21st Century Digital Boy"
+      },
+      {
+        "name": "Infected",
+        "musicVideo": "https://www.youtube.com/watch?v=Ik9ofiRTTQM"
+      }
+    ]
+  },
+  "Beastie Boys": {
+    "id": "111414",
+    "facebook": "https://www.facebook.com/beastieboys",
+    "twitter": "https://www.twitter.com/#!/beastieboys",
+    "songs": [
+      {
+        "name": "Sabotage",
+        "musicVideo": "https://www.youtube.com/watch?v=z5rRZdiu1UE"
+      },
+      {
+        "name": "Sure Shot",
+        "musicVideo": "https://www.youtube.com/watch?v=JhqyZeUlE8U"
+      }
+    ]
+  },
+  "Beck": {
+    "id": "111657",
+    "facebook": "https://www.facebook.com/Beck",
+    "twitter": "https://www.twitter.com/#!/beck",
+    "songs": [
+      {
+        "name": "Deadweight"
+      },
+      {
+        "name": "Devil's Haircut"
+      },
+      {
+        "name": "Jack-Ass"
+      },
+      {
+        "name": "Loser",
+        "musicVideo": "https://www.youtube.com/watch?v=YgSPaXgAdzE"
+      },
+      {
+        "name": "The New Pollution"
+      },
+      {
+        "name": "Where It's At"
+      }
+    ]
+  },
+  "Belly": {
+    "songs": [
+      {
+        "name": "Feed The Tree"
+      },
+      {
+        "name": "Gepetto"
+      },
+      {
+        "name": "Slow Dog"
+      }
+    ]
+  },
+  "Ben Folds Five": {
+    "id": "112298",
+    "facebook": "https://www.facebook.com/BenFolds",
+    "twitter": "https://www.twitter.com/BenFolds",
+    "songs": [
+      {
+        "name": "Battle Of Who Could Care Less",
+        "musicVideo": "https://www.youtube.com/watch?v=0Y1wm7CFRCQ"
+      },
+      {
+        "name": "Brick",
+        "musicVideo": "https://www.youtube.com/watch?v=IJWBIgJR4EQ"
+      }
+    ]
+  },
+  "Better Than Ezra": {
+    "id": "114179",
+    "facebook": "https://www.facebook.com/BetterThanEzra",
+    "twitter": "https://www.twitter.com/betterthanezra",
+    "songs": [
+      {
+        "name": "Good",
+        "musicVideo": "https://www.youtube.com/watch?v=Zhs0JD6XJyQ"
+      },
+      {
+        "name": "In The Blood"
+      }
+    ]
+  },
+  "Bjork": {
+    "songs": [
+      {
+        "name": "Big Time Sensuality"
+      },
+      {
+        "name": "Human Behaviour"
+      },
+      {
+        "name": "It's Oh So Quiet"
+      }
+    ]
+  },
+  "Blind Melon": {
+    "id": "112304",
+    "songs": [
+      {
+        "name": "Galaxie",
+        "musicVideo": "https://www.youtube.com/watch?v=ktZoUHcP0wI"
+      },
+      {
+        "name": "No Rain",
+        "musicVideo": "https://www.youtube.com/watch?v=qmVn6b7DdpA"
+      },
+      {
+        "name": "Tones Of Home",
+        "musicVideo": "https://www.youtube.com/watch?v=WKJO67NszfA"
+      }
+    ]
+  },
+  "Blink-182": {
+    "id": "111660",
+    "facebook": "https://www.facebook.com/blink182",
+    "twitter": "https://www.twitter.com/#!/blink182",
+    "songs": [
+      {
+        "name": "Dammit",
+        "musicVideo": "https://www.youtube.com/watch?v=sT0g16_LQaQ"
+      }
+    ]
+  },
+  "Bloodhound Gang": {
+    "id": "112306",
+    "facebook": "https://www.facebook.com/bloodhoundgang",
+    "twitter": "https://www.twitter.com/bloodhoundgang",
+    "songs": [
+      {
+        "name": "Fire Water Burn",
+        "musicVideo": "https://www.youtube.com/watch?v=Adgx9wt63NY"
+      }
+    ]
+  },
+  "Blues Traveler": {
+    "id": "112959",
+    "songs": [
+      {
+        "name": "Hook"
+      },
+      {
+        "name": "Runaround"
+      }
+    ]
+  },
+  "Blur": {
+    "id": "111479",
+    "facebook": "https://www.facebook.com/blur",
+    "twitter": "https://www.twitter.com/#!/blurofficial",
+    "songs": [
+      {
+        "name": "Girls And Boys"
+      },
+      {
+        "name": "M.O.R.",
+        "musicVideo": "https://www.youtube.com/watch?v=QEGNwMrsy30"
+      },
+      {
+        "name": "Song 2",
+        "musicVideo": "https://www.youtube.com/watch?v=SSbBvKaM6sk"
+      }
+    ]
+  },
+  "Buffalo Tom": {
+    "id": "115017",
+    "songs": [
+      {
+        "name": "Sodajerk",
+        "musicVideo": "https://www.youtube.com/watch?v=7EUOVya_5RQ"
+      }
+    ]
+  },
+  "Bush": {
+    "id": "111495",
+    "facebook": "https://www.facebook.com/BushOfficial",
+    "twitter": "https://www.twitter.com/#!/bushofficial",
+    "songs": [
+      {
+        "name": "Cold Contagious"
+      },
+      {
+        "name": "Come Down"
+      },
+      {
+        "name": "Everything Zen",
+        "musicVideo": "https://www.youtube.com/watch?v=Ps317u9Rhl0"
+      },
+      {
+        "name": "Glycerine",
+        "musicVideo": "https://www.youtube.com/watch?v=hOllF3TgAsM"
+      },
+      {
+        "name": "Greedy Fly"
+      },
+      {
+        "name": "Little Things",
+        "musicVideo": "https://www.youtube.com/watch?v=02K82uw4lio"
+      },
+      {
+        "name": "Machinehead",
+        "musicVideo": "https://www.youtube.com/watch?v=Er1bwzZCik0"
+      },
+      {
+        "name": "Mouth"
+      },
+      {
+        "name": "Swallowed",
+        "musicVideo": "https://www.youtube.com/watch?v=8FIBPKRV3kk"
+      }
+    ]
+  },
+  "Butthole Surfers": {
+    "id": "112710",
+    "songs": [
+      {
+        "name": "Pepper",
+        "musicVideo": "https://www.youtube.com/watch?v=8IvoHN3mgpM"
+      }
+    ]
+  },
+  "CIV": {
+    "id": "117875",
+    "songs": [
+      {
+        "name": "Can't Wait One Minute More"
+      }
+    ]
+  },
+  "Cake": {
+    "id": "112961",
+    "songs": [
+      {
+        "name": "Rock n' Roll Lifestyle"
+      },
+      {
+        "name": "The Distance",
+        "musicVideo": "https://www.youtube.com/watch?v=BsYWoXT_UEw"
+      }
+    ]
+  },
+  "Candlebox": {
+    "id": "115109",
+    "facebook": "https://www.facebook.com/candlebox",
+    "twitter": "https://www.twitter.com/candleboxrocks",
+    "songs": [
+      {
+        "name": "Far Behind"
+      },
+      {
+        "name": "Simple Lessons"
+      },
+      {
+        "name": "You"
+      }
+    ]
+  },
+  "Chumbawumba": {
+    "songs": [
+      {
+        "name": "Tubthumping"
+      }
+    ]
+  },
+  "Collective Soul": {
+    "id": "112200",
+    "facebook": "https://www.facebook.com/collectivesoul",
+    "twitter": "https://www.twitter.com/#!/CollectiveSoul",
+    "songs": [
+      {
+        "name": "December",
+        "musicVideo": "https://www.youtube.com/watch?v=6exsatE-DUk"
+      },
+      {
+        "name": "Shine",
+        "musicVideo": "https://www.youtube.com/watch?v=_m0bI82Rz_k"
+      },
+      {
+        "name": "The World I Know",
+        "musicVideo": "https://www.youtube.com/watch?v=n7TLTjqUyog"
+      }
+    ]
+  },
+  "Counting Crows": {
+    "id": "111691",
+    "songs": [
+      {
+        "name": "A Long December"
+      },
+      {
+        "name": "A Murder Of One"
+      },
+      {
+        "name": "Angels Of The Silences"
+      },
+      {
+        "name": "Daylight Fading"
+      },
+      {
+        "name": "Einstein On The Beach"
+      },
+      {
+        "name": "Mr. Jones",
+        "musicVideo": "https://www.youtube.com/watch?v=-oqAU5VxFWs"
+      },
+      {
+        "name": "Rain King"
+      },
+      {
+        "name": "Round Here"
+      }
+    ]
+  },
+  "Cowboy Junkies": {
+    "id": "120394",
+    "songs": [
+      {
+        "name": "Sweet Jane"
+      }
+    ]
+  },
+  "Cracker": {
+    "id": "115110",
+    "songs": [
+      {
+        "name": "Eurotrash Girl"
+      },
+      {
+        "name": "Get Off This"
+      },
+      {
+        "name": "Low",
+        "musicVideo": "https://www.youtube.com/watch?v=gYdlqjiQPAc"
+      }
+    ]
+  },
+  "Cranes": {
+    "id": "128372",
+    "songs": [
+      {
+        "name": "Everywhere"
+      }
+    ]
+  },
+  "Crash Test Dummies": {
+    "id": "115268",
+    "facebook": "https://www.facebook.com/pages/Crash-Test-Dummies/152157364820371",
+    "twitter": "https://www.twitter.com/CTDBrad",
+    "songs": [
+      {
+        "name": "MMM MMM MMM MMM",
+        "musicVideo": "https://www.youtube.com/watch?v=vIbcqgXh5-4"
+      }
+    ]
+  },
+  "Creed": {
+    "id": "112321",
+    "facebook": "https://www.facebook.com/Creed",
+    "twitter": "https://www.twitter.com/creed",
+    "songs": [
+      {
+        "name": "My Own Prison",
+        "musicVideo": "http://youtu.be/iBBqjGd3fHQ"
+      }
+    ]
+  },
+  "Cypress Hill": {
+    "id": "111695",
+    "facebook": "https://www.facebook.com/cypresshill",
+    "twitter": "https://www.twitter.com/Cypress_Hill",
+    "songs": [
+      {
+        "name": "Insane In The Brain",
+        "musicVideo": "https://www.youtube.com/watch?v=RijB8wnJCN0"
+      }
+    ]
+  },
+  "Dada": {
+    "songs": [
+      {
+        "name": "Dizz Knee Land"
+      }
+    ]
+  },
+  "Daft Punk": {
+    "id": "111492",
+    "facebook": "https://www.facebook.com/daftpunk",
+    "twitter": "https://www.twitter.com/daftpunk",
+    "songs": [
+      {
+        "name": "Da Funk",
+        "musicVideo": "https://www.youtube.com/watch?v=mmi60Bd4jSs"
+      }
+    ]
+  },
+  "Dave Matthews Band": {
+    "id": "111703",
+    "facebook": "https://www.facebook.com/davematthewsband",
+    "twitter": "https://www.twitter.com/davematthewsbnd",
+    "songs": [
+      {
+        "name": "Ants Marching"
+      },
+      {
+        "name": "Crash Into Me",
+        "musicVideo": "https://www.youtube.com/watch?v=WqEOvEoCV3w"
+      },
+      {
+        "name": "So Much To Say",
+        "musicVideo": "https://www.youtube.com/watch?v=hYt_3ZKEIKI"
+      },
+      {
+        "name": "Too Much"
+      },
+      {
+        "name": "Trippin' Billies"
+      },
+      {
+        "name": "What Would You Say"
+      }
+    ]
+  },
+  "Days Of The New": {
+    "id": "114344",
+    "songs": [
+      {
+        "name": "Touch, Peel, And Stand"
+      }
+    ]
+  },
+  "Depeche Mode": {
+    "id": "111295",
+    "facebook": "https://www.facebook.com/depechemode",
+    "twitter": "https://www.twitter.com/depechemode",
+    "songs": [
+      {
+        "name": "Barrel Of A Gun",
+        "musicVideo": "https://www.youtube.com/watch?v=V7GCrTFCXYo"
+      },
+      {
+        "name": "Condemnation"
+      },
+      {
+        "name": "I Feel You",
+        "musicVideo": "https://www.youtube.com/watch?v=SYoH4yYmdSk"
+      },
+      {
+        "name": "It's No Good",
+        "musicVideo": "https://www.youtube.com/watch?v=_-QPvffO1gs"
+      },
+      {
+        "name": "Walking In My Shoes",
+        "musicVideo": "https://www.youtube.com/watch?v=-4YEW8uibkY"
+      }
+    ]
+  },
+  "Dig": {
+    "id": "121287",
+    "songs": [
+      {
+        "name": "Believe"
+      }
+    ]
+  },
+  "Dinosaur Jr.": {
+    "id": "112779",
+    "facebook": "https://www.facebook.com/DinosaurJr",
+    "twitter": "https://www.twitter.com/dinosaurjr",
+    "songs": [
+      {
+        "name": "Feel the Pain",
+        "musicVideo": "https://www.youtube.com/watch?v=OQZmrdwK7YM"
+      },
+      {
+        "name": "Start Choppin"
+      }
+    ]
+  },
+  "Dishwalla": {
+    "id": "114646",
+    "songs": [
+      {
+        "name": "Counting Blue Cars"
+      }
+    ]
+  },
+  "Duran Duran": {
+    "id": "111332",
+    "facebook": "https://www.facebook.com/duranduran",
+    "twitter": "https://www.twitter.com/duranduran",
+    "songs": [
+      {
+        "name": "Come Undone"
+      },
+      {
+        "name": "Electric Barbarella"
+      },
+      {
+        "name": "Ordinary World"
+      },
+      {
+        "name": "Too Much Information"
+      },
+      {
+        "name": "White Lines"
+      }
+    ]
+  },
+  "Edwyn Collins": {
+    "id": "125632",
+    "songs": [
+      {
+        "name": "A Girl Like You",
+        "musicVideo": "http://youtu.be/nkKxGzm98AU"
+      }
+    ]
+  },
+  "Eels": {
+    "id": "112650",
+    "facebook": "https://www.facebook.com/THEEELS",
+    "twitter": "https://www.twitter.com/THE_EELS",
+    "songs": [
+      {
+        "name": "Novocaine For The Soul",
+        "musicVideo": "https://www.youtube.com/watch?v=V2yy141q8HQ"
+      }
+    ]
+  },
+  "Elastica": {
+    "id": "120399",
+    "songs": [
+      {
+        "name": "Connection",
+        "musicVideo": "https://www.youtube.com/watch?v=ilKcXIFi-Rc"
+      },
+      {
+        "name": "Stutter",
+        "musicVideo": "https://www.youtube.com/watch?v=0ie4x8hWYYE"
+      }
+    ]
+  },
+  "Erasure": {
+    "id": "112233",
+    "facebook": "https://www.facebook.com/erasureinfo",
+    "twitter": "https://www.twitter.com/erasureinfo",
+    "songs": [
+      {
+        "name": "Always"
+      }
+    ]
+  },
+  "Everclear": {
+    "id": "113201",
+    "facebook": "https://www.facebook.com/everclear?fref=ts",
+    "twitter": "https://www.twitter.com/EverclearBand",
+    "songs": [
+      {
+        "name": "Everything To Everyone",
+        "musicVideo": "https://www.youtube.com/watch?v=D1vQJFF2TKQ"
+      },
+      {
+        "name": "Heartspark Dollarsign",
+        "musicVideo": "https://www.youtube.com/watch?v=_9Pop985sJQ"
+      },
+      {
+        "name": "Santa Monica",
+        "musicVideo": "https://www.youtube.com/watch?v=MW6E_TNgCsY"
+      }
+    ]
+  },
+  "Filter": {
+    "id": "113030",
+    "facebook": "https://www.facebook.com/Filter",
+    "twitter": "https://www.twitter.com/OfficialFilter",
+    "songs": [
+      {
+        "name": "Hey Man Nice Shot",
+        "musicVideo": "https://www.youtube.com/watch?v=o9mJ82x_l-E"
+      },
+      {
+        "name": "Jurassitol"
+      }
+    ]
+  },
+  "Fiona Apple": {
+    "id": "112092",
+    "songs": [
+      {
+        "name": "Criminal",
+        "musicVideo": "https://www.youtube.com/watch?v=FFOzayDpWoI"
+      },
+      {
+        "name": "Shadowboxer"
+      },
+      {
+        "name": "Sleep To Dream"
+      }
+    ]
+  },
+  "Flaming Lips": {
+    "songs": [
+      {
+        "name": "She Don't Use Jelly"
+      }
+    ]
+  },
+  "Folk Implosion": {
+    "songs": [
+      {
+        "name": "Natural One"
+      }
+    ]
+  },
+  "Foo Fighters": {
+    "id": "111233",
+    "facebook": "https://www.facebook.com/foofighters",
+    "twitter": "https://www.twitter.com/foofighters",
+    "songs": [
+      {
+        "name": "Along + Easy Target"
+      },
+      {
+        "name": "Big Me",
+        "musicVideo": "https://www.youtube.com/watch?v=pLdJQFTnZfA"
+      },
+      {
+        "name": "Everlong",
+        "musicVideo": "https://www.youtube.com/watch?v=eBG7P-K-r1Y"
+      },
+      {
+        "name": "I'll Stick Around",
+        "musicVideo": "https://www.youtube.com/watch?v=X_rTTsZZ9KE"
+      },
+      {
+        "name": "Monkey Wrench",
+        "musicVideo": "https://www.youtube.com/watch?v=I7rCNiiNPxA"
+      },
+      {
+        "name": "This Is A Call"
+      }
+    ]
+  },
+  "For Squirrels": {
+    "id": "159016",
+    "songs": [
+      {
+        "name": "Mighty K.C."
+      }
+    ]
+  },
+  "Forest For The Trees": {
+    "id": "142809",
+    "songs": [
+      {
+        "name": "Dream"
+      }
+    ]
+  },
+  "Frank Black": {
+    "id": "112987",
+    "songs": [
+      {
+        "name": "Hang On To Your Ego"
+      }
+    ]
+  },
+  "Fun Lovin' Criminals": {
+    "id": "117372",
+    "facebook": "https://www.facebook.com/funlovincriminals",
+    "twitter": "https://www.twitter.com/funlovincrims",
+    "songs": [
+      {
+        "name": "Scooby Snacks"
+      }
+    ]
+  },
+  "Garbage": {
+    "id": "111739",
+    "songs": [
+      {
+        "name": "#1 Crush",
+        "musicVideo": "https://www.youtube.com/watch?v=PX7LLua5NCM&list=RDEMHaYictvO-3kCRyUqz3lLxw&index=5"
+      },
+      {
+        "name": "Only Happy When It Rains",
+        "musicVideo": "https://www.youtube.com/watch?v=GpBFOJ3R0M4"
+      },
+      {
+        "name": "Queer",
+        "musicVideo": "https://www.youtube.com/watch?v=3ppiohVRZ0s"
+      },
+      {
+        "name": "Stupid Girl",
+        "musicVideo": "https://www.youtube.com/watch?v=2GhPUAVgHZc"
+      }
+    ]
+  },
+  "Geggy Tah": {
+    "id": "129363",
+    "songs": [
+      {
+        "name": "Whoever You Are"
+      }
+    ]
+  },
+  "Gin Blossoms": {
+    "id": "117712",
+    "facebook": "https://www.facebook.com/pages/Gin-Blossoms/10194655949",
+    "songs": [
+      {
+        "name": "Found Out About You"
+      },
+      {
+        "name": "Hey Jealousy"
+      },
+      {
+        "name": "Mrs. Rita"
+      },
+      {
+        "name": "Til I Heard It From You"
+      },
+      {
+        "name": "Until I Fall Away"
+      }
+    ]
+  },
+  "Goldfinger": {
+    "id": "112992",
+    "facebook": "https://www.facebook.com/goldfingermusic",
+    "twitter": "https://www.twitter.com/goldfingermusic",
+    "songs": [
+      {
+        "name": "Here In Your Bedroom"
+      },
+      {
+        "name": "Mable"
+      },
+      {
+        "name": "This Lonely Place"
+      }
+    ]
+  },
+  "Goo Goo Dolls": {
+    "id": "111788",
+    "facebook": "https://www.facebook.com/googoodolls",
+    "twitter": "https://www.twitter.com/#!/googoodolls",
+    "songs": [
+      {
+        "name": "Naked",
+        "musicVideo": "https://www.youtube.com/watch?v=yWBuvaMvdt4"
+      },
+      {
+        "name": "Name",
+        "musicVideo": "https://www.youtube.com/watch?v=yQOBUrRaPU0"
+      }
+    ]
+  },
+  "Gravity Kills": {
+    "id": "111791",
+    "songs": [
+      {
+        "name": "Guilty"
+      }
+    ]
+  },
+  "Green Day": {
+    "id": "111486",
+    "facebook": "https://www.facebook.com/GreenDay",
+    "twitter": "https://www.twitter.com/GreenDay",
+    "songs": [
+      {
+        "name": "Basket Case",
+        "musicVideo": "https://www.youtube.com/watch?v=NUTGr5t3MoY"
+      },
+      {
+        "name": "Brain Stew",
+        "musicVideo": "https://www.youtube.com/watch?v=UNq9gmY_Oz4"
+      },
+      {
+        "name": "Geek Stink Breath",
+        "musicVideo": "https://www.youtube.com/watch?v=fr2T-Rcgq1c&has_verified=1"
+      },
+      {
+        "name": "Hitchin' A Ride",
+        "musicVideo": "https://www.youtube.com/watch?v=4Sc81yxo600"
+      },
+      {
+        "name": "J.A.R. (Jason Andrew Relva)"
+      },
+      {
+        "name": "Longview",
+        "musicVideo": "https://www.youtube.com/watch?v=Vy5XR-oxCus"
+      },
+      {
+        "name": "She"
+      },
+      {
+        "name": "Walking Contradiction",
+        "musicVideo": "https://www.youtube.com/watch?v=UymN5scMpZM"
+      },
+      {
+        "name": "Welcome To Paradise"
+      },
+      {
+        "name": "When I Come Around",
+        "musicVideo": "https://www.youtube.com/watch?v=i8dh9gDzmz8"
+      }
+    ]
+  },
+  "Hole": {
+    "id": "112237",
+    "songs": [
+      {
+        "name": "Asking For It"
+      },
+      {
+        "name": "Doll Parts",
+        "musicVideo": "https://www.youtube.com/watch?v=RD9xK9smth4"
+      },
+      {
+        "name": "Gold Dust Woman"
+      },
+      {
+        "name": "Miss World"
+      },
+      {
+        "name": "Softer, Softest"
+      },
+      {
+        "name": "Violet",
+        "musicVideo": "https://www.youtube.com/watch?v=cH_rfGBwamc"
+      }
+    ]
+  },
+  "Hum": {
+    "id": "117752",
+    "songs": [
+      {
+        "name": "Stars"
+      }
+    ]
+  },
+  "James": {
+    "id": "116601",
+    "songs": [
+      {
+        "name": "Laid",
+        "musicVideo": "https://www.youtube.com/watch?v=g_qZ5B-yioU"
+      }
+    ]
+  },
+  "Jamiroquai": {
+    "id": "111571",
+    "facebook": "https://www.facebook.com/JamiroquaiOfficialShare",
+    "twitter": "https://www.twitter.com/funkindotcom",
+    "songs": [
+      {
+        "name": "Virtual Insanity",
+        "musicVideo": "https://www.youtube.com/watch?v=4JkIs37a2JE"
+      }
+    ]
+  },
+  "Jars Of Clay": {
+    "id": "115039",
+    "twitter": "https://www.twitter.com/jarsofclay",
+    "songs": [
+      {
+        "name": "Flood"
+      }
+    ]
+  },
+  "Jennifer Trynin": {
+    "songs": [
+      {
+        "name": "Better Than Nothing"
+      }
+    ]
+  },
+  "Jewel": {
+    "songs": [
+      {
+        "name": "Who Will Save Your Soul?"
+      },
+      {
+        "name": "You Were Meant For Me"
+      }
+    ]
+  },
+  "Jill Sobule": {
+    "id": "117285",
+    "songs": [
+      {
+        "name": "I Kissed A Girl"
+      }
+    ]
+  },
+  "Joan Osborne": {
+    "id": "117906",
+    "facebook": "https://www.facebook.com/joanosbornemusic",
+    "twitter": "https://www.twitter.com/joan_osborne",
+    "songs": [
+      {
+        "name": "One Of Us"
+      }
+    ]
+  },
+  "K's Choice": {
+    "id": "115907",
+    "songs": [
+      {
+        "name": "Not An Addict",
+        "musicVideo": "https://www.youtube.com/watch?v=cZfKOmygkr4"
+      }
+    ]
+  },
+  "KMFDM": {
+    "id": "112872",
+    "songs": [
+      {
+        "name": "Juke Joint Jezebel"
+      }
+    ]
+  },
+  "Killing Joke": {
+    "id": "113209",
+    "songs": [
+      {
+        "name": "Millennium"
+      }
+    ]
+  },
+  "King Missile": {
+    "id": "128468",
+    "songs": [
+      {
+        "name": "Detachable Penis",
+        "musicVideo": "https://www.youtube.com/watch?v=PYwiwbgMusY"
+      }
+    ]
+  },
+  "Korn": {
+    "id": "111490",
+    "facebook": "https://www.twitter.com/Korn",
+    "twitter": "https://www.facebook.com/korn",
+    "songs": [
+      {
+        "name": "No Place To Hide"
+      }
+    ]
+  },
+  "Kula Shaker": {
+    "id": "113897",
+    "facebook": "https://www.facebook.com/kulashaker",
+    "twitter": "https://www.twitter.com/kula_shaker",
+    "songs": [
+      {
+        "name": "Tattva",
+        "musicVideo": "https://www.youtube.com/watch?v=2bYj2o7y4rk"
       }
     ]
   },
   "Lenny Kravitz": {
+    "id": "111855",
+    "facebook": "https://www.facebook.com/lennykravitz",
+    "twitter": "https://www.twitter.com/LennyKravitz",
     "songs": [
       {
         "name": "Are You Gonna Go My Way",
@@ -585,726 +1157,57 @@
       {
         "name": "Rock n' Roll Is Dead"
       }
-    ],
-    "id": "111855",
-    "facebook": "https://www.facebook.com/lennykravitz",
-    "twitter": "https://www.twitter.com/LennyKravitz"
+    ]
   },
-  "Sting": {
+  "Letters To Cleo": {
+    "id": "129212",
     "songs": [
       {
-        "name": "Fields Of Gold"
-      },
-      {
-        "name": "If I Ever Lose My Faith In You"
-      }
-    ],
-    "id": "111600"
-  },
-  "The Lemonheads": {
-    "songs": [
-      {
-        "name": "Mrs. Robinson",
-        "musicVideo": "https://www.youtube.com/watch?v=zvMFm5nKeUc"
-      },
-      {
-        "name": "Into Your Arms",
-        "musicVideo": "https://www.youtube.com/watch?v=LWQfLmhrEYg"
-      },
-      {
-        "name": "It's A Shame About Ray",
-        "musicVideo": "https://www.youtube.com/watch?v=hFYFj5q8_Qk"
-      }
-    ],
-    "id": "120183",
-    "facebook": "https://www.facebook.com/thelemonheads",
-    "twitter": "https://www.twitter.com/thelemonheads"
-  },
-  "R.E.M.": {
-    "songs": [
-      {
-        "name": "Man On The Moon",
-        "musicVideo": "https://www.youtube.com/watch?v=dLxpNiF0YKs"
-      },
-      {
-        "name": "Everybody Hurts",
-        "musicVideo": "https://www.youtube.com/watch?v=5rOiW_xY-kc"
-      },
-      {
-        "name": "The Sidewinder Sleeps Tonite"
-      },
-      {
-        "name": "What's The Frequency, Kenneth?",
-        "musicVideo": "https://www.youtube.com/watch?v=jWkMhCLkVOg"
-      },
-      {
-        "name": "Bang and Blame",
-        "musicVideo": "https://www.youtube.com/watch?v=8FNfB6WfwM4"
-      },
-      {
-        "name": "Crush With Eyeliner",
-        "musicVideo": "https://www.youtube.com/watch?v=ycvJHQUqU1M"
-      },
-      {
-        "name": "Strange Currencies",
-        "musicVideo": "https://www.youtube.com/watch?v=LYo2GtEvMQI"
-      },
-      {
-        "name": "E-Bow The Letter"
-      },
-      {
-        "name": "Bittersweet Me"
-      }
-    ],
-    "id": "111359",
-    "facebook": "https://www.facebook.com/REMhq",
-    "twitter": "https://www.twitter.com/remhq"
-  },
-  "Bjork": {
-    "songs": [
-      {
-        "name": "Human Behaviour"
-      },
-      {
-        "name": "Big Time Sensuality"
-      },
-      {
-        "name": "It's Oh So Quiet"
+        "name": "Here And Now"
       }
     ]
   },
-  "The Proclaimers": {
+  "Lisa Loeb": {
+    "id": "114137",
     "songs": [
       {
-        "name": "I'm Gonna Be (500 Miles)",
-        "musicVideo": "https://www.youtube.com/watch?v=tbNlMtqrYS0"
-      }
-    ],
-    "id": "114248"
-  },
-  "The Juliana Hatfield Three": {
-    "songs": [
-      {
-        "name": "My Sister"
-      }
-    ],
-    "id": "134735"
-  },
-  "UB40": {
-    "songs": [
-      {
-        "name": "Can't Help Falling In Love"
-      }
-    ],
-    "id": "111333",
-    "facebook": "https://www.facebook.com/ub40official",
-    "twitter": "https://www.twitter.com/UB40OFFICIAL"
-  },
-  "Cypress Hill": {
-    "songs": [
-      {
-        "name": "Insane In The Brain",
-        "musicVideo": "https://www.youtube.com/watch?v=RijB8wnJCN0"
-      }
-    ],
-    "id": "111695",
-    "facebook": "https://www.facebook.com/cypresshill",
-    "twitter": "https://www.twitter.com/Cypress_Hill"
-  },
-  "10,000 Maniacs": {
-    "songs": [
-      {
-        "name": "These Are Days"
+        "name": "Do You Sleep"
       },
       {
-        "name": "Candy Everybody Wants"
-      },
-      {
-        "name": "Because The Night",
-        "musicVideo": "https://www.youtube.com/watch?v=zKh1ZRyrQXY"
-      }
-    ],
-    "id": "114876"
-  },
-  "Peter Gabriel": {
-    "songs": [
-      {
-        "name": "Come Talk To Me"
-      }
-    ],
-    "id": "114242",
-    "facebook": "https://www.facebook.com/PeterGabriel",
-    "twitter": "https://www.twitter.com/itspetergabriel"
-  },
-  "Dada": {
-    "songs": [
-      {
-        "name": "Dizz Knee Land"
+        "name": "Stay",
+        "musicVideo": "https://www.youtube.com/watch?v=i9HGwRbMiVY"
       }
     ]
-  },
-  "Screaming Trees": {
-    "songs": [
-      {
-        "name": "Nearly Lost You"
-      },
-      {
-        "name": "All I Know"
-      }
-    ],
-    "id": "113929"
-  },
-  "Sugar": {
-    "songs": [
-      {
-        "name": "Helpless"
-      },
-      {
-        "name": "If I Can't Change Your Mind"
-      },
-      {
-        "name": "Your Favorite Thing"
-      }
-    ],
-    "id": "122227"
-  },
-  "Arrested Development": {
-    "songs": [
-      {
-        "name": "Mr. Wendal",
-        "musicVideo": "https://www.youtube.com/watch?v=wyDjRd0Tjss"
-      }
-    ],
-    "id": "113741",
-    "facebook": "https://www.facebook.com/pages/Arrested-Development/32081803388",
-    "twitter": "https://www.twitter.com/ADtheBAND"
-  },
-  "King Missile": {
-    "songs": [
-      {
-        "name": "Detachable Penis",
-        "musicVideo": "https://www.youtube.com/watch?v=PYwiwbgMusY"
-      }
-    ],
-    "id": "128468"
-  },
-  "Matthew Sweet": {
-    "songs": [
-      {
-        "name": "The Ugly Truth"
-      },
-      {
-        "name": "I've Been Waiting"
-      },
-      {
-        "name": "Sick Of Myself"
-      }
-    ],
-    "id": "115444",
-    "facebook": "https://www.facebook.com/iammatthewsweet",
-    "twitter": "https://www.twitter.com/iammatthewsweet"
-  },
-  "Midnight Oil": {
-    "songs": [
-      {
-        "name": "Truganini",
-        "musicVideo": "https://www.youtube.com/watch?v=LcxdbZ5chcc"
-      }
-    ],
-    "id": "113094"
-  },
-  "Tool": {
-    "songs": [
-      {
-        "name": "Sober",
-        "musicVideo": "https://www.youtube.com/watch?v=t1krvOc7t1I"
-      },
-      {
-        "name": "Stinkfist",
-        "musicVideo": "https://www.youtube.com/watch?v=07pLGIgyfjw"
-      }
-    ],
-    "id": "111480",
-    "facebook": "https://www.facebook.com/ToolMusic",
-    "twitter": "https://www.twitter.com/Tool"
-  },
-  "Machines Of Loving Grace": {
-    "songs": [
-      {
-        "name": "Butterfly Wings"
-      }
-    ],
-    "id": "148621"
-  },
-  "Rage Against The Machine": {
-    "songs": [
-      {
-        "name": "Killing In The Name",
-        "musicVideo": "https://www.youtube.com/watch?v=bWXazVhlyxQ"
-      },
-      {
-        "name": "Freedom"
-      },
-      {
-        "name": "Bulls On Parade",
-        "musicVideo": "https://www.youtube.com/watch?v=3L4YrGaR8E4"
-      }
-    ],
-    "id": "111964",
-    "facebook": "https://www.facebook.com/pages/Rage-Against-the-Machine/25694103998",
-    "twitter": "https://www.twitter.com/RATM"
-  },
-  "The Cure": {
-    "songs": [
-      {
-        "name": "Purple Haze"
-      },
-      {
-        "name": "Burn"
-      },
-      {
-        "name": "Mint Car",
-        "musicVideo": "https://www.youtube.com/watch?v=MMKN5Uaydzw"
-      },
-      {
-        "name": "The 13th",
-        "musicVideo": "https://www.youtube.com/watch?v=1EOCq9urWbs"
-      },
-      {
-        "name": "Strange Attraction"
-      },
-      {
-        "name": "Wrong Number",
-        "musicVideo": "https://www.youtube.com/watch?v=my17DT2Hb3Q"
-      }
-    ],
-    "id": "111622",
-    "facebook": "https://www.facebook.com/thecure",
-    "twitter": "https://www.twitter.com/thecure_"
-  },
-  "Wailing Souls": {
-    "songs": [
-      {
-        "name": "Shark Attack"
-      }
-    ],
-    "id": "114521"
-  },
-  "Morrissey": {
-    "songs": [
-      {
-        "name": "We Hate It When Our Friends Become Successful",
-        "musicVideo": "https://www.youtube.com/watch?v=l6g0gDrCUi8"
-      },
-      {
-        "name": "The More You Ignore Me The Closer I Get"
-      }
-    ],
-    "id": "111514"
-  },
-  "Soup Dragons": {
-    "songs": [
-      {
-        "name": "Divine Thing"
-      }
-    ]
-  },
-  "Ned's Atomic Dustbin": {
-    "songs": [
-      {
-        "name": "Saturday Night"
-      }
-    ],
-    "id": "132449"
-  },
-  "The Pogues": {
-    "songs": [
-      {
-        "name": "Tuesday Morning",
-        "musicVideo": "https://www.youtube.com/watch?v=gPPscelHVhA"
-      }
-    ],
-    "id": "114305"
-  },
-  "Buffalo Tom": {
-    "songs": [
-      {
-        "name": "Sodajerk",
-        "musicVideo": "https://www.youtube.com/watch?v=7EUOVya_5RQ"
-      }
-    ],
-    "id": "115017"
-  },
-  "Shaggy": {
-    "songs": [
-      {
-        "name": "Oh Carolina"
-      }
-    ],
-    "id": "112913"
-  },
-  "White Zombie": {
-    "songs": [
-      {
-        "name": "Thunderkiss '65"
-      },
-      {
-        "name": "More Human Than Human",
-        "musicVideo": "https://www.youtube.com/watch?v=E0E0ynyIUsg"
-      }
-    ],
-    "id": "112896"
-  },
-  "Paul Westerberg": {
-    "songs": [
-      {
-        "name": "World Class Fad"
-      }
-    ],
-    "id": "117582"
-  },
-  "The Posies": {
-    "songs": [
-      {
-        "name": "Dream All Day"
-      }
-    ],
-    "id": "133976"
-  },
-  "Dig": {
-    "songs": [
-      {
-        "name": "Believe"
-      }
-    ],
-    "id": "121287"
-  },
-  "Suede": {
-    "songs": [
-      {
-        "name": "Metal Mickey",
-        "musicVideo": "https://www.youtube.com/watch?v=0rbw5FaCAzw"
-      }
-    ],
-    "id": "112262",
-    "facebook": "https://www.facebook.com/suede",
-    "twitter": "https://www.twitter.com/suedeHQ"
-  },
-  "Pet Shop Boys": {
-    "songs": [
-      {
-        "name": "Can You Forgive Her?",
-        "musicVideo": "https://www.youtube.com/watch?v=Me4AhOi6LYE"
-      }
-    ],
-    "id": "111382",
-    "facebook": "https://www.facebook.com/petshopboys",
-    "twitter": "https://www.twitter.com/petshopboys"
-  },
-  "The The": {
-    "songs": [
-      {
-        "name": "Slow Emotion Replay"
-      }
-    ],
-    "id": "113718"
-  },
-  "Beck": {
-    "songs": [
-      {
-        "name": "Loser",
-        "musicVideo": "https://www.youtube.com/watch?v=YgSPaXgAdzE"
-      },
-      {
-        "name": "Where It's At"
-      },
-      {
-        "name": "Devil's Haircut"
-      },
-      {
-        "name": "The New Pollution"
-      },
-      {
-        "name": "Jack-Ass"
-      },
-      {
-        "name": "Deadweight"
-      }
-    ],
-    "id": "111657",
-    "facebook": "https://www.facebook.com/Beck",
-    "twitter": "https://www.twitter.com/#!/beck"
-  },
-  "Frank Black": {
-    "songs": [
-      {
-        "name": "Hang On To Your Ego"
-      }
-    ],
-    "id": "112987"
-  },
-  "Cranes": {
-    "songs": [
-      {
-        "name": "Everywhere"
-      }
-    ],
-    "id": "128372"
-  },
-  "Dinosaur Jr.": {
-    "songs": [
-      {
-        "name": "Start Choppin"
-      },
-      {
-        "name": "Feel the Pain",
-        "musicVideo": "https://www.youtube.com/watch?v=OQZmrdwK7YM"
-      }
-    ],
-    "id": "112779",
-    "facebook": "https://www.facebook.com/DinosaurJr",
-    "twitter": "https://www.twitter.com/dinosaurjr"
-  },
-  "Nine Inch Nails": {
-    "songs": [
-      {
-        "name": "Closer",
-        "musicVideo": "https://www.youtube.com/watch?v=6Q2lkd0fjO8"
-      },
-      {
-        "name": "Burn"
-      },
-      {
-        "name": "March Of The Pigs",
-        "musicVideo": "https://www.youtube.com/watch?v=PL72Tyxe1rc"
-      },
-      {
-        "name": "Hurt",
-        "musicVideo": "https://www.youtube.com/watch?v=AvJKVKglIRs"
-      },
-      {
-        "name": "The Perfect Drug",
-        "musicVideo": "https://www.youtube.com/watch?v=sSLqeZzTU8I"
-      }
-    ],
-    "id": "111402",
-    "facebook": "https://www.facebook.com/ninofficial",
-    "twitter": "https://www.twitter.com/nineinchnails"
-  },
-  "Soundgarden": {
-    "songs": [
-      {
-        "name": "Black Hole Sun",
-        "musicVideo": "https://www.youtube.com/watch?v=3mbBbFH9fAg"
-      },
-      {
-        "name": "Fell On Black Days",
-        "musicVideo": "https://www.youtube.com/watch?v=ySzrJ4GRF7s"
-      },
-      {
-        "name": "Spoonman",
-        "musicVideo": "https://www.youtube.com/watch?v=T0_zzCLLRvE"
-      },
-      {
-        "name": "My Wave"
-      },
-      {
-        "name": "Burden In My Hand"
-      },
-      {
-        "name": "Pretty Noose"
-      },
-      {
-        "name": "Blow Up The Outside World"
-      }
-    ],
-    "id": "112001",
-    "facebook": "https://www.facebook.com/Soundgarden",
-    "twitter": "https://www.twitter.com/soundgarden"
-  },
-  "The Offspring": {
-    "songs": [
-      {
-        "name": "Self Esteem",
-        "musicVideo": "https://www.youtube.com/watch?v=Abrn8aVQ76Q"
-      },
-      {
-        "name": "Come Out And Play",
-        "musicVideo": "https://www.youtube.com/watch?v=1jOk8dk-qaU"
-      },
-      {
-        "name": "Gotta Get Away",
-        "musicVideo": "https://www.youtube.com/watch?v=C6jz1hewTzA"
-      },
-      {
-        "name": "Gone Away",
-        "musicVideo": "https://www.youtube.com/watch?v=40V9_1PMUGM"
-      }
-    ],
-    "id": "112207",
-    "facebook": "https://www.facebook.com/Offspring",
-    "twitter": "https://www.twitter.com/offspring"
   },
   "Live": {
+    "id": "112876",
     "songs": [
+      {
+        "name": "All Over You"
+      },
       {
         "name": "I Alone"
       },
       {
-        "name": "Selling The Drama"
+        "name": "Lakini's Juice"
       },
       {
         "name": "Lightning Crashes",
         "musicVideo": "https://www.youtube.com/watch?v=xsJ4O-nSveg"
       },
       {
-        "name": "All Over You"
-      },
-      {
-        "name": "White, Discussion"
-      },
-      {
-        "name": "Lakini's Juice"
+        "name": "Selling The Drama"
       },
       {
         "name": "Turn My Head"
+      },
+      {
+        "name": "White, Discussion"
       }
-    ],
-    "id": "112876"
-  },
-  "Veruca Salt": {
-    "songs": [
-      {
-        "name": "Seether",
-        "musicVideo": "https://www.youtube.com/watch?v=jC9AUR-iTo0"
-      },
-      {
-        "name": "Volcano Girls",
-        "musicVideo": "https://www.youtube.com/watch?v=qyVSKydUxKk"
-      }
-    ],
-    "id": "113083"
-  },
-  "Green Day": {
-    "songs": [
-      {
-        "name": "Basket Case",
-        "musicVideo": "https://www.youtube.com/watch?v=NUTGr5t3MoY"
-      },
-      {
-        "name": "Longview",
-        "musicVideo": "https://www.youtube.com/watch?v=Vy5XR-oxCus"
-      },
-      {
-        "name": "When I Come Around",
-        "musicVideo": "https://www.youtube.com/watch?v=i8dh9gDzmz8"
-      },
-      {
-        "name": "Welcome To Paradise"
-      },
-      {
-        "name": "J.A.R. (Jason Andrew Relva)"
-      },
-      {
-        "name": "She"
-      },
-      {
-        "name": "Geek Stink Breath",
-        "musicVideo": "https://www.youtube.com/watch?v=fr2T-Rcgq1c&has_verified=1"
-      },
-      {
-        "name": "Brain Stew",
-        "musicVideo": "https://www.youtube.com/watch?v=UNq9gmY_Oz4"
-      },
-      {
-        "name": "Walking Contradiction",
-        "musicVideo": "https://www.youtube.com/watch?v=UymN5scMpZM"
-      },
-      {
-        "name": "Hitchin' A Ride",
-        "musicVideo": "https://www.youtube.com/watch?v=4Sc81yxo600"
-      }
-    ],
-    "id": "111486",
-    "facebook": "https://www.facebook.com/GreenDay",
-    "twitter": "https://www.twitter.com/GreenDay"
-  },
-  "Counting Crows": {
-    "songs": [
-      {
-        "name": "Mr. Jones",
-        "musicVideo": "https://www.youtube.com/watch?v=-oqAU5VxFWs"
-      },
-      {
-        "name": "Round Here"
-      },
-      {
-        "name": "A Murder Of One"
-      },
-      {
-        "name": "Einstein On The Beach"
-      },
-      {
-        "name": "Rain King"
-      },
-      {
-        "name": "Angels Of The Silences"
-      },
-      {
-        "name": "A Long December"
-      },
-      {
-        "name": "Daylight Fading"
-      }
-    ],
-    "id": "111691"
-  },
-  "Candlebox": {
-    "songs": [
-      {
-        "name": "Far Behind"
-      },
-      {
-        "name": "You"
-      },
-      {
-        "name": "Simple Lessons"
-      }
-    ],
-    "id": "115109",
-    "facebook": "https://www.facebook.com/candlebox",
-    "twitter": "https://www.twitter.com/candleboxrocks"
-  },
-  "Sheryl Crow": {
-    "songs": [
-      {
-        "name": "All I Wanna Do",
-        "musicVideo": "https://www.youtube.com/watch?v=X5ouOa9k0gE"
-      },
-      {
-        "name": "Leaving Las Vegas"
-      },
-      {
-        "name": "Strong Enough",
-        "musicVideo": "https://www.youtube.com/watch?v=3s1bZLh4mJA"
-      },
-      {
-        "name": "Can't Cry Anymore"
-      },
-      {
-        "name": "If It Makes You Happy",
-        "musicVideo": "https://www.youtube.com/watch?v=dyihQtBes1I"
-      },
-      {
-        "name": "Everyday Is A Winding Road",
-        "musicVideo": "https://www.youtube.com/watch?v=khrx-zrG460"
-      }
-    ],
-    "id": "113168",
-    "facebook": "https://www.facebook.com/sherylcrow",
-    "twitter": "https://www.twitter.com/SherylCrow"
+    ]
   },
   "Liz Phair": {
+    "id": "117296",
     "songs": [
       {
         "name": "Supernova",
@@ -1313,64 +1216,105 @@
       {
         "name": "Whip-Smart"
       }
-    ],
-    "id": "117296"
+    ]
   },
-  "Weezer": {
+  "Local H": {
+    "id": "114692",
     "songs": [
       {
-        "name": "Buddy Holly",
-        "musicVideo": "https://www.youtube.com/watch?v=kemivUKb4f4"
-      },
-      {
-        "name": "Undone (The Sweater Song)"
-      },
-      {
-        "name": "Say It Ain't So",
-        "musicVideo": "https://www.youtube.com/watch?v=ENXvZ9YRjbo"
-      },
-      {
-        "name": "El Scorcho",
-        "musicVideo": "https://www.youtube.com/watch?v=okthJIVbi6g"
+        "name": "Bound For The Floor"
       }
-    ],
-    "id": "112646",
-    "facebook": "https://www.facebook.com/weezer",
-    "twitter": "https://www.twitter.com/Weezer"
+    ]
   },
-  "James": {
+  "Lucas": {
+    "id": "139521",
     "songs": [
       {
-        "name": "Laid",
-        "musicVideo": "https://www.youtube.com/watch?v=g_qZ5B-yioU"
+        "name": "Lucas With The Lid Off",
+        "musicVideo": "https://www.youtube.com/watch?v=sY5zaDZq0sc"
       }
-    ],
-    "id": "116601"
+    ]
   },
-  "Hole": {
+  "Luscious Jackson": {
+    "id": "117304",
     "songs": [
       {
-        "name": "Doll Parts",
-        "musicVideo": "https://www.youtube.com/watch?v=RD9xK9smth4"
-      },
-      {
-        "name": "Miss World"
-      },
-      {
-        "name": "Violet",
-        "musicVideo": "https://www.youtube.com/watch?v=cH_rfGBwamc"
-      },
-      {
-        "name": "Asking For It"
-      },
-      {
-        "name": "Softer, Softest"
-      },
-      {
-        "name": "Gold Dust Woman"
+        "name": "Naked Eye"
       }
-    ],
-    "id": "112237"
+    ]
+  },
+  "Lush": {
+    "id": "115441",
+    "songs": [
+      {
+        "name": "Ladykillers"
+      }
+    ]
+  },
+  "Machines Of Loving Grace": {
+    "id": "148621",
+    "songs": [
+      {
+        "name": "Butterfly Wings"
+      }
+    ]
+  },
+  "Mad Season": {
+    "id": "117319",
+    "songs": [
+      {
+        "name": "River Of Deceit"
+      }
+    ]
+  },
+  "Magnificent Bastards": {
+    "songs": [
+      {
+        "name": "Mockingbird Girl"
+      }
+    ]
+  },
+  "Mansun": {
+    "id": "122016",
+    "songs": [
+      {
+        "name": "Wide Open Space"
+      }
+    ]
+  },
+  "Marcy Playground": {
+    "id": "115442",
+    "songs": [
+      {
+        "name": "Sex And Candy"
+      }
+    ]
+  },
+  "Matchbox 20": {
+    "songs": [
+      {
+        "name": "3 A.M."
+      },
+      {
+        "name": "Push"
+      }
+    ]
+  },
+  "Matthew Sweet": {
+    "id": "115444",
+    "facebook": "https://www.facebook.com/iammatthewsweet",
+    "twitter": "https://www.twitter.com/iammatthewsweet",
+    "songs": [
+      {
+        "name": "I've Been Waiting"
+      },
+      {
+        "name": "Sick Of Myself"
+      },
+      {
+        "name": "The Ugly Truth"
+      }
+    ]
   },
   "Mazzy Star": {
     "songs": [
@@ -1379,242 +1323,50 @@
       }
     ]
   },
-  "Bad Religion": {
-    "songs": [
-      {
-        "name": "21st Century Digital Boy"
-      },
-      {
-        "name": "Infected",
-        "musicVideo": "https://www.youtube.com/watch?v=Ik9ofiRTTQM"
-      }
-    ],
-    "id": "112954",
-    "facebook": "https://www.facebook.com/badreligion",
-    "twitter": "https://www.twitter.com/badreligion"
-  },
-  "Lisa Loeb": {
-    "songs": [
-      {
-        "name": "Stay",
-        "musicVideo": "https://www.youtube.com/watch?v=i9HGwRbMiVY"
-      },
-      {
-        "name": "Do You Sleep"
-      }
-    ],
-    "id": "114137"
-  },
-  "Beastie Boys": {
-    "songs": [
-      {
-        "name": "Sabotage",
-        "musicVideo": "https://www.youtube.com/watch?v=z5rRZdiu1UE"
-      },
-      {
-        "name": "Sure Shot",
-        "musicVideo": "https://www.youtube.com/watch?v=JhqyZeUlE8U"
-      }
-    ],
-    "id": "111414",
-    "facebook": "https://www.facebook.com/beastieboys",
-    "twitter": "https://www.twitter.com/#!/beastieboys"
-  },
-  "Toad The Wet Sprocket": {
-    "songs": [
-      {
-        "name": "Fall Down"
-      },
-      {
-        "name": "Something's Always Wrong"
-      }
-    ],
-    "id": "116811"
-  },
-  "Tori Amos": {
-    "songs": [
-      {
-        "name": "Cornflake Girl",
-        "musicVideo": "https://www.youtube.com/watch?v=w_HA5Czhtx4"
-      },
-      {
-        "name": "God",
-        "musicVideo": "https://www.youtube.com/watch?v=cN3rzi7dZVQ"
-      },
-      {
-        "name": "Caught A Lite Sneeze",
-        "musicVideo": "https://www.youtube.com/watch?v=weWtRqoSUOI"
-      }
-    ],
-    "id": "112269"
-  },
-  "Oasis": {
-    "songs": [
-      {
-        "name": "Supersonic",
-        "musicVideo": "https://www.youtube.com/watch?v=p29MG7wn4F8"
-      },
-      {
-        "name": "Live Forever",
-        "musicVideo": "https://www.youtube.com/watch?v=i_2mWhfOhGU"
-      },
-      {
-        "name": "Champagne Supernova",
-        "musicVideo": "https://www.youtube.com/watch?v=-cJauX_q6wI"
-      },
-      {
-        "name": "Wonderwall",
-        "musicVideo": "https://www.youtube.com/watch?v=6hzrDeceEKc"
-      },
-      {
-        "name": "Don't Look Back In Anger",
-        "musicVideo": "https://www.youtube.com/watch?v=r8OipmKFDeM"
-      },
-      {
-        "name": "Don't Go Away",
-        "musicVideo": "https://www.youtube.com/watch?v=FU6yzzESX8Y"
-      },
-      {
-        "name": "D'You Know What I Mean?",
-        "musicVideo": "https://www.youtube.com/watch?v=6NtqA5zywQA"
-      },
-      {
-        "name": "Whatever",
-        "musicVideo": "https://www.youtube.com/watch?v=EHfx9LXzxpw"
-      }
-    ],
-    "id": "111516",
-    "facebook": "https://www.facebook.com/OasisOfficial",
-    "twitter": "https://www.twitter.com/oasis"
-  },
-  "Crash Test Dummies": {
-    "songs": [
-      {
-        "name": "MMM MMM MMM MMM",
-        "musicVideo": "https://www.youtube.com/watch?v=vIbcqgXh5-4"
-      }
-    ],
-    "id": "115268",
-    "facebook": "https://www.facebook.com/pages/Crash-Test-Dummies/152157364820371",
-    "twitter": "https://www.twitter.com/CTDBrad"
-  },
-  "Collective Soul": {
-    "songs": [
-      {
-        "name": "Shine",
-        "musicVideo": "https://www.youtube.com/watch?v=_m0bI82Rz_k"
-      },
-      {
-        "name": "December",
-        "musicVideo": "https://www.youtube.com/watch?v=6exsatE-DUk"
-      },
-      {
-        "name": "The World I Know",
-        "musicVideo": "https://www.youtube.com/watch?v=n7TLTjqUyog"
-      }
-    ],
-    "id": "112200",
-    "facebook": "https://www.facebook.com/collectivesoul",
-    "twitter": "https://www.twitter.com/#!/CollectiveSoul"
-  },
   "Meat Puppets": {
+    "id": "115727",
     "songs": [
       {
         "name": "Backwater"
       }
-    ],
-    "id": "115727"
+    ]
   },
-  "Sarah McLachlan": {
+  "Meredith Brooks": {
+    "id": "120330",
     "songs": [
       {
-        "name": "Possession",
-        "musicVideo": "https://www.youtube.com/watch?v=ucdnm8iU-5c"
-      },
-      {
-        "name": "Good Enough"
-      },
-      {
-        "name": "Building A Mystery",
-        "musicVideo": "https://www.youtube.com/watch?v=zWxzM9_gEo0"
-      },
-      {
-        "name": "Sweet Surrender",
-        "musicVideo": "https://www.youtube.com/watch?v=WTFAmxzgCD8"
-      }
-    ],
-    "id": "112088",
-    "facebook": "https://www.facebook.com/sarahmclachlan",
-    "twitter": "https://www.twitter.com/SarahMcLachlan"
-  },
-  "Urge Overkill": {
-    "songs": [
-      {
-        "name": "Girl, You'll Be A Woman Soon",
-        "musicVideo": "https://www.youtube.com/watch?v=GxLR_VaWkMM"
-      }
-    ],
-    "id": "123235"
-  },
-  "Cowboy Junkies": {
-    "songs": [
-      {
-        "name": "Sweet Jane"
-      }
-    ],
-    "id": "120394"
-  },
-  "Blur": {
-    "songs": [
-      {
-        "name": "Girls And Boys"
-      },
-      {
-        "name": "Song 2",
-        "musicVideo": "https://www.youtube.com/watch?v=SSbBvKaM6sk"
-      },
-      {
-        "name": "M.O.R.",
-        "musicVideo": "https://www.youtube.com/watch?v=QEGNwMrsy30"
-      }
-    ],
-    "id": "111479",
-    "facebook": "https://www.facebook.com/blur",
-    "twitter": "https://www.twitter.com/#!/blurofficial"
-  },
-  "The Jesus And Mary Chain": {
-    "songs": [
-      {
-        "name": "Sometimes Always",
-        "musicVideo": "https://www.youtube.com/watch?v=WL0269xbykQ"
-      }
-    ],
-    "id": "119961"
-  },
-  "The Prentenders": {
-    "songs": [
-      {
-        "name": "Night In My Veins"
+        "name": "Bitch"
       }
     ]
   },
-  "Lucas": {
+  "Midnight Oil": {
+    "id": "113094",
     "songs": [
       {
-        "name": "Lucas With The Lid Off",
-        "musicVideo": "https://www.youtube.com/watch?v=sY5zaDZq0sc"
+        "name": "Truganini",
+        "musicVideo": "https://www.youtube.com/watch?v=LcxdbZ5chcc"
       }
-    ],
-    "id": "139521"
+    ]
   },
-  "Rollins Band": {
+  "Monaco": {
+    "id": "112245",
     "songs": [
       {
-        "name": "Liar",
-        "musicVideo": "https://www.youtube.com/watch?v=iaysTVcounI"
+        "name": "What Do You Want From Me"
       }
-    ],
-    "id": "117839"
+    ]
+  },
+  "Morrissey": {
+    "id": "111514",
+    "songs": [
+      {
+        "name": "The More You Ignore Me The Closer I Get"
+      },
+      {
+        "name": "We Hate It When Our Friends Become Successful",
+        "musicVideo": "https://www.youtube.com/watch?v=l6g0gDrCUi8"
+      }
+    ]
   },
   "Murmurs": {
     "songs": [
@@ -1623,66 +1375,454 @@
       }
     ]
   },
-  "Erasure": {
+  "Nada Surf": {
+    "id": "113762",
     "songs": [
       {
-        "name": "Always"
+        "name": "Popular",
+        "musicVideo": "https://www.youtube.com/watch?v=RNc45FTenhg"
       }
-    ],
-    "id": "112233",
-    "facebook": "https://www.facebook.com/erasureinfo",
-    "twitter": "https://www.twitter.com/erasureinfo"
+    ]
   },
-  "Sonic Youth": {
+  "Natalie Merchant": {
+    "id": "122947",
     "songs": [
       {
-        "name": "Bull In The Heather",
-        "musicVideo": "https://www.youtube.com/watch?v=8JGBNkLM9_8"
+        "name": "Carnival"
       }
-    ],
-    "id": "112711"
+    ]
   },
-  "Ween": {
+  "Ned's Atomic Dustbin": {
+    "id": "132449",
     "songs": [
       {
-        "name": "Push The Little Daisies"
+        "name": "Saturday Night"
       }
-    ],
-    "id": "119149"
+    ]
   },
-  "Killing Joke": {
+  "New Order": {
+    "id": "111519",
+    "facebook": "https://www.facebook.com/NewOrderOfficial",
+    "twitter": "https://www.twitter.com/peter_hook1",
     "songs": [
       {
-        "name": "Millennium"
+        "name": "Regret",
+        "musicVideo": "https://www.youtube.com/watch?v=IHGYkYBD0h4"
+      },
+      {
+        "name": "World (The Price Of Love)"
       }
-    ],
-    "id": "113209"
+    ]
+  },
+  "Nine Inch Nails": {
+    "id": "111402",
+    "facebook": "https://www.facebook.com/ninofficial",
+    "twitter": "https://www.twitter.com/nineinchnails",
+    "songs": [
+      {
+        "name": "Burn"
+      },
+      {
+        "name": "Closer",
+        "musicVideo": "https://www.youtube.com/watch?v=6Q2lkd0fjO8"
+      },
+      {
+        "name": "Hurt",
+        "musicVideo": "https://www.youtube.com/watch?v=AvJKVKglIRs"
+      },
+      {
+        "name": "March Of The Pigs",
+        "musicVideo": "https://www.youtube.com/watch?v=PL72Tyxe1rc"
+      },
+      {
+        "name": "The Perfect Drug",
+        "musicVideo": "https://www.youtube.com/watch?v=sSLqeZzTU8I"
+      }
+    ]
+  },
+  "Nirvana": {
+    "id": "111319",
+    "facebook": "https://www.facebook.com/Nirvana",
+    "twitter": "https://www.twitter.com/Nirvana",
+    "songs": [
+      {
+        "name": "About A Girl",
+        "musicVideo": "https://www.youtube.com/watch?v=AhcttcXcRYY"
+      },
+      {
+        "name": "All Apologies",
+        "musicVideo": "https://www.youtube.com/watch?v=aWmkuH1k7uA"
+      },
+      {
+        "name": "Aneurysm"
+      },
+      {
+        "name": "Dumb"
+      },
+      {
+        "name": "Heart Shaped Box"
+      },
+      {
+        "name": "Rape Me"
+      },
+      {
+        "name": "The Man Who Sold The World",
+        "musicVideo": "https://www.youtube.com/watch?v=fregObNcHC8"
+      },
+      {
+        "name": "Verse Chorus Verse"
+      }
+    ]
+  },
+  "Nixons": {
+    "songs": [
+      {
+        "name": "Sister"
+      }
+    ]
+  },
+  "No Doubt": {
+    "id": "111517",
+    "facebook": "https://www.facebook.com/nodoubt",
+    "twitter": "https://www.twitter.com/#!/nodoubt",
+    "songs": [
+      {
+        "name": "Don't Speak",
+        "musicVideo": "https://www.youtube.com/watch?v=TR3Vdo5etCQ"
+      },
+      {
+        "name": "Excuse Me Mr.",
+        "musicVideo": "https://www.youtube.com/watch?v=it1aZBPuH4w"
+      },
+      {
+        "name": "Happy Now?"
+      },
+      {
+        "name": "Spiderwebs",
+        "musicVideo": "https://www.youtube.com/watch?v=6ZktNItwexo"
+      },
+      {
+        "name": "Sunday Morning",
+        "musicVideo": "https://www.youtube.com/watch?v=PiBX-ESFDF0"
+      }
+    ]
+  },
+  "OMC": {
+    "id": "120342",
+    "songs": [
+      {
+        "name": "How Bizarre",
+        "musicVideo": "https://www.youtube.com/watch?v=C2cMG33mWVY"
+      }
+    ]
+  },
+  "Oasis": {
+    "id": "111516",
+    "facebook": "https://www.facebook.com/OasisOfficial",
+    "twitter": "https://www.twitter.com/oasis",
+    "songs": [
+      {
+        "name": "Champagne Supernova",
+        "musicVideo": "https://www.youtube.com/watch?v=-cJauX_q6wI"
+      },
+      {
+        "name": "D'You Know What I Mean?",
+        "musicVideo": "https://www.youtube.com/watch?v=6NtqA5zywQA"
+      },
+      {
+        "name": "Don't Go Away",
+        "musicVideo": "https://www.youtube.com/watch?v=FU6yzzESX8Y"
+      },
+      {
+        "name": "Don't Look Back In Anger",
+        "musicVideo": "https://www.youtube.com/watch?v=r8OipmKFDeM"
+      },
+      {
+        "name": "Live Forever",
+        "musicVideo": "https://www.youtube.com/watch?v=i_2mWhfOhGU"
+      },
+      {
+        "name": "Supersonic",
+        "musicVideo": "https://www.youtube.com/watch?v=p29MG7wn4F8"
+      },
+      {
+        "name": "Whatever",
+        "musicVideo": "https://www.youtube.com/watch?v=EHfx9LXzxpw"
+      },
+      {
+        "name": "Wonderwall",
+        "musicVideo": "https://www.youtube.com/watch?v=6hzrDeceEKc"
+      }
+    ]
+  },
+  "Our Lady Peace": {
+    "id": "112202",
+    "facebook": "https://www.facebook.com/ourladypeace",
+    "twitter": "https://www.twitter.com/#!/OurLadyPeace",
+    "songs": [
+      {
+        "name": "Starseed",
+        "musicVideo": "https://www.youtube.com/watch?v=O94CW_tIEzU"
+      },
+      {
+        "name": "Superman's Dead",
+        "musicVideo": "https://www.youtube.com/watch?v=8CBBtorFg2I"
+      }
+    ]
+  },
+  "PJ Harvey": {
+    "id": "112809",
+    "facebook": "https://www.facebook.com/PJHarvey",
+    "twitter": "https://www.twitter.com/pjharvey",
+    "songs": [
+      {
+        "name": "Down By The Water"
+      }
+    ]
+  },
+  "Paul Westerberg": {
+    "id": "117582",
+    "songs": [
+      {
+        "name": "World Class Fad"
+      }
+    ]
   },
   "Pavement": {
+    "id": "113953",
     "songs": [
       {
         "name": "Cut Your Hair",
         "musicVideo": "https://www.youtube.com/watch?v=QTTgpTeb0Z8"
       }
-    ],
-    "id": "113953"
+    ]
   },
-  "Whale": {
+  "Pearl Jam": {
+    "id": "111341",
+    "facebook": "https://www.facebook.com/PearlJam",
+    "twitter": "https://www.twitter.com/pearljam",
     "songs": [
       {
-        "name": "Hobo Humpin Slobo Babe"
+        "name": "Better Man",
+        "musicVideo": "https://www.youtube.com/watch?v=_4BObpNQqNo"
+      },
+      {
+        "name": "Black",
+        "musicVideo": "https://www.youtube.com/watch?v=pOM-h-bCHVA"
+      },
+      {
+        "name": "Corduroy"
+      },
+      {
+        "name": "Crazy Mary"
+      },
+      {
+        "name": "Daughter",
+        "musicVideo": "https://www.youtube.com/watch?v=zgUwd2Gkb-E"
+      },
+      {
+        "name": "Dissident"
+      },
+      {
+        "name": "Elderly Woman Behind The Counter In A Small Town"
+      },
+      {
+        "name": "Glorified G"
+      },
+      {
+        "name": "Go"
+      },
+      {
+        "name": "Hail Hail"
+      },
+      {
+        "name": "I Got ID"
+      },
+      {
+        "name": "Immortality"
+      },
+      {
+        "name": "Not For You"
+      },
+      {
+        "name": "Nothingman"
+      },
+      {
+        "name": "Whipping"
+      },
+      {
+        "name": "Who You Are"
+      },
+      {
+        "name": "Yellow Ledbetter"
       }
-    ],
-    "id": "125279"
+    ]
   },
-  "Afghan Whigs": {
+  "Pet Shop Boys": {
+    "id": "111382",
+    "facebook": "https://www.facebook.com/petshopboys",
+    "twitter": "https://www.twitter.com/petshopboys",
     "songs": [
       {
-        "name": "Gentlemen"
+        "name": "Can You Forgive Her?",
+        "musicVideo": "https://www.youtube.com/watch?v=Me4AhOi6LYE"
+      }
+    ]
+  },
+  "Peter Gabriel": {
+    "id": "114242",
+    "facebook": "https://www.facebook.com/PeterGabriel",
+    "twitter": "https://www.twitter.com/itspetergabriel",
+    "songs": [
+      {
+        "name": "Come Talk To Me"
+      }
+    ]
+  },
+  "Pizzcato Five": {
+    "songs": [
+      {
+        "name": "Twiggy Twiggy"
+      }
+    ]
+  },
+  "Poe": {
+    "id": "113556",
+    "songs": [
+      {
+        "name": "Angry Johnny"
+      }
+    ]
+  },
+  "Porno For Pyros": {
+    "id": "112937",
+    "songs": [
+      {
+        "name": "Pets"
+      },
+      {
+        "name": "Tahitian Moon"
+      }
+    ]
+  },
+  "Portishead": {
+    "id": "111957",
+    "songs": [
+      {
+        "name": "Sour Times"
+      }
+    ]
+  },
+  "Primitive Radio Gods": {
+    "id": "116979",
+    "songs": [
+      {
+        "name": "Standing Outside A Broken Phone Booth With Money In My Hand"
+      }
+    ]
+  },
+  "Primus": {
+    "id": "113051",
+    "facebook": "https://www.facebook.com/primusville",
+    "twitter": "https://www.twitter.com/primus",
+    "songs": [
+      {
+        "name": "Wynona's Big Brown Beaver",
+        "musicVideo": "https://www.youtube.com/watch?v=aYDfwUJzYQg"
+      }
+    ]
+  },
+  "Pulp": {
+    "id": "111959",
+    "facebook": "https://www.facebook.com/pulppeople",
+    "twitter": "https://www.twitter.com/pulp2011",
+    "songs": [
+      {
+        "name": "Common People",
+        "musicVideo": "https://www.youtube.com/watch?v=yuTMWgOduFM"
+      }
+    ]
+  },
+  "R.E.M.": {
+    "id": "111359",
+    "facebook": "https://www.facebook.com/REMhq",
+    "twitter": "https://www.twitter.com/remhq",
+    "songs": [
+      {
+        "name": "Bang and Blame",
+        "musicVideo": "https://www.youtube.com/watch?v=8FNfB6WfwM4"
+      },
+      {
+        "name": "Bittersweet Me"
+      },
+      {
+        "name": "Crush With Eyeliner",
+        "musicVideo": "https://www.youtube.com/watch?v=ycvJHQUqU1M"
+      },
+      {
+        "name": "E-Bow The Letter"
+      },
+      {
+        "name": "Everybody Hurts",
+        "musicVideo": "https://www.youtube.com/watch?v=5rOiW_xY-kc"
+      },
+      {
+        "name": "Man On The Moon",
+        "musicVideo": "https://www.youtube.com/watch?v=dLxpNiF0YKs"
+      },
+      {
+        "name": "Strange Currencies",
+        "musicVideo": "https://www.youtube.com/watch?v=LYo2GtEvMQI"
+      },
+      {
+        "name": "The Sidewinder Sleeps Tonite"
+      },
+      {
+        "name": "What's The Frequency, Kenneth?",
+        "musicVideo": "https://www.youtube.com/watch?v=jWkMhCLkVOg"
+      }
+    ]
+  },
+  "Radiohead": {
+    "id": "111418",
+    "facebook": "https://www.facebook.com/radiohead",
+    "twitter": "https://www.twitter.com/radiohead",
+    "songs": [
+      {
+        "name": "Creep",
+        "musicVideo": "https://www.youtube.com/watch?v=XFkzRNyygfk"
+      },
+      {
+        "name": "Fake Plastic Trees",
+        "musicVideo": "https://www.youtube.com/watch?v=pKd06s1LNik"
+      },
+      {
+        "name": "Stop Whispering"
+      }
+    ]
+  },
+  "Rage Against The Machine": {
+    "id": "111964",
+    "facebook": "https://www.facebook.com/pages/Rage-Against-the-Machine/25694103998",
+    "twitter": "https://www.twitter.com/RATM",
+    "songs": [
+      {
+        "name": "Bulls On Parade",
+        "musicVideo": "https://www.youtube.com/watch?v=3L4YrGaR8E4"
+      },
+      {
+        "name": "Freedom"
+      },
+      {
+        "name": "Killing In The Name",
+        "musicVideo": "https://www.youtube.com/watch?v=bWXazVhlyxQ"
       }
     ]
   },
   "Rancid": {
+    "id": "113171",
+    "facebook": "https://www.facebook.com/rancid",
+    "twitter": "https://www.twitter.com/rancid",
     "songs": [
       {
         "name": "Salvation",
@@ -1692,158 +1832,314 @@
         "name": "Time Bomb",
         "musicVideo": "https://www.youtube.com/watch?v=DhKHAopx7D0"
       }
-    ],
-    "id": "113171",
-    "facebook": "https://www.facebook.com/rancid",
-    "twitter": "https://www.twitter.com/rancid"
+    ]
   },
-  "Flaming Lips": {
+  "Red Hot Chili Peppers": {
+    "id": "111507",
+    "facebook": "https://www.facebook.com/ChiliPeppers",
+    "twitter": "https://www.twitter.com/ChiliPeppers",
     "songs": [
       {
-        "name": "She Don't Use Jelly"
+        "name": "Aeroplane",
+        "musicVideo": "https://www.youtube.com/watch?v=vV8IAOojoAA"
+      },
+      {
+        "name": "Love Rollercoaster"
+      },
+      {
+        "name": "My Friends"
+      },
+      {
+        "name": "Soul To Squeeze"
+      },
+      {
+        "name": "Warped",
+        "musicVideo": "https://www.youtube.com/watch?v=xmyuJZH3RAc"
+      }
+    ]
+  },
+  "Reel Big Fish": {
+    "id": "118990",
+    "facebook": "https://www.facebook.com/ReelBigFish?ref=nf",
+    "twitter": "https://www.twitter.com/ReelBigFish",
+    "songs": [
+      {
+        "name": "Sell Out"
+      }
+    ]
+  },
+  "Republica": {
+    "id": "113651",
+    "songs": [
+      {
+        "name": "Drop Dead Gorgeous",
+        "musicVideo": "https://www.youtube.com/watch?v=yqmwbVSTGlg"
+      },
+      {
+        "name": "Ready To Go",
+        "musicVideo": "https://www.youtube.com/watch?v=JgffRW1fKDk"
+      }
+    ]
+  },
+  "Rollins Band": {
+    "id": "117839",
+    "songs": [
+      {
+        "name": "Liar",
+        "musicVideo": "https://www.youtube.com/watch?v=iaysTVcounI"
+      }
+    ]
+  },
+  "Ruby": {
+    "songs": [
+      {
+        "name": "Tiny Meat"
+      }
+    ]
+  },
+  "Rusted Root": {
+    "id": "116744",
+    "facebook": "https://www.facebook.com/RustedRoot",
+    "twitter": "https://www.twitter.com/RustedRoot",
+    "songs": [
+      {
+        "name": "Send Me On My Way"
+      }
+    ]
+  },
+  "Sarah McLachlan": {
+    "id": "112088",
+    "facebook": "https://www.facebook.com/sarahmclachlan",
+    "twitter": "https://www.twitter.com/SarahMcLachlan",
+    "songs": [
+      {
+        "name": "Building A Mystery",
+        "musicVideo": "https://www.youtube.com/watch?v=zWxzM9_gEo0"
+      },
+      {
+        "name": "Good Enough"
+      },
+      {
+        "name": "Possession",
+        "musicVideo": "https://www.youtube.com/watch?v=ucdnm8iU-5c"
+      },
+      {
+        "name": "Sweet Surrender",
+        "musicVideo": "https://www.youtube.com/watch?v=WTFAmxzgCD8"
+      }
+    ]
+  },
+  "Screaming Trees": {
+    "id": "113929",
+    "songs": [
+      {
+        "name": "All I Know"
+      },
+      {
+        "name": "Nearly Lost You"
+      }
+    ]
+  },
+  "Seven Mary Three": {
+    "id": "118530",
+    "facebook": "https://www.facebook.com/sevenmarythree",
+    "twitter": "https://www.twitter.com/7m3",
+    "songs": [
+      {
+        "name": "Cumbersome"
+      }
+    ]
+  },
+  "Shaggy": {
+    "id": "112913",
+    "songs": [
+      {
+        "name": "Oh Carolina"
+      }
+    ]
+  },
+  "Sheryl Crow": {
+    "id": "113168",
+    "facebook": "https://www.facebook.com/sherylcrow",
+    "twitter": "https://www.twitter.com/SherylCrow",
+    "songs": [
+      {
+        "name": "All I Wanna Do",
+        "musicVideo": "https://www.youtube.com/watch?v=X5ouOa9k0gE"
+      },
+      {
+        "name": "Can't Cry Anymore"
+      },
+      {
+        "name": "Everyday Is A Winding Road",
+        "musicVideo": "https://www.youtube.com/watch?v=khrx-zrG460"
+      },
+      {
+        "name": "If It Makes You Happy",
+        "musicVideo": "https://www.youtube.com/watch?v=dyihQtBes1I"
+      },
+      {
+        "name": "Leaving Las Vegas"
+      },
+      {
+        "name": "Strong Enough",
+        "musicVideo": "https://www.youtube.com/watch?v=3s1bZLh4mJA"
       }
     ]
   },
   "Silverchair": {
+    "id": "111975",
     "songs": [
       {
-        "name": "Tomorrow",
-        "musicVideo": "https://www.youtube.com/watch?v=PjsMnvqL7eY"
+        "name": "Abuse Me",
+        "musicVideo": "https://www.youtube.com/watch?v=gVj8mRsB14k"
       },
       {
         "name": "Israel's Son"
       },
       {
-        "name": "Abuse Me",
-        "musicVideo": "https://www.youtube.com/watch?v=gVj8mRsB14k"
+        "name": "Tomorrow",
+        "musicVideo": "https://www.youtube.com/watch?v=PjsMnvqL7eY"
       }
-    ],
-    "id": "111975"
+    ]
   },
-  "Alanis Morissette": {
+  "Smash Mouth": {
+    "id": "114723",
     "songs": [
       {
-        "name": "You Oughta Know",
-        "musicVideo": "https://www.youtube.com/watch?v=NPcyTyilmYY"
-      },
-      {
-        "name": "Hand In My Pocket"
-      },
-      {
-        "name": "All I Really Want"
-      },
-      {
-        "name": "Head Over Feet",
-        "musicVideo": "https://www.youtube.com/watch?v=4iuO49jbovg"
-      },
-      {
-        "name": "Ironic",
-        "musicVideo": "https://www.youtube.com/watch?v=Jne9t8sHpUc"
-      },
-      {
-        "name": "You Learn"
+        "name": "Walkin' On The Sun",
+        "musicVideo": "https://www.youtube.com/watch?v=LQj--Kjn0z8"
       }
-    ],
-    "id": "111343",
-    "facebook": "https://www.facebook.com/alanismorissette",
-    "twitter": "https://www.twitter.com/morissette"
+    ]
   },
-  "Better Than Ezra": {
+  "Smoking Popes": {
+    "id": "126962",
     "songs": [
       {
-        "name": "Good",
-        "musicVideo": "https://www.youtube.com/watch?v=Zhs0JD6XJyQ"
-      },
-      {
-        "name": "In The Blood"
+        "name": "Need You Around"
       }
-    ],
-    "id": "114179",
-    "facebook": "https://www.facebook.com/BetterThanEzra",
-    "twitter": "https://www.twitter.com/betterthanezra"
+    ]
   },
-  "Filter": {
+  "Sneaker Pimps": {
+    "id": "112261",
     "songs": [
       {
-        "name": "Hey Man Nice Shot",
-        "musicVideo": "https://www.youtube.com/watch?v=o9mJ82x_l-E"
-      },
-      {
-        "name": "Jurassitol"
+        "name": "6 Underground",
+        "musicVideo": "https://www.youtube.com/watch?v=2eBZqmL8ehg"
       }
-    ],
-    "id": "113030",
-    "facebook": "https://www.facebook.com/Filter",
-    "twitter": "https://www.twitter.com/OfficialFilter"
+    ]
   },
-  "Goo Goo Dolls": {
+  "Social Distortion": {
+    "id": "113560",
+    "facebook": "https://www.facebook.com/socialdistortion",
+    "twitter": "https://www.twitter.com/SocialD1",
     "songs": [
       {
-        "name": "Name",
-        "musicVideo": "https://www.youtube.com/watch?v=yQOBUrRaPU0"
-      },
-      {
-        "name": "Naked",
-        "musicVideo": "https://www.youtube.com/watch?v=yWBuvaMvdt4"
+        "name": "I Was Wrong"
       }
-    ],
-    "id": "111788",
-    "facebook": "https://www.facebook.com/googoodolls",
-    "twitter": "https://www.twitter.com/#!/googoodolls"
+    ]
   },
-  "Bush": {
+  "Sonic Youth": {
+    "id": "112711",
     "songs": [
       {
-        "name": "Everything Zen",
-        "musicVideo": "https://www.youtube.com/watch?v=Ps317u9Rhl0"
-      },
-      {
-        "name": "Come Down"
-      },
-      {
-        "name": "Little Things",
-        "musicVideo": "https://www.youtube.com/watch?v=02K82uw4lio"
-      },
-      {
-        "name": "Glycerine",
-        "musicVideo": "https://www.youtube.com/watch?v=hOllF3TgAsM"
-      },
-      {
-        "name": "Machinehead",
-        "musicVideo": "https://www.youtube.com/watch?v=Er1bwzZCik0"
-      },
-      {
-        "name": "Swallowed",
-        "musicVideo": "https://www.youtube.com/watch?v=8FIBPKRV3kk"
-      },
-      {
-        "name": "Greedy Fly"
-      },
-      {
-        "name": "Cold Contagious"
-      },
-      {
-        "name": "Mouth"
+        "name": "Bull In The Heather",
+        "musicVideo": "https://www.youtube.com/watch?v=8JGBNkLM9_8"
       }
-    ],
-    "id": "111495",
-    "facebook": "https://www.facebook.com/BushOfficial",
-    "twitter": "https://www.twitter.com/#!/bushofficial"
+    ]
   },
-  "The Presidents Of The United States Of America": {
+  "Soul Asylum": {
+    "id": "113067",
+    "facebook": "https://www.facebook.com/SoulAsylum",
+    "twitter": "https://www.twitter.com/soulasylum",
     "songs": [
       {
-        "name": "Lump",
-        "musicVideo": "https://www.youtube.com/watch?v=_sj_U6vObUA"
+        "name": "Black Gold"
       },
       {
-        "name": "Peaches",
-        "musicVideo": "https://www.youtube.com/watch?v=uV14jq2n-jg"
+        "name": "Just Like Anyone"
+      },
+      {
+        "name": "Misery"
+      },
+      {
+        "name": "Runaway Train",
+        "musicVideo": "https://www.youtube.com/watch?v=NRtvqT_wMeY"
+      },
+      {
+        "name": "Sexual Healing"
       }
-    ],
-    "id": "113108"
+    ]
+  },
+  "Soundgarden": {
+    "id": "112001",
+    "facebook": "https://www.facebook.com/Soundgarden",
+    "twitter": "https://www.twitter.com/soundgarden",
+    "songs": [
+      {
+        "name": "Black Hole Sun",
+        "musicVideo": "https://www.youtube.com/watch?v=3mbBbFH9fAg"
+      },
+      {
+        "name": "Blow Up The Outside World"
+      },
+      {
+        "name": "Burden In My Hand"
+      },
+      {
+        "name": "Fell On Black Days",
+        "musicVideo": "https://www.youtube.com/watch?v=ySzrJ4GRF7s"
+      },
+      {
+        "name": "My Wave"
+      },
+      {
+        "name": "Pretty Noose"
+      },
+      {
+        "name": "Spoonman",
+        "musicVideo": "https://www.youtube.com/watch?v=T0_zzCLLRvE"
+      }
+    ]
+  },
+  "Soup Dragons": {
+    "songs": [
+      {
+        "name": "Divine Thing"
+      }
+    ]
+  },
+  "Space": {
+    "songs": [
+      {
+        "name": "Female Of The Species"
+      }
+    ]
+  },
+  "Spacehog": {
+    "id": "117859",
+    "facebook": "https://www.facebook.com/spacehogofficial",
+    "twitter": "https://www.twitter.com/spacehog",
+    "songs": [
+      {
+        "name": "In The Meantime",
+        "musicVideo": "https://www.youtube.com/watch?v=PCsGRCf8T9Y"
+      }
+    ]
+  },
+  "Spin Doctors": {
+    "id": "112213",
+    "facebook": "https://www.facebook.com/spindoctorsband",
+    "twitter": "https://www.twitter.com/spindoctorsband",
+    "songs": [
+      {
+        "name": "Two Princes",
+        "musicVideo": "https://www.youtube.com/watch?v=wsdy_rct6uo"
+      }
+    ]
   },
   "Sponge": {
+    "id": "115820",
     "songs": [
       {
         "name": "Molly"
@@ -1854,614 +2150,388 @@
       {
         "name": "Wax Ecstatic"
       }
-    ],
-    "id": "115820"
+    ]
   },
-  "Tripping Daisy": {
+  "Squirrel Nut Zippers": {
+    "id": "117601",
     "songs": [
       {
-        "name": "I Got A Girl"
-      }
-    ],
-    "id": "116025"
-  },
-  "Foo Fighters": {
-    "songs": [
-      {
-        "name": "I'll Stick Around",
-        "musicVideo": "https://www.youtube.com/watch?v=X_rTTsZZ9KE"
-      },
-      {
-        "name": "This Is A Call"
-      },
-      {
-        "name": "Big Me",
-        "musicVideo": "https://www.youtube.com/watch?v=pLdJQFTnZfA"
-      },
-      {
-        "name": "Along + Easy Target"
-      },
-      {
-        "name": "Everlong",
-        "musicVideo": "https://www.youtube.com/watch?v=eBG7P-K-r1Y"
-      },
-      {
-        "name": "Monkey Wrench",
-        "musicVideo": "https://www.youtube.com/watch?v=I7rCNiiNPxA"
-      }
-    ],
-    "id": "111233",
-    "facebook": "https://www.facebook.com/foofighters",
-    "twitter": "https://www.twitter.com/foofighters"
-  },
-  "Elastica": {
-    "songs": [
-      {
-        "name": "Connection",
-        "musicVideo": "https://www.youtube.com/watch?v=ilKcXIFi-Rc"
-      },
-      {
-        "name": "Stutter",
-        "musicVideo": "https://www.youtube.com/watch?v=0ie4x8hWYYE"
-      }
-    ],
-    "id": "120399"
-  },
-  "Toadies": {
-    "songs": [
-      {
-        "name": "Possum Kingdom",
-        "musicVideo": "https://www.youtube.com/watch?v=EkwD5rQ-_d4"
-      }
-    ],
-    "id": "113843"
-  },
-  "Smoking Popes": {
-    "songs": [
-      {
-        "name": "Need You Around"
-      }
-    ],
-    "id": "126962"
-  },
-  "The Stone Roses": {
-    "songs": [
-      {
-        "name": "Love Spreads",
-        "musicVideo": "https://www.youtube.com/watch?v=ct-qa6SjRZo"
-      }
-    ],
-    "id": "111753",
-    "facebook": "https://www.facebook.com/thestoneroses",
-    "twitter": "https://www.twitter.com/stoneroses"
-  },
-  "Blues Traveler": {
-    "songs": [
-      {
-        "name": "Runaround"
-      },
-      {
-        "name": "Hook"
-      }
-    ],
-    "id": "112959"
-  },
-  "Primus": {
-    "songs": [
-      {
-        "name": "Wynona's Big Brown Beaver",
-        "musicVideo": "https://www.youtube.com/watch?v=aYDfwUJzYQg"
-      }
-    ],
-    "id": "113051",
-    "facebook": "https://www.facebook.com/primusville",
-    "twitter": "https://www.twitter.com/primus"
-  },
-  "Natalie Merchant": {
-    "songs": [
-      {
-        "name": "Carnival"
-      }
-    ],
-    "id": "122947"
-  },
-  "Hum": {
-    "songs": [
-      {
-        "name": "Stars"
-      }
-    ],
-    "id": "117752"
-  },
-  "Edwyn Collins": {
-    "songs": [
-      {
-        "name": "A Girl Like You",
-        "musicVideo": "http://youtu.be/nkKxGzm98AU"
-      }
-    ],
-    "id": "125632"
-  },
-  "Cake": {
-    "songs": [
-      {
-        "name": "Rock n' Roll Lifestyle"
-      },
-      {
-        "name": "The Distance",
-        "musicVideo": "https://www.youtube.com/watch?v=BsYWoXT_UEw"
-      }
-    ],
-    "id": "112961"
-  },
-  "PJ Harvey": {
-    "songs": [
-      {
-        "name": "Down By The Water"
-      }
-    ],
-    "id": "112809",
-    "facebook": "https://www.facebook.com/PJHarvey",
-    "twitter": "https://www.twitter.com/pjharvey"
-  },
-  "Magnificent Bastards": {
-    "songs": [
-      {
-        "name": "Mockingbird Girl"
+        "name": "Hell",
+        "musicVideo": "https://www.youtube.com/watch?v=yS2IBMQIjDo"
       }
     ]
   },
-  "Dave Matthews Band": {
+  "Stabbing Westward": {
+    "id": "114730",
     "songs": [
       {
-        "name": "What Would You Say"
+        "name": "Shame"
       },
       {
-        "name": "Ants Marching"
-      },
-      {
-        "name": "Too Much"
-      },
-      {
-        "name": "So Much To Say",
-        "musicVideo": "https://www.youtube.com/watch?v=hYt_3ZKEIKI"
-      },
-      {
-        "name": "Crash Into Me",
-        "musicVideo": "https://www.youtube.com/watch?v=WqEOvEoCV3w"
-      },
-      {
-        "name": "Trippin' Billies"
-      }
-    ],
-    "id": "111703",
-    "facebook": "https://www.facebook.com/davematthewsband",
-    "twitter": "https://www.twitter.com/davematthewsbnd"
-  },
-  "Folk Implosion": {
-    "songs": [
-      {
-        "name": "Natural One"
+        "name": "What Do I Have To Do?"
       }
     ]
   },
-  "The Rentals": {
+  "Stereo MC's": {
     "songs": [
       {
-        "name": "Friends Of P.",
-        "musicVideo": "https://www.youtube.com/watch?v=wi-H6ohY37k"
+        "name": "Connected"
       }
-    ],
-    "id": "119071"
+    ]
+  },
+  "Sting": {
+    "id": "111600",
+    "songs": [
+      {
+        "name": "Fields Of Gold"
+      },
+      {
+        "name": "If I Ever Lose My Faith In You"
+      }
+    ]
+  },
+  "Stone Temple Pilots": {
+    "id": "112007",
+    "facebook": "https://www.facebook.com/stpband",
+    "twitter": "https://www.twitter.com/STPBand",
+    "songs": [
+      {
+        "name": "Big Bang Baby",
+        "musicVideo": "https://www.youtube.com/watch?v=G0gAxuvo5rc"
+      },
+      {
+        "name": "Big Empty"
+      },
+      {
+        "name": "Creep"
+      },
+      {
+        "name": "Interstate Love Song"
+      },
+      {
+        "name": "Lady Picture Show"
+      },
+      {
+        "name": "Plush"
+      },
+      {
+        "name": "Sex Type Thing"
+      },
+      {
+        "name": "Trippin' On A Hole In A Paper Heart"
+      },
+      {
+        "name": "Wicked Garden"
+      }
+    ]
   },
   "Sublime": {
+    "id": "112729",
     "songs": [
       {
         "name": "Date Rape"
       },
       {
-        "name": "What I Got"
+        "name": "Doin' Time"
       },
       {
         "name": "Santeria"
       },
       {
-        "name": "Doin' Time"
+        "name": "What I Got"
       },
       {
         "name": "Wrong Way"
       }
-    ],
-    "id": "112729"
+    ]
   },
-  "Seven Mary Three": {
+  "Suede": {
+    "id": "112262",
+    "facebook": "https://www.facebook.com/suede",
+    "twitter": "https://www.twitter.com/suedeHQ",
     "songs": [
       {
-        "name": "Cumbersome"
-      }
-    ],
-    "id": "118530",
-    "facebook": "https://www.facebook.com/sevenmarythree",
-    "twitter": "https://www.twitter.com/7m3"
-  },
-  "Joan Osborne": {
-    "songs": [
-      {
-        "name": "One Of Us"
-      }
-    ],
-    "id": "117906",
-    "facebook": "https://www.facebook.com/joanosbornemusic",
-    "twitter": "https://www.twitter.com/joan_osborne"
-  },
-  "Jill Sobule": {
-    "songs": [
-      {
-        "name": "I Kissed A Girl"
-      }
-    ],
-    "id": "117285"
-  },
-  "KMFDM": {
-    "songs": [
-      {
-        "name": "Juke Joint Jezebel"
-      }
-    ],
-    "id": "112872"
-  },
-  "Mad Season": {
-    "songs": [
-      {
-        "name": "River Of Deceit"
-      }
-    ],
-    "id": "117319"
-  },
-  "Garbage": {
-    "songs": [
-      {
-        "name": "Queer",
-        "musicVideo": "https://www.youtube.com/watch?v=3ppiohVRZ0s"
-      },
-      {
-        "name": "Stupid Girl",
-        "musicVideo": "https://www.youtube.com/watch?v=2GhPUAVgHZc"
-      },
-      {
-        "name": "Only Happy When It Rains",
-        "musicVideo": "https://www.youtube.com/watch?v=GpBFOJ3R0M4"
-      },
-      {
-        "name": "#1 Crush",
-        "musicVideo": "https://www.youtube.com/watch?v=PX7LLua5NCM&list=RDEMHaYictvO-3kCRyUqz3lLxw&index=5"
-      }
-    ],
-    "id": "111739"
-  },
-  "1000 Homo DJ's": {
-    "songs": [
-      {
-        "name": "Supernaut"
+        "name": "Metal Mickey",
+        "musicVideo": "https://www.youtube.com/watch?v=0rbw5FaCAzw"
       }
     ]
   },
-  "Portishead": {
+  "Sugar": {
+    "id": "122227",
     "songs": [
       {
-        "name": "Sour Times"
-      }
-    ],
-    "id": "111957"
-  },
-  "Our Lady Peace": {
-    "songs": [
-      {
-        "name": "Starseed",
-        "musicVideo": "https://www.youtube.com/watch?v=O94CW_tIEzU"
+        "name": "Helpless"
       },
       {
-        "name": "Superman's Dead",
-        "musicVideo": "https://www.youtube.com/watch?v=8CBBtorFg2I"
-      }
-    ],
-    "id": "112202",
-    "facebook": "https://www.facebook.com/ourladypeace",
-    "twitter": "https://www.twitter.com/#!/OurLadyPeace"
-  },
-  "Ass Ponys": {
-    "songs": [
+        "name": "If I Can't Change Your Mind"
+      },
       {
-        "name": "Little Bastard"
-      }
-    ],
-    "id": "141885"
-  },
-  "Rusted Root": {
-    "songs": [
-      {
-        "name": "Send Me On My Way"
-      }
-    ],
-    "id": "116744",
-    "facebook": "https://www.facebook.com/RustedRoot",
-    "twitter": "https://www.twitter.com/RustedRoot"
-  },
-  "CIV": {
-    "songs": [
-      {
-        "name": "Can't Wait One Minute More"
-      }
-    ],
-    "id": "117875"
-  },
-  "Pizzcato Five": {
-    "songs": [
-      {
-        "name": "Twiggy Twiggy"
+        "name": "Your Favorite Thing"
       }
     ]
   },
-  "Letters To Cleo": {
+  "Sugar Ray": {
+    "id": "117864",
     "songs": [
       {
-        "name": "Here And Now"
-      }
-    ],
-    "id": "129212"
-  },
-  "Pulp": {
-    "songs": [
-      {
-        "name": "Common People",
-        "musicVideo": "https://www.youtube.com/watch?v=yuTMWgOduFM"
-      }
-    ],
-    "id": "111959",
-    "facebook": "https://www.facebook.com/pulppeople",
-    "twitter": "https://www.twitter.com/pulp2011"
-  },
-  "Adam Ant": {
-    "songs": [
-      {
-        "name": "Wonderful"
-      }
-    ],
-    "id": "115769"
-  },
-  "Jennifer Trynin": {
-    "songs": [
-      {
-        "name": "Better Than Nothing"
+        "name": "Fly",
+        "musicVideo": "https://www.youtube.com/watch?v=zUtnwcv-quE"
       }
     ]
-  },
-  "Everclear": {
-    "songs": [
-      {
-        "name": "Santa Monica",
-        "musicVideo": "https://www.youtube.com/watch?v=MW6E_TNgCsY"
-      },
-      {
-        "name": "Heartspark Dollarsign",
-        "musicVideo": "https://www.youtube.com/watch?v=_9Pop985sJQ"
-      },
-      {
-        "name": "Everything To Everyone",
-        "musicVideo": "https://www.youtube.com/watch?v=D1vQJFF2TKQ"
-      }
-    ],
-    "id": "113201",
-    "facebook": "https://www.facebook.com/everclear?fref=ts",
-    "twitter": "https://www.twitter.com/EverclearBand"
-  },
-  "Gravity Kills": {
-    "songs": [
-      {
-        "name": "Guilty"
-      }
-    ],
-    "id": "111791"
-  },
-  "No Doubt": {
-    "songs": [
-      {
-        "name": "Spiderwebs",
-        "musicVideo": "https://www.youtube.com/watch?v=6ZktNItwexo"
-      },
-      {
-        "name": "Don't Speak",
-        "musicVideo": "https://www.youtube.com/watch?v=TR3Vdo5etCQ"
-      },
-      {
-        "name": "Happy Now?"
-      },
-      {
-        "name": "Sunday Morning",
-        "musicVideo": "https://www.youtube.com/watch?v=PiBX-ESFDF0"
-      },
-      {
-        "name": "Excuse Me Mr.",
-        "musicVideo": "https://www.youtube.com/watch?v=it1aZBPuH4w"
-      }
-    ],
-    "id": "111517",
-    "facebook": "https://www.facebook.com/nodoubt",
-    "twitter": "https://www.twitter.com/#!/nodoubt"
-  },
-  "Butthole Surfers": {
-    "songs": [
-      {
-        "name": "Pepper",
-        "musicVideo": "https://www.youtube.com/watch?v=8IvoHN3mgpM"
-      }
-    ],
-    "id": "112710"
-  },
-  "Stabbing Westward": {
-    "songs": [
-      {
-        "name": "What Do I Have To Do?"
-      },
-      {
-        "name": "Shame"
-      }
-    ],
-    "id": "114730"
-  },
-  "Dishwalla": {
-    "songs": [
-      {
-        "name": "Counting Blue Cars"
-      }
-    ],
-    "id": "114646"
-  },
-  "Primitive Radio Gods": {
-    "songs": [
-      {
-        "name": "Standing Outside A Broken Phone Booth With Money In My Hand"
-      }
-    ],
-    "id": "116979"
-  },
-  "Spacehog": {
-    "songs": [
-      {
-        "name": "In The Meantime",
-        "musicVideo": "https://www.youtube.com/watch?v=PCsGRCf8T9Y"
-      }
-    ],
-    "id": "117859",
-    "facebook": "https://www.facebook.com/spacehogofficial",
-    "twitter": "https://www.twitter.com/spacehog"
-  },
-  "Goldfinger": {
-    "songs": [
-      {
-        "name": "Here In Your Bedroom"
-      },
-      {
-        "name": "Mable"
-      },
-      {
-        "name": "This Lonely Place"
-      }
-    ],
-    "id": "112992",
-    "facebook": "https://www.facebook.com/goldfingermusic",
-    "twitter": "https://www.twitter.com/goldfingermusic"
-  },
-  "Jewel": {
-    "songs": [
-      {
-        "name": "Who Will Save Your Soul?"
-      },
-      {
-        "name": "You Were Meant For Me"
-      }
-    ]
-  },
-  "Eels": {
-    "songs": [
-      {
-        "name": "Novocaine For The Soul",
-        "musicVideo": "https://www.youtube.com/watch?v=V2yy141q8HQ"
-      }
-    ],
-    "id": "112650",
-    "facebook": "https://www.facebook.com/THEEELS",
-    "twitter": "https://www.twitter.com/THE_EELS"
-  },
-  "Tracy Bonham": {
-    "songs": [
-      {
-        "name": "Mother Mother"
-      }
-    ],
-    "id": "127759"
-  },
-  "Local H": {
-    "songs": [
-      {
-        "name": "Bound For The Floor"
-      }
-    ],
-    "id": "114692"
-  },
-  "Geggy Tah": {
-    "songs": [
-      {
-        "name": "Whoever You Are"
-      }
-    ],
-    "id": "129363"
-  },
-  "Nixons": {
-    "songs": [
-      {
-        "name": "Sister"
-      }
-    ]
-  },
-  "Poe": {
-    "songs": [
-      {
-        "name": "Angry Johnny"
-      }
-    ],
-    "id": "113556"
-  },
-  "Nada Surf": {
-    "songs": [
-      {
-        "name": "Popular",
-        "musicVideo": "https://www.youtube.com/watch?v=RNc45FTenhg"
-      }
-    ],
-    "id": "113762"
-  },
-  "Republica": {
-    "songs": [
-      {
-        "name": "Ready To Go",
-        "musicVideo": "https://www.youtube.com/watch?v=JgffRW1fKDk"
-      },
-      {
-        "name": "Drop Dead Gorgeous",
-        "musicVideo": "https://www.youtube.com/watch?v=yqmwbVSTGlg"
-      }
-    ],
-    "id": "113651"
   },
   "Superdrag": {
+    "id": "126091",
     "songs": [
       {
         "name": "Sucked Out"
       }
-    ],
-    "id": "126091"
+    ]
   },
-  "The Verve Pipe": {
+  "Talk Show": {
     "songs": [
       {
-        "name": "Photograph"
+        "name": "Hello Hello"
+      }
+    ]
+  },
+  "Tears For Fears": {
+    "id": "112268",
+    "songs": [
+      {
+        "name": "Break It Down Again",
+        "musicVideo": "https://www.youtube.com/watch?v=x1100QINlo4"
+      }
+    ]
+  },
+  "The Breeders": {
+    "id": "113103",
+    "facebook": "https://www.facebook.com/thebreeders",
+    "twitter": "https://www.twitter.com/thebreeders",
+    "songs": [
+      {
+        "name": "Cannonball",
+        "musicVideo": "https://www.youtube.com/watch?v=fxvkI9MTQw4"
+      }
+    ]
+  },
+  "The Cardigans": {
+    "id": "112030",
+    "songs": [
+      {
+        "name": "Lovefool",
+        "musicVideo": "https://www.youtube.com/watch?v=I9zpnLBtwwg"
+      }
+    ]
+  },
+  "The Chemical Brothers": {
+    "id": "111485",
+    "facebook": "https://www.facebook.com/ChemicalBros",
+    "twitter": "https://www.twitter.com/ChemBros",
+    "songs": [
+      {
+        "name": "Block Rockin' Beats",
+        "musicVideo": "https://www.youtube.com/watch?v=iTxOKsyZ0Lw"
+      }
+    ]
+  },
+  "The Cranberries": {
+    "id": "112943",
+    "facebook": "https://www.facebook.com/TheCranberries/",
+    "twitter": "https://www.twitter.com/The_Cranberries",
+    "songs": [
+      {
+        "name": "Dreams",
+        "musicVideo": "https://www.youtube.com/watch?v=Yam5uK6e-bQ"
       },
       {
-        "name": "The Freshmen"
+        "name": "Free To Decide"
+      },
+      {
+        "name": "Linger",
+        "musicVideo": "https://www.youtube.com/watch?v=G6Kspj3OO0s"
+      },
+      {
+        "name": "Ode To My Family"
+      },
+      {
+        "name": "Ridiculous Thoughts"
+      },
+      {
+        "name": "Salvation",
+        "musicVideo": "https://www.youtube.com/watch?v=KotlCEGNbh8"
+      },
+      {
+        "name": "Zombie",
+        "musicVideo": "https://www.youtube.com/watch?v=Jcwsfns7KPQ"
       }
-    ],
-    "id": "116198"
+    ]
   },
-  "Social Distortion": {
+  "The Cure": {
+    "id": "111622",
+    "facebook": "https://www.facebook.com/thecure",
+    "twitter": "https://www.twitter.com/thecure_",
     "songs": [
       {
-        "name": "I Was Wrong"
+        "name": "Burn"
+      },
+      {
+        "name": "Mint Car",
+        "musicVideo": "https://www.youtube.com/watch?v=MMKN5Uaydzw"
+      },
+      {
+        "name": "Purple Haze"
+      },
+      {
+        "name": "Strange Attraction"
+      },
+      {
+        "name": "The 13th",
+        "musicVideo": "https://www.youtube.com/watch?v=1EOCq9urWbs"
+      },
+      {
+        "name": "Wrong Number",
+        "musicVideo": "https://www.youtube.com/watch?v=my17DT2Hb3Q"
       }
-    ],
-    "id": "113560",
-    "facebook": "https://www.facebook.com/socialdistortion",
-    "twitter": "https://www.twitter.com/SocialD1"
+    ]
+  },
+  "The Dandy Warhols": {
+    "id": "113041",
+    "facebook": "https://www.facebook.com/TheDandyWarhols",
+    "twitter": "https://www.twitter.com/TheDandyWarhols",
+    "songs": [
+      {
+        "name": "Not If You Were The Last Junkie On Earth"
+      }
+    ]
+  },
+  "The Jesus And Mary Chain": {
+    "id": "119961",
+    "songs": [
+      {
+        "name": "Sometimes Always",
+        "musicVideo": "https://www.youtube.com/watch?v=WL0269xbykQ"
+      }
+    ]
+  },
+  "The Juliana Hatfield Three": {
+    "id": "134735",
+    "songs": [
+      {
+        "name": "My Sister"
+      }
+    ]
+  },
+  "The Lemonheads": {
+    "id": "120183",
+    "facebook": "https://www.facebook.com/thelemonheads",
+    "twitter": "https://www.twitter.com/thelemonheads",
+    "songs": [
+      {
+        "name": "Into Your Arms",
+        "musicVideo": "https://www.youtube.com/watch?v=LWQfLmhrEYg"
+      },
+      {
+        "name": "It's A Shame About Ray",
+        "musicVideo": "https://www.youtube.com/watch?v=hFYFj5q8_Qk"
+      },
+      {
+        "name": "Mrs. Robinson",
+        "musicVideo": "https://www.youtube.com/watch?v=zvMFm5nKeUc"
+      }
+    ]
+  },
+  "The Mighty Mighty Bosstones": {
+    "id": "118524",
+    "facebook": "https://www.facebook.com/themightymightybosstones",
+    "twitter": "https://www.twitter.com/mmbosstones",
+    "songs": [
+      {
+        "name": "The Impression That I Get"
+      },
+      {
+        "name": "The Rascal King"
+      }
+    ]
+  },
+  "The Offspring": {
+    "id": "112207",
+    "facebook": "https://www.facebook.com/Offspring",
+    "twitter": "https://www.twitter.com/offspring",
+    "songs": [
+      {
+        "name": "Come Out And Play",
+        "musicVideo": "https://www.youtube.com/watch?v=1jOk8dk-qaU"
+      },
+      {
+        "name": "Gone Away",
+        "musicVideo": "https://www.youtube.com/watch?v=40V9_1PMUGM"
+      },
+      {
+        "name": "Gotta Get Away",
+        "musicVideo": "https://www.youtube.com/watch?v=C6jz1hewTzA"
+      },
+      {
+        "name": "Self Esteem",
+        "musicVideo": "https://www.youtube.com/watch?v=Abrn8aVQ76Q"
+      }
+    ]
+  },
+  "The Pogues": {
+    "id": "114305",
+    "songs": [
+      {
+        "name": "Tuesday Morning",
+        "musicVideo": "https://www.youtube.com/watch?v=gPPscelHVhA"
+      }
+    ]
+  },
+  "The Posies": {
+    "id": "133976",
+    "songs": [
+      {
+        "name": "Dream All Day"
+      }
+    ]
+  },
+  "The Prentenders": {
+    "songs": [
+      {
+        "name": "Night In My Veins"
+      }
+    ]
+  },
+  "The Presidents Of The United States Of America": {
+    "id": "113108",
+    "songs": [
+      {
+        "name": "Lump",
+        "musicVideo": "https://www.youtube.com/watch?v=_sj_U6vObUA"
+      },
+      {
+        "name": "Peaches",
+        "musicVideo": "https://www.youtube.com/watch?v=uV14jq2n-jg"
+      }
+    ]
+  },
+  "The Proclaimers": {
+    "id": "114248",
+    "songs": [
+      {
+        "name": "I'm Gonna Be (500 Miles)",
+        "musicVideo": "https://www.youtube.com/watch?v=tbNlMtqrYS0"
+      }
+    ]
+  },
+  "The Prodigy": {
+    "id": "112131",
+    "facebook": "https://www.facebook.com/pages/The-Prodigy/18452288248",
+    "twitter": "https://www.twitter.com/#!/the_prodigy",
+    "songs": [
+      {
+        "name": "Breathe",
+        "musicVideo": "https://www.youtube.com/watch?v=6_PAHbqq-o4"
+      }
+    ]
   },
   "The Refreshments": {
     "songs": [
@@ -2470,44 +2540,132 @@
       }
     ]
   },
-  "Fun Lovin' Criminals": {
+  "The Rentals": {
+    "id": "119071",
     "songs": [
       {
-        "name": "Scooby Snacks"
+        "name": "Friends Of P.",
+        "musicVideo": "https://www.youtube.com/watch?v=wi-H6ohY37k"
       }
-    ],
-    "id": "117372",
-    "facebook": "https://www.facebook.com/funlovincriminals",
-    "twitter": "https://www.twitter.com/funlovincrims"
+    ]
   },
-  "Korn": {
+  "The Smashing Pumpkins": {
+    "id": "111999",
+    "facebook": "https://www.facebook.com/smashingpumpkins",
+    "twitter": "https://www.twitter.com/smashingpumpkin",
     "songs": [
       {
-        "name": "No Place To Hide"
+        "name": "1979",
+        "musicVideo": "https://www.youtube.com/watch?v=4aeETEoNfOg"
+      },
+      {
+        "name": "Bullet With Butterfly Wings",
+        "musicVideo": "https://www.youtube.com/watch?v=8-r-V0uK4u0"
+      },
+      {
+        "name": "Cherub Rock",
+        "musicVideo": "https://www.youtube.com/watch?v=q-KE9lvU810"
+      },
+      {
+        "name": "Disarm",
+        "musicVideo": "https://www.youtube.com/watch?v=d1acEVmnVhI"
+      },
+      {
+        "name": "Eye"
+      },
+      {
+        "name": "Landslide"
+      },
+      {
+        "name": "Mayonnaise"
+      },
+      {
+        "name": "Muzzle"
+      },
+      {
+        "name": "Never Let Me Down Again"
+      },
+      {
+        "name": "Rocket",
+        "musicVideo": "https://www.youtube.com/watch?v=Th-AqMvvBzE"
+      },
+      {
+        "name": "The End Is The Beginning Is The End"
+      },
+      {
+        "name": "Thirty-Three",
+        "musicVideo": "https://www.youtube.com/watch?v=AYSbztCCTlA"
+      },
+      {
+        "name": "Today",
+        "musicVideo": "https://www.youtube.com/watch?v=xmUZ6nCFNoU"
+      },
+      {
+        "name": "Tonight, Tonight",
+        "musicVideo": "https://www.youtube.com/watch?v=NOG3eus4ZSo"
+      },
+      {
+        "name": "Zero",
+        "musicVideo": "http://www.dailymotion.com/video/xcu9m7"
       }
-    ],
-    "id": "111490",
-    "facebook": "https://www.twitter.com/Korn",
-    "twitter": "https://www.facebook.com/korn"
+    ]
   },
-  "For Squirrels": {
+  "The Stone Roses": {
+    "id": "111753",
+    "facebook": "https://www.facebook.com/thestoneroses",
+    "twitter": "https://www.twitter.com/stoneroses",
     "songs": [
       {
-        "name": "Mighty K.C."
+        "name": "Love Spreads",
+        "musicVideo": "https://www.youtube.com/watch?v=ct-qa6SjRZo"
       }
-    ],
-    "id": "159016"
+    ]
   },
-  "Lush": {
+  "The Sundays": {
+    "id": "120220",
     "songs": [
       {
-        "name": "Ladykillers"
+        "name": "Summertime"
       }
-    ],
-    "id": "115441"
+    ]
+  },
+  "The The": {
+    "id": "113718",
+    "songs": [
+      {
+        "name": "Slow Emotion Replay"
+      }
+    ]
+  },
+  "The Verve": {
+    "id": "112273",
+    "facebook": "https://www.facebook.com/theverve",
+    "songs": [
+      {
+        "name": "Bitter Sweet Symphony",
+        "musicVideo": "https://www.youtube.com/watch?v=1lyu1KKwC74"
+      }
+    ]
+  },
+  "The Verve Pipe": {
+    "id": "116198",
+    "songs": [
+      {
+        "name": "Photograph"
+      },
+      {
+        "name": "The Freshmen"
+      }
+    ]
   },
   "The Wallflowers": {
+    "id": "113818",
+    "facebook": "https://www.facebook.com/thewallflowersmusic",
+    "twitter": "https://www.twitter.com/TheWallflowers",
     "songs": [
+      {
+        "name": "3 Marlenas"
+      },
       {
         "name": "6th Avenue Heartache",
         "musicVideo": "https://www.youtube.com/watch?v=kXDiGtgPL6E"
@@ -2519,101 +2677,45 @@
       {
         "name": "The Difference",
         "musicVideo": "https://www.youtube.com/watch?v=5qSAMtomFvk"
-      },
-      {
-        "name": "3 Marlenas"
-      }
-    ],
-    "id": "113818",
-    "facebook": "https://www.facebook.com/thewallflowersmusic",
-    "twitter": "https://www.twitter.com/TheWallflowers"
-  },
-  "Kula Shaker": {
-    "songs": [
-      {
-        "name": "Tattva",
-        "musicVideo": "https://www.youtube.com/watch?v=2bYj2o7y4rk"
-      }
-    ],
-    "id": "113897",
-    "facebook": "https://www.facebook.com/kulashaker",
-    "twitter": "https://www.twitter.com/kula_shaker"
-  },
-  "Fiona Apple": {
-    "songs": [
-      {
-        "name": "Shadowboxer"
-      },
-      {
-        "name": "Criminal",
-        "musicVideo": "https://www.youtube.com/watch?v=FFOzayDpWoI"
-      },
-      {
-        "name": "Sleep To Dream"
-      }
-    ],
-    "id": "112092"
-  },
-  "Jars Of Clay": {
-    "songs": [
-      {
-        "name": "Flood"
-      }
-    ],
-    "id": "115039",
-    "twitter": "https://www.twitter.com/jarsofclay"
-  },
-  "Bloodhound Gang": {
-    "songs": [
-      {
-        "name": "Fire Water Burn",
-        "musicVideo": "https://www.youtube.com/watch?v=Adgx9wt63NY"
-      }
-    ],
-    "id": "112306",
-    "facebook": "https://www.facebook.com/bloodhoundgang",
-    "twitter": "https://www.twitter.com/bloodhoundgang"
-  },
-  "Ruby": {
-    "songs": [
-      {
-        "name": "Tiny Meat"
       }
     ]
   },
-  "Sugar Ray": {
-    "songs": [
-      {
-        "name": "Fly",
-        "musicVideo": "https://www.youtube.com/watch?v=zUtnwcv-quE"
-      }
-    ],
-    "id": "117864"
-  },
   "Third Eye Blind": {
+    "id": "112036",
     "songs": [
-      {
-        "name": "Semi-Charmed Life"
-      },
       {
         "name": "Graduate"
       },
       {
         "name": "How's It Gonna Be"
+      },
+      {
+        "name": "Semi-Charmed Life"
       }
-    ],
-    "id": "112036"
+    ]
   },
-  "Smash Mouth": {
+  "Toad The Wet Sprocket": {
+    "id": "116811",
     "songs": [
       {
-        "name": "Walkin' On The Sun",
-        "musicVideo": "https://www.youtube.com/watch?v=LQj--Kjn0z8"
+        "name": "Fall Down"
+      },
+      {
+        "name": "Something's Always Wrong"
       }
-    ],
-    "id": "114723"
+    ]
+  },
+  "Toadies": {
+    "id": "113843",
+    "songs": [
+      {
+        "name": "Possum Kingdom",
+        "musicVideo": "https://www.youtube.com/watch?v=EkwD5rQ-_d4"
+      }
+    ]
   },
   "Tonic": {
+    "id": "118191",
     "songs": [
       {
         "name": "If You Could Only See",
@@ -2623,297 +2725,195 @@
         "name": "Open Up Your Eyes",
         "musicVideo": "https://www.youtube.com/watch?v=-lDIJjnCHco"
       }
-    ],
-    "id": "118191"
+    ]
   },
-  "The Mighty Mighty Bosstones": {
+  "Tool": {
+    "id": "111480",
+    "facebook": "https://www.facebook.com/ToolMusic",
+    "twitter": "https://www.twitter.com/Tool",
     "songs": [
       {
-        "name": "The Impression That I Get"
+        "name": "Sober",
+        "musicVideo": "https://www.youtube.com/watch?v=t1krvOc7t1I"
       },
       {
-        "name": "The Rascal King"
-      }
-    ],
-    "id": "118524",
-    "facebook": "https://www.facebook.com/themightymightybosstones",
-    "twitter": "https://www.twitter.com/mmbosstones"
-  },
-  "Chumbawumba": {
-    "songs": [
-      {
-        "name": "Tubthumping"
+        "name": "Stinkfist",
+        "musicVideo": "https://www.youtube.com/watch?v=07pLGIgyfjw"
       }
     ]
   },
-  "Matchbox 20": {
+  "Tori Amos": {
+    "id": "112269",
     "songs": [
       {
-        "name": "Push"
+        "name": "Caught A Lite Sneeze",
+        "musicVideo": "https://www.youtube.com/watch?v=weWtRqoSUOI"
       },
       {
-        "name": "3 A.M."
+        "name": "Cornflake Girl",
+        "musicVideo": "https://www.youtube.com/watch?v=w_HA5Czhtx4"
+      },
+      {
+        "name": "God",
+        "musicVideo": "https://www.youtube.com/watch?v=cN3rzi7dZVQ"
+      }
+    ]
+  },
+  "Tracy Bonham": {
+    "id": "127759",
+    "songs": [
+      {
+        "name": "Mother Mother"
+      }
+    ]
+  },
+  "Tripping Daisy": {
+    "id": "116025",
+    "songs": [
+      {
+        "name": "I Got A Girl"
+      }
+    ]
+  },
+  "U2": {
+    "id": "112045",
+    "facebook": "https://www.facebook.com/u2",
+    "twitter": "https://www.twitter.com/#!/u2com",
+    "songs": [
+      {
+        "name": "All I Want Is You"
+      },
+      {
+        "name": "Discotheque"
+      },
+      {
+        "name": "Hold Me, Thrill Me, Kiss Me, Kill Me"
+      },
+      {
+        "name": "Last Night On Earth",
+        "musicVideo": "https://www.youtube.com/watch?v=gKr3Ov5szbU"
+      },
+      {
+        "name": "Lemon"
+      },
+      {
+        "name": "Numb",
+        "musicVideo": "https://www.youtube.com/watch?v=zvUu0drDZkg"
+      },
+      {
+        "name": "Staring At The Sun"
+      },
+      {
+        "name": "Stay (Faraway So Close)"
+      }
+    ]
+  },
+  "UB40": {
+    "id": "111333",
+    "facebook": "https://www.facebook.com/ub40official",
+    "twitter": "https://www.twitter.com/UB40OFFICIAL",
+    "songs": [
+      {
+        "name": "Can't Help Falling In Love"
       }
     ]
   },
   "Underworld": {
+    "id": "111244",
+    "facebook": "https://www.facebook.com/underworldlive",
+    "twitter": "https://www.twitter.com/underworldlive",
     "songs": [
       {
         "name": "Born Slippy"
       }
-    ],
-    "id": "111244",
-    "facebook": "https://www.facebook.com/underworldlive",
-    "twitter": "https://www.twitter.com/underworldlive"
+    ]
   },
-  "Sneaker Pimps": {
+  "Urge Overkill": {
+    "id": "123235",
     "songs": [
       {
-        "name": "6 Underground",
-        "musicVideo": "https://www.youtube.com/watch?v=2eBZqmL8ehg"
+        "name": "Girl, You'll Be A Woman Soon",
+        "musicVideo": "https://www.youtube.com/watch?v=GxLR_VaWkMM"
       }
-    ],
-    "id": "112261"
+    ]
   },
-  "The Cardigans": {
+  "Veruca Salt": {
+    "id": "113083",
     "songs": [
       {
-        "name": "Lovefool",
-        "musicVideo": "https://www.youtube.com/watch?v=I9zpnLBtwwg"
+        "name": "Seether",
+        "musicVideo": "https://www.youtube.com/watch?v=jC9AUR-iTo0"
+      },
+      {
+        "name": "Volcano Girls",
+        "musicVideo": "https://www.youtube.com/watch?v=qyVSKydUxKk"
       }
-    ],
-    "id": "112030"
+    ]
   },
-  "K's Choice": {
+  "Wailing Souls": {
+    "id": "114521",
     "songs": [
       {
-        "name": "Not An Addict",
-        "musicVideo": "https://www.youtube.com/watch?v=cZfKOmygkr4"
+        "name": "Shark Attack"
       }
-    ],
-    "id": "115907"
+    ]
   },
-  "OMC": {
+  "Ween": {
+    "id": "119149",
     "songs": [
       {
-        "name": "How Bizarre",
-        "musicVideo": "https://www.youtube.com/watch?v=C2cMG33mWVY"
+        "name": "Push The Little Daisies"
       }
-    ],
-    "id": "120342"
+    ]
   },
-  "Luscious Jackson": {
+  "Weezer": {
+    "id": "112646",
+    "facebook": "https://www.facebook.com/weezer",
+    "twitter": "https://www.twitter.com/Weezer",
     "songs": [
       {
-        "name": "Naked Eye"
+        "name": "Buddy Holly",
+        "musicVideo": "https://www.youtube.com/watch?v=kemivUKb4f4"
+      },
+      {
+        "name": "El Scorcho",
+        "musicVideo": "https://www.youtube.com/watch?v=okthJIVbi6g"
+      },
+      {
+        "name": "Say It Ain't So",
+        "musicVideo": "https://www.youtube.com/watch?v=ENXvZ9YRjbo"
+      },
+      {
+        "name": "Undone (The Sweater Song)"
       }
-    ],
-    "id": "117304"
+    ]
+  },
+  "Whale": {
+    "id": "125279",
+    "songs": [
+      {
+        "name": "Hobo Humpin Slobo Babe"
+      }
+    ]
   },
   "White Town": {
+    "id": "126096",
     "songs": [
       {
         "name": "Your Woman"
       }
-    ],
-    "id": "126096"
-  },
-  "Meredith Brooks": {
-    "songs": [
-      {
-        "name": "Bitch"
-      }
-    ],
-    "id": "120330"
-  },
-  "Space": {
-    "songs": [
-      {
-        "name": "Female Of The Species"
-      }
     ]
   },
-  "The Verve": {
+  "White Zombie": {
+    "id": "112896",
     "songs": [
       {
-        "name": "Bitter Sweet Symphony",
-        "musicVideo": "https://www.youtube.com/watch?v=1lyu1KKwC74"
-      }
-    ],
-    "id": "112273",
-    "facebook": "https://www.facebook.com/theverve"
-  },
-  "Marcy Playground": {
-    "songs": [
-      {
-        "name": "Sex And Candy"
-      }
-    ],
-    "id": "115442"
-  },
-  "The Prodigy": {
-    "songs": [
-      {
-        "name": "Breathe",
-        "musicVideo": "https://www.youtube.com/watch?v=6_PAHbqq-o4"
-      }
-    ],
-    "id": "112131",
-    "facebook": "https://www.facebook.com/pages/The-Prodigy/18452288248",
-    "twitter": "https://www.twitter.com/#!/the_prodigy"
-  },
-  "Days Of The New": {
-    "songs": [
-      {
-        "name": "Touch, Peel, And Stand"
-      }
-    ],
-    "id": "114344"
-  },
-  "Reel Big Fish": {
-    "songs": [
-      {
-        "name": "Sell Out"
-      }
-    ],
-    "id": "118990",
-    "facebook": "https://www.facebook.com/ReelBigFish?ref=nf",
-    "twitter": "https://www.twitter.com/ReelBigFish"
-  },
-  "Monaco": {
-    "songs": [
-      {
-        "name": "What Do You Want From Me"
-      }
-    ],
-    "id": "112245"
-  },
-  "Squirrel Nut Zippers": {
-    "songs": [
-      {
-        "name": "Hell",
-        "musicVideo": "https://www.youtube.com/watch?v=yS2IBMQIjDo"
-      }
-    ],
-    "id": "117601"
-  },
-  "Jamiroquai": {
-    "songs": [
-      {
-        "name": "Virtual Insanity",
-        "musicVideo": "https://www.youtube.com/watch?v=4JkIs37a2JE"
-      }
-    ],
-    "id": "111571",
-    "facebook": "https://www.facebook.com/JamiroquaiOfficialShare",
-    "twitter": "https://www.twitter.com/funkindotcom"
-  },
-  "Ben Folds Five": {
-    "songs": [
-      {
-        "name": "Brick",
-        "musicVideo": "https://www.youtube.com/watch?v=IJWBIgJR4EQ"
+        "name": "More Human Than Human",
+        "musicVideo": "https://www.youtube.com/watch?v=E0E0ynyIUsg"
       },
       {
-        "name": "Battle Of Who Could Care Less",
-        "musicVideo": "https://www.youtube.com/watch?v=0Y1wm7CFRCQ"
-      }
-    ],
-    "id": "112298",
-    "facebook": "https://www.facebook.com/BenFolds",
-    "twitter": "https://www.twitter.com/BenFolds"
-  },
-  "Daft Punk": {
-    "songs": [
-      {
-        "name": "Da Funk",
-        "musicVideo": "https://www.youtube.com/watch?v=mmi60Bd4jSs"
-      }
-    ],
-    "id": "111492",
-    "facebook": "https://www.facebook.com/daftpunk",
-    "twitter": "https://www.twitter.com/daftpunk"
-  },
-  "Blink-182": {
-    "songs": [
-      {
-        "name": "Dammit",
-        "musicVideo": "https://www.youtube.com/watch?v=sT0g16_LQaQ"
-      }
-    ],
-    "id": "111660",
-    "facebook": "https://www.facebook.com/blink182",
-    "twitter": "https://www.twitter.com/#!/blink182"
-  },
-  "Abra Moore": {
-    "songs": [
-      {
-        "name": "Four Leaf Clover"
-      }
-    ],
-    "id": "119501"
-  },
-  "The Chemical Brothers": {
-    "songs": [
-      {
-        "name": "Block Rockin' Beats",
-        "musicVideo": "https://www.youtube.com/watch?v=iTxOKsyZ0Lw"
-      }
-    ],
-    "id": "111485",
-    "facebook": "https://www.facebook.com/ChemicalBros",
-    "twitter": "https://www.twitter.com/ChemBros"
-  },
-  "Mansun": {
-    "songs": [
-      {
-        "name": "Wide Open Space"
-      }
-    ],
-    "id": "122016"
-  },
-  "The Sundays": {
-    "songs": [
-      {
-        "name": "Summertime"
-      }
-    ],
-    "id": "120220"
-  },
-  "Forest For The Trees": {
-    "songs": [
-      {
-        "name": "Dream"
-      }
-    ],
-    "id": "142809"
-  },
-  "The Dandy Warhols": {
-    "songs": [
-      {
-        "name": "Not If You Were The Last Junkie On Earth"
-      }
-    ],
-    "id": "113041",
-    "facebook": "https://www.facebook.com/TheDandyWarhols",
-    "twitter": "https://www.twitter.com/TheDandyWarhols"
-  },
-  "Talk Show": {
-    "songs": [
-      {
-        "name": "Hello Hello"
+        "name": "Thunderkiss '65"
       }
     ]
-  },
-  "Creed": {
-    "songs": [
-      {
-        "name": "My Own Prison",
-        "musicVideo": "http://youtu.be/iBBqjGd3fHQ"
-      }
-    ],
-    "id": "112321",
-    "facebook": "https://www.facebook.com/Creed",
-    "twitter": "https://www.twitter.com/creed"
   }
 }

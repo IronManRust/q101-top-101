@@ -86,7 +86,25 @@ const process = async (artistInformationList: ArtistInformationList) => {
       console.log(`Artist Response - Error - ${x}`)
     }
   }))
-  fs.writeFileSync(path.resolve(__dirname, 'artists.json'), JSON.stringify(artistInformationList, null, 2), 'utf-8')
+  const artistInformationListSorted: ArtistInformationList = {
+  }
+  for (const artistName of Object.keys(artistInformationList).sort()) {
+    artistInformationListSorted[artistName] = {
+      id: artistInformationList[artistName].id,
+      facebook: artistInformationList[artistName].facebook,
+      twitter: artistInformationList[artistName].twitter,
+      songs: artistInformationList[artistName].songs.sort((song1, song2) => {
+        if (song1.name > song2.name) {
+          return 1
+        }
+        if (song1.name < song2.name) {
+          return -1
+        }
+        return 0
+      })
+    }
+  }
+  fs.writeFileSync(path.resolve(__dirname, 'artists.json'), JSON.stringify(artistInformationListSorted, null, 2), 'utf-8')
 }
 
 process(artistInformationList)
