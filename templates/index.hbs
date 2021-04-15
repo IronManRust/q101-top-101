@@ -72,9 +72,13 @@
                                 </td>
                                 <td>
                                     {{#if this.musicVideoURL}}
-                                    <a href="{{this.musicVideoURL}}" target="_blank"><!-- TODO: {{this.musicVideoSource}} -->{{this.song}}</a>
+                                    <a href="{{this.musicVideoURL}}" target="_blank">
+                                        <img src="./music-video-{{this.musicVideoSource}}.png" title="{{this.song}}" /> {{this.song}}
+                                    </a>
                                     {{else}}
-                                    <!-- TODO: {{this.musicVideoSource}} -->{{this.song}}
+                                    <span>
+                                        <img src="./music-video-{{this.musicVideoSource}}.png" title="{{this.song}}" /> {{this.song}}
+                                    </span>
                                     {{/if}}
                                 </td>
                             </tr>
