@@ -15,7 +15,8 @@ export interface Countdown {
       facebook?: string
       twitter?: string
       song: string
-      musicVideo?: string
+      musicVideoURL?: string
+      musicVideoSource?: 'none' | 'general' | 'youtube' | 'vimeo' | 'dailymotion'
     }[]
   }[]
 }

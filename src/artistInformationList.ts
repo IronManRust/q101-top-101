@@ -1,3 +1,5 @@
+import { Source } from './source'
+
 export interface ArtistInformationList {
   [artist: string]: {
     id?: number
@@ -5,7 +7,8 @@ export interface ArtistInformationList {
     twitter?: string
     songs: {
       name: string
-      musicVideo?: string
+      musicVideoURL?: string
+      musicVideoSource?: Source
     }[]
   }
 }

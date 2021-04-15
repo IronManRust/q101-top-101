@@ -5,6 +5,7 @@ import path from 'path'
 import { ArtistInformationList } from './artistInformationList'
 import { DBArtistList } from './dbArtistList'
 import { DBSongsList } from './dbSongsList'
+import { Source } from './source'
 import { Countdown } from '../types/countdown'
 
 const countdown: Countdown = JSON.parse(fs.readFileSync(path.resolve(__dirname, 'countdown.json'), 'utf-8'))
@@ -31,35 +32,63 @@ for (const year of countdown.years) {
   }
 }
 
-const normalizeURL = (url: string | undefined): string | undefined => {
+const normalizeURL = (url: string | undefined): { value: string | undefined, source: Source } => {
   if (url) {
-    const domainsStandardized = [
-      'facebook.com',
-      'twitter.com',
-      'youtube.com',
-      'vimeo.com',
-      'dailymotion.com'
+    const domainsStandardized: { value: string, source: Source }[] = [
+      {
+        value: 'facebook.com',
+        source: 'general'
+      },
+      {
+        value: 'twitter.com',
+        source: 'general'
+      },
+      {
+        value: 'youtube.com',
+        source: 'youtube'
+      },
+      {
+        value: 'vimeo.com',
+        source: 'vimeo'
+      },
+      {
+        value: 'dailymotion.com',
+        source: 'dailymotion'
+      }
     ]
     for (const domain of domainsStandardized) {
-      if (url.indexOf(domain) !== -1) {
-        return `https://www.${url.substr(url.indexOf(domain))}`
+      if (url.indexOf(domain.value) !== -1) {
+        return {
+          value: `https://www.${url.substr(url.indexOf(domain.value))}`,
+          source: domain.source
+        }
       }
     }
-    const domainsShortened = [
+    const domainsShortened: { valueShort: string, valueLong: string, source: Source }[] = [
       {
-        short: 'youtu.be/',
-        long: 'youtube.com/watch?v='
+        valueShort: 'youtu.be/',
+        valueLong: 'youtube.com/watch?v=',
+        source: 'youtube'
       }
     ]
     for (const domain of domainsShortened) {
-      if (url.indexOf(domain.short) !== -1) {
-        return `https://www.${domain.long}${url.substr(url.indexOf(domain.short) + domain.short.length)}`
+      if (url.indexOf(domain.valueShort) !== -1) {
+        return {
+          value: `https://www.${domain.valueLong}${url.substr(url.indexOf(domain.valueShort) + domain.valueShort.length)}`,
+          source: domain.source
+        }
       }
     }
     console.log(chalk.yellow(`${chalk.bold('URL, Not Normalized:')} ${url}`))
-    return url
+    return {
+      value: url,
+      source: 'general'
+    }
   } else {
-    return url
+    return {
+      value: url,
+      source: 'none'
+    }
   }
 }
 
@@ -78,8 +107,8 @@ const process = async (artistInformationList: ArtistInformationList) => {
         if (artistName.toUpperCase().trim() === dbArtist.strArtist.toUpperCase().trim()) {
           console.log(chalk.green(`${chalk.bold('Artist, Exact Match:')} ${artistName}`))
           artistInformation.id = dbArtist.idArtist
-          artistInformation.facebook = normalizeURL(dbArtist.strFacebook || undefined)
-          artistInformation.twitter = normalizeURL(dbArtist.strTwitter || undefined)
+          artistInformation.facebook = normalizeURL(dbArtist.strFacebook || undefined).value
+          artistInformation.twitter = normalizeURL(dbArtist.strTwitter || undefined).value
           if (artistInformation.id) {
             console.log(chalk.green(`${chalk.bold('Artist, ID Exists:')} ${artistName}`))
             const responseSongs = await axios.get(`https://www.theaudiodb.com/api/v1/json/${apiKey}/mvid.php?i=${artistInformation.id}`)
@@ -92,7 +121,9 @@ const process = async (artistInformationList: ArtistInformationList) => {
                   for (const dbSong of dbSongsList.mvids) {
                     if (song.name.toUpperCase().trim() === dbSong.strTrack.toUpperCase().trim()) {
                       songFound = true
-                      song.musicVideo = normalizeURL(dbSong.strMusicVid || undefined)
+                      const normalizedURL = normalizeURL(dbSong.strMusicVid || undefined)
+                      song.musicVideoURL = normalizedURL.value
+                      song.musicVideoSource = normalizedURL.source
                     }
                   }
                   if (songFound) {

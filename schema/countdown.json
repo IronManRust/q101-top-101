@@ -33,8 +33,18 @@
                                 "song": {
                                     "type": "string"
                                 },
-                                "musicVideo": {
+                                "musicVideoURL": {
                                     "type": "string"
+                                },
+                                "musicVideoSource": {
+                                    "type": "string",
+                                    "enum": [
+                                        "none",
+                                        "general",
+                                        "youtube",
+                                        "vimeo",
+                                        "dailymotion"
+                                    ]
                                 }
                             },
                             "additionalProperties": false,

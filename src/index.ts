@@ -18,7 +18,8 @@ for (const artistName of Object.keys(artistInformationList)) {
         item.twitter = artistInformation.twitter
         for (const song of artistInformation.songs) {
           if (item.song.toUpperCase().trim() === song.name.toUpperCase().trim()) {
-            item.musicVideo = song.musicVideo
+            item.musicVideoURL = song.musicVideoURL
+            item.musicVideoSource = song.musicVideoSource || 'none'
           }
         }
       }
@@ -56,7 +57,7 @@ for (const artistName of Object.keys(artistInformationList)) {
   twitter += artistInformation.twitter ? 1 : 0
   for (const song of artistInformation.songs) {
     uniqueSongs += 1
-    musicVideo += song.musicVideo ? 1 : 0
+    musicVideo += song.musicVideoURL ? 1 : 0
   }
 }
 const statistics = {
