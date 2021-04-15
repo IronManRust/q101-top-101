@@ -129,7 +129,9 @@ const process = async (artistInformationList: ArtistInformationList) => {
                   if (songFound) {
                     console.log(chalk.green(`${chalk.bold('Song, Exact Match:')} ${artistName} - ${song.name}`))
                   } else {
-                    console.log(chalk.yellow(`${chalk.bold('Song, No Exact Match:')} ${artistName} - ${song.name} ⟷ ${chalk.dim(dbSongsList.mvids.map((mvid) => { return mvid.strTrack }).join(' | '))}`))
+                    console.log(chalk.yellow(`${chalk.bold('Song, No Exact Match:')} ${artistName} - ${song.name} ⟷ ${chalk.dim(dbSongsList.mvids.map((mvid) => { return mvid.strTrack })
+                      .sort()
+                      .join(' | '))}`))
                   }
                 }
               }
@@ -143,7 +145,9 @@ const process = async (artistInformationList: ArtistInformationList) => {
           console.log(chalk.yellow(`${chalk.bold('Artist, No Exact Match:')} ${artistName} ⟷ ${chalk.dim(dbArtist.strArtist)}`))
         }
       } else {
-        console.log(chalk.yellow(`${chalk.bold('Artist, Zero Or Multiple Results:')} ${artistName} ⟷ ${chalk.dim(dbArtistList.artists?.map((artist) => { return artist.strArtist }).join(' | '))}`))
+        console.log(chalk.yellow(`${chalk.bold('Artist, Zero Or Multiple Results:')} ${artistName} ⟷ ${chalk.dim(dbArtistList.artists?.map((artist) => { return artist.strArtist })
+          .sort()
+          .join(' | '))}`))
       }
     } else {
       console.log(chalk.red(`${chalk.bold('Artist, Query Error:')} ${artistName}`))
