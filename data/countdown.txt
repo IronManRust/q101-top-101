@@ -2,8 +2,6 @@ TODO: Turn these links into JSON.
 TODO: Rebuild `artists.json` once done.
 TODO: TheAudioDB - Deal with multiple artist matches, possibly by looping.
 
-2000
-- https://www.rocklists.com/q101-2000.html
 2001
 - https://www.rocklists.com/q101-2001.html
 2002
