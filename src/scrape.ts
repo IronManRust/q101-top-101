@@ -96,60 +96,64 @@ const process = async (artistInformationList: ArtistInformationList) => {
   const apiKey = 1 // Public, Low-Volume Key
   const artistNames = Object.keys(artistInformationList).sort()
   await Promise.all(artistNames.map(async (artistName) => {
-    const responseArtist = await axios.get(`https://www.theaudiodb.com/api/v1/json/${apiKey}/search.php?s=${encodeURIComponent(artistName)}`)
-    if (responseArtist.status === 200) {
-      console.log(chalk.green(`${chalk.bold('Artist, Query Success:')} ${artistName}`))
-      const dbArtistList: DBArtistList = responseArtist.data
-      if (dbArtistList.artists) {
-        console.log(chalk.green(`${chalk.bold('Artist, Results:')} ${artistName}`))
-        for (const dbArtist of dbArtistList.artists) {
-          const artistInformation = artistInformationList[artistName]
-          if (artistName.toUpperCase().trim() === dbArtist.strArtist.toUpperCase().trim()) {
-            console.log(chalk.green(`${chalk.bold('Artist, Exact Match:')} ${artistName}`))
-            artistInformation.id = dbArtist.idArtist
-            artistInformation.facebook = normalizeURL(dbArtist.strFacebook || undefined).value
-            artistInformation.twitter = normalizeURL(dbArtist.strTwitter || undefined).value
-            if (artistInformation.id) {
-              console.log(chalk.green(`${chalk.bold('Artist, ID Exists:')} ${artistName}`))
-              const responseSongs = await axios.get(`https://www.theaudiodb.com/api/v1/json/${apiKey}/mvid.php?i=${artistInformation.id}`)
-              if (responseSongs.status === 200) {
-                console.log(chalk.green(`${chalk.bold('Song, Query Success:')} ${artistName}`))
-                const dbSongsList: DBSongsList = responseSongs.data
-                if (dbSongsList.mvids) {
-                  for (const song of artistInformation.songs) {
-                    let songFound = false
-                    for (const dbSong of dbSongsList.mvids) {
-                      if (song.name.toUpperCase().trim() === dbSong.strTrack.toUpperCase().trim()) {
-                        songFound = true
-                        const normalizedURL = normalizeURL(dbSong.strMusicVid || undefined)
-                        song.musicVideoURL = normalizedURL.value
-                        song.musicVideoSource = normalizedURL.source
+    try {
+      const responseArtist = await axios.get(`https://www.theaudiodb.com/api/v1/json/${apiKey}/search.php?s=${encodeURIComponent(artistName)}`)
+      if (responseArtist.status === 200) {
+        console.log(chalk.green(`${chalk.bold('Artist, Query Success:')} ${artistName}`))
+        const dbArtistList: DBArtistList = responseArtist.data
+        if (dbArtistList.artists) {
+          console.log(chalk.green(`${chalk.bold('Artist, Results:')} ${artistName}`))
+          for (const dbArtist of dbArtistList.artists) {
+            const artistInformation = artistInformationList[artistName]
+            if (artistName.toUpperCase().trim() === dbArtist.strArtist.toUpperCase().trim()) {
+              console.log(chalk.green(`${chalk.bold('Artist, Exact Match:')} ${artistName}`))
+              artistInformation.id = dbArtist.idArtist
+              artistInformation.facebook = normalizeURL(dbArtist.strFacebook || undefined).value
+              artistInformation.twitter = normalizeURL(dbArtist.strTwitter || undefined).value
+              if (artistInformation.id) {
+                console.log(chalk.green(`${chalk.bold('Artist, ID Exists:')} ${artistName}`))
+                const responseSongs = await axios.get(`https://www.theaudiodb.com/api/v1/json/${apiKey}/mvid.php?i=${artistInformation.id}`)
+                if (responseSongs.status === 200) {
+                  console.log(chalk.green(`${chalk.bold('Song, Query Success:')} ${artistName}`))
+                  const dbSongsList: DBSongsList = responseSongs.data
+                  if (dbSongsList.mvids) {
+                    for (const song of artistInformation.songs) {
+                      let songFound = false
+                      for (const dbSong of dbSongsList.mvids) {
+                        if (song.name.toUpperCase().trim() === dbSong.strTrack.toUpperCase().trim()) {
+                          songFound = true
+                          const normalizedURL = normalizeURL(dbSong.strMusicVid || undefined)
+                          song.musicVideoURL = normalizedURL.value
+                          song.musicVideoSource = normalizedURL.source
+                        }
+                      }
+                      if (songFound) {
+                        console.log(chalk.green(`${chalk.bold('Song, Exact Match:')} ${artistName} - ${song.name}`))
+                      } else {
+                        console.log(chalk.yellow(`${chalk.bold('Song, No Exact Match:')} ${artistName} - ${song.name} ⟷ ${chalk.dim(dbSongsList.mvids.map((mvid) => { return mvid.strTrack })
+                          .sort()
+                          .join(' | '))}`))
                       }
                     }
-                    if (songFound) {
-                      console.log(chalk.green(`${chalk.bold('Song, Exact Match:')} ${artistName} - ${song.name}`))
-                    } else {
-                      console.log(chalk.yellow(`${chalk.bold('Song, No Exact Match:')} ${artistName} - ${song.name} ⟷ ${chalk.dim(dbSongsList.mvids.map((mvid) => { return mvid.strTrack })
-                        .sort()
-                        .join(' | '))}`))
-                    }
                   }
+                } else {
+                  console.log(chalk.red(`${chalk.bold('Song, Query Error:')} ${artistName}`))
                 }
               } else {
-                console.log(chalk.red(`${chalk.bold('Song, Query Error:')} ${artistName}`))
+                console.log(chalk.yellow(`${chalk.bold('Artist, No ID Exists:')} ${artistName}`))
               }
             } else {
-              console.log(chalk.yellow(`${chalk.bold('Artist, No ID Exists:')} ${artistName}`))
+              console.log(chalk.yellow(`${chalk.bold('Artist, No Exact Match:')} ${artistName} ⟷ ${chalk.dim(dbArtist.strArtist)}`))
             }
-          } else {
-            console.log(chalk.yellow(`${chalk.bold('Artist, No Exact Match:')} ${artistName} ⟷ ${chalk.dim(dbArtist.strArtist)}`))
           }
+        } else {
+          console.log(chalk.yellow(`${chalk.bold('Artist, No Results:')} ${artistName}`))
         }
       } else {
-        console.log(chalk.yellow(`${chalk.bold('Artist, No Results:')} ${artistName}`))
+        console.log(chalk.red(`${chalk.bold('Artist, Query Error:')} ${artistName}`))
       }
-    } else {
-      console.log(chalk.red(`${chalk.bold('Artist, Query Error:')} ${artistName}`))
+    } catch (e) {
+      console.log(chalk.red(`${chalk.bold('Network Error:')} ${artistName} - ${JSON.stringify(e)}`))
     }
   }))
   const artistInformationListSorted: ArtistInformationList = {

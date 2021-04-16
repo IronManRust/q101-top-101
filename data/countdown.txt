@@ -1,10 +1,6 @@
 TODO: Turn these links into JSON.
 TODO: Rebuild and audit `artists.json` once done.
 
-2001
-- https://www.rocklists.com/q101-2001.html
-2002
-- https://www.rocklists.com/q101-2002.html
 2003
 - https://www.rocklists.com/q101-2003.html
 2004
