@@ -30,10 +30,14 @@ for (const artistName of Object.keys(artistInformationList)) {
 const packageJSON: NormalizedPackageJson = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../package.json'), 'utf-8'))
 const metadata = {
   name: packageJSON.name,
+  version: packageJSON.version,
   description: packageJSON.description,
   keywords: packageJSON.keywords,
-  author: packageJSON.author?.name,
-  homepage: packageJSON.homepage
+  authorName: packageJSON.author?.name,
+  authorEmail: packageJSON.author?.email,
+  authorURL: packageJSON.author?.url,
+  homepage: packageJSON.homepage,
+  copyright: new Date().getFullYear()
 }
 
 let positions = 0
