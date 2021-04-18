@@ -1,9 +1,6 @@
 TODO: Turn these links into JSON.
 TODO: Rebuild and audit `artists.json` once done.
 
-2007
-- https://q101.com/2018/08/q101-top-101-songs-of-2007/
-- https://www.rocklists.com/q101-2007.html
 2008
 - https://q101.com/2018/08/q101-top-101-songs-of-2008/
 2009
