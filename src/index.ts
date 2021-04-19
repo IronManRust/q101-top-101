@@ -30,6 +30,7 @@ for (const artistName of Object.keys(artistInformationList)) {
 const packageJSON: NormalizedPackageJson = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../package.json'), 'utf-8'))
 const metadata = {
   name: packageJSON.name,
+  website: countdown.website,
   version: packageJSON.version,
   description: packageJSON.description,
   keywords: packageJSON.keywords,

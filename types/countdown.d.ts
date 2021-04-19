@@ -7,6 +7,7 @@
 
 export interface Countdown {
   title: string
+  website: string
   years: {
     year: number
     items: {

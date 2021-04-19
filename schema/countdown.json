@@ -5,6 +5,9 @@
         "title": {
             "type": "string"
         },
+        "website": {
+            "type": "string"
+        },
         "years": {
             "type": "array",
             "items": {
@@ -67,6 +70,7 @@
     "additionalProperties": false,
     "required": [
         "title",
+        "website",
         "years"
     ]
 }
