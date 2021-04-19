@@ -68,12 +68,15 @@ const statistics = {
   positions,
   artists: {
     unique: uniqueArtists,
-    facebook,
-    twitter
+    facebookCount: facebook,
+    facebookPercent: Math.round(facebook / uniqueArtists * 100),
+    twitterCount: twitter,
+    twitterPercent: Math.round(twitter / uniqueArtists * 100)
   },
   songs: {
     unique: uniqueSongs,
-    musicVideo
+    musicVideoCount: musicVideo,
+    musicVideoPercent: Math.round(musicVideo / uniqueSongs * 100)
   }
 }
 

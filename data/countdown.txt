@@ -1,3 +1,0 @@
-TODO: Rebuild and audit `artists.json` once done.
-TODO: Add percentages on footer HTML.
-TODO: Account for trailing parenthetic terms.
