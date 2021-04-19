@@ -1,3 +1,2 @@
-TODO: Turn these links into JSON.
 TODO: Rebuild and audit `artists.json` once done.
 TODO: Add percentages on footer HTML.
