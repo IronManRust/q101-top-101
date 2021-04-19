@@ -25,7 +25,9 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "Creatures (For Awhile)"
+        "name": "Creatures (For A While)",
+        "musicVideoURL": "https://www.youtube.com/watch?v=wHXCyc279Cc",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Do You Right"
@@ -167,6 +169,11 @@
         "musicVideoSource": "youtube"
       },
       {
+        "name": "Closer To The Edge",
+        "musicVideoURL": "https://www.youtube.com/watch?v=mLqHDhF-O28",
+        "musicVideoSource": "youtube"
+      },
+      {
         "name": "From Yesterday",
         "musicVideoURL": "https://www.youtube.com/watch?v=RpG7FzXrNSs",
         "musicVideoSource": "youtube"
@@ -177,7 +184,9 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "The Kill"
+        "name": "The Kill (Bury Me)",
+        "musicVideoURL": "https://www.youtube.com/watch?v=8yvGCAvOAfM",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "This Is War",
@@ -205,13 +214,6 @@
         "name": "All I Want",
         "musicVideoURL": "https://www.youtube.com/watch?v=m89pFYHHuUA",
         "musicVideoSource": "youtube"
-      }
-    ]
-  },
-  "A New Found Glory": {
-    "songs": [
-      {
-        "name": "Hit Or Miss"
       }
     ]
   },
@@ -258,7 +260,9 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "Girls Not Grey"
+        "name": "Girl's Not Grey",
+        "musicVideoURL": "https://www.youtube.com/watch?v=1Yzu-4kJg6g",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Love Like Winter",
@@ -281,7 +285,9 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "The Leaving Song Pt. II"
+        "name": "The Leaving Song, Part II",
+        "musicVideoURL": "https://www.youtube.com/watch?v=5fwGZohSJ9g",
+        "musicVideoSource": "youtube"
       }
     ]
   },
@@ -377,13 +383,6 @@
         "name": "Thrash Unreal",
         "musicVideoURL": "https://www.youtube.com/watch?v=rzJ21OpFnZ0",
         "musicVideoSource": "youtube"
-      }
-    ]
-  },
-  "Airborne Toxic Event": {
-    "songs": [
-      {
-        "name": "Sometime Around Midnight"
       }
     ]
   },
@@ -528,13 +527,6 @@
       }
     ]
   },
-  "All-American Rejects": {
-    "songs": [
-      {
-        "name": "Move Along"
-      }
-    ]
-  },
   "Alter Bridge": {
     "id": "112557",
     "songs": [
@@ -580,10 +572,15 @@
       }
     ]
   },
-  "Angels And Airwaves": {
+  "Angels & Airwaves": {
+    "id": "112100",
+    "facebook": "https://www.facebook.com/angelsandairwaves",
+    "twitter": "https://www.twitter.com/AVABandOfficial",
     "songs": [
       {
-        "name": "The Adventure"
+        "name": "The Adventure",
+        "musicVideoURL": "https://www.youtube.com/watch?v=JMl8cQjBfqk",
+        "musicVideoSource": "youtube"
       }
     ]
   },
@@ -684,13 +681,6 @@
       }
     ]
   },
-  "Avenged Sevefold": {
-    "songs": [
-      {
-        "name": "Bat Country"
-      }
-    ]
-  },
   "Avenged Sevenfold": {
     "id": "112115",
     "facebook": "https://www.facebook.com/AvengedSevenfold",
@@ -705,7 +695,9 @@
         "name": "Critical Acclaim"
       },
       {
-        "name": "Nighmare"
+        "name": "Nightmare",
+        "musicVideoURL": "https://www.youtube.com/watch?v=94bGzWyHbu0",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Welcome To The Family"
@@ -772,7 +764,9 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "Ch-Check It Out"
+        "name": "Ch‐Check It Out",
+        "musicVideoURL": "https://www.youtube.com/watch?v=LYpzWRk7E9I",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Intergalactic",
@@ -1317,13 +1311,6 @@
       }
     ]
   },
-  "CRS": {
-    "songs": [
-      {
-        "name": "Us Placers"
-      }
-    ]
-  },
   "Cage The Elephant": {
     "id": "115505",
     "twitter": "https://www.twitter.com/CageTheElephant",
@@ -1337,9 +1324,6 @@
         "name": "Back Against The Wall",
         "musicVideoURL": "https://www.youtube.com/watch?v=iT4Y2JleWrQ",
         "musicVideoSource": "youtube"
-      },
-      {
-        "name": "Back Agaisnt The Wall"
       },
       {
         "name": "In One Ear",
@@ -1480,6 +1464,13 @@
       },
       {
         "name": "Well Enough Alone"
+      }
+    ]
+  },
+  "Child Rebel Soldier": {
+    "songs": [
+      {
+        "name": "Us Placers"
       }
     ]
   },
@@ -1810,13 +1801,6 @@
       }
     ]
   },
-  "Crystal Method": {
-    "songs": [
-      {
-        "name": "Born Too Slow"
-      }
-    ]
-  },
   "Cypress Hill": {
     "id": "111695",
     "facebook": "https://www.facebook.com/cypresshill",
@@ -1858,7 +1842,7 @@
       }
     ]
   },
-  "Dan Le Sac And Scroobius Pip": {
+  "Dan Le Sac Vs Scroobius Pip": {
     "songs": [
       {
         "name": "Thou Shall Always Kill"
@@ -1980,13 +1964,6 @@
         "name": "Touch, Peel And Stand",
         "musicVideoURL": "https://www.youtube.com/watch?v=Wg-HZd4Lb2Q",
         "musicVideoSource": "youtube"
-      }
-    ]
-  },
-  "Dead 60's": {
-    "songs": [
-      {
-        "name": "Riot Radio"
       }
     ]
   },
@@ -2150,13 +2127,6 @@
       }
     ]
   },
-  "Dirty Heads": {
-    "songs": [
-      {
-        "name": "Lay Me Down"
-      }
-    ]
-  },
   "Dishwalla": {
     "id": "114646",
     "songs": [
@@ -2187,7 +2157,9 @@
         "name": "Guarded"
       },
       {
-        "name": "Indestructable"
+        "name": "Indestructible",
+        "musicVideoURL": "https://www.youtube.com/watch?v=aWxBrI0g1kE",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Inside The Fire",
@@ -2510,7 +2482,9 @@
     "twitter": "https://www.twitter.com/falloutboy",
     "songs": [
       {
-        "name": "Dance Dance"
+        "name": "Dance, Dance",
+        "musicVideoURL": "https://www.youtube.com/watch?v=C6MOKXm8x50",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Hum Hallelujah"
@@ -2526,7 +2500,9 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "Thnks fr the Mmrs"
+        "name": "Thnks fr th Mmrs",
+        "musicVideoURL": "https://www.youtube.com/watch?v=onzL0EM1pKY",
+        "musicVideoSource": "youtube"
       }
     ]
   },
@@ -2585,9 +2561,6 @@
       },
       {
         "name": "Take A Picture"
-      },
-      {
-        "name": "Take A Picutre"
       },
       {
         "name": "Welcome To The Fold"
@@ -2746,9 +2719,6 @@
         "name": "Break Out"
       },
       {
-        "name": "D.O.A."
-      },
-      {
         "name": "DOA"
       },
       {
@@ -2874,7 +2844,9 @@
     "twitter": "https://www.twitter.com/Franz_Ferdinand",
     "songs": [
       {
-        "name": "Do You Want To?"
+        "name": "Do You Want To",
+        "musicVideoURL": "https://www.youtube.com/watch?v=YZzbB4ta-YY",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Take Me Out",
@@ -2981,14 +2953,9 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "Why Do You Love Me?"
-      }
-    ]
-  },
-  "Gaslight Anthem": {
-    "songs": [
-      {
-        "name": "The '59 Sound"
+        "name": "Why Do You Love Me",
+        "musicVideoURL": "https://www.youtube.com/watch?v=dcrv9nhH9iY",
+        "musicVideoSource": "youtube"
       }
     ]
   },
@@ -3045,7 +3012,9 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "Cryin Like a Bitch!"
+        "name": "Cryin' Like A Bitch!!",
+        "musicVideoURL": "https://www.youtube.com/watch?v=0eXIOK2vOhM",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Good Times, Bad Times"
@@ -3292,7 +3261,9 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "Wake Me When September Ends"
+        "name": "Wake Me Up When September Ends",
+        "musicVideoURL": "https://www.youtube.com/watch?v=KjNJmwwf7QA",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Walking Contradiction",
@@ -3335,13 +3306,6 @@
       }
     ]
   },
-  "H.I.M.": {
-    "songs": [
-      {
-        "name": "Rip Out The Wings Of A Butterfly"
-      }
-    ]
-  },
   "H2SO4": {
     "songs": [
       {
@@ -3349,7 +3313,16 @@
       }
     ]
   },
-  "Hail The Villan": {
+  "HIM": {
+    "id": "142590",
+    "songs": [
+      {
+        "name": "Rip Out The Wings Of A Butterfly"
+      }
+    ]
+  },
+  "Hail The Villain": {
+    "id": "114117",
     "songs": [
       {
         "name": "Take Back The Fear"
@@ -3532,9 +3505,6 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "I Wish You Were Here"
-      },
-      {
         "name": "Love Hurts",
         "musicVideoURL": "https://www.youtube.com/watch?v=K_bQ80xZNwI",
         "musicVideoSource": "youtube"
@@ -3703,9 +3673,6 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "Are You Gonna Be My Girl?"
-      },
-      {
         "name": "Cold Hard Bitch"
       },
       {
@@ -3826,7 +3793,7 @@
       }
     ]
   },
-  "Jonathan Tyler & The Northern Lights": {
+  "Jonathan Tyler And The Northern Lights": {
     "songs": [
       {
         "name": "Gypsy Woman"
@@ -4600,20 +4567,6 @@
       }
     ]
   },
-  "Marty Casey And The Lovehammers": {
-    "songs": [
-      {
-        "name": "Trees"
-      }
-    ]
-  },
-  "Matchbox 20": {
-    "songs": [
-      {
-        "name": "How Far We've Come"
-      }
-    ]
-  },
   "Matchbox Twenty": {
     "id": "112373",
     "facebook": "https://www.facebook.com/matchboxtwenty",
@@ -4627,6 +4580,11 @@
       {
         "name": "Bent",
         "musicVideoURL": "https://www.youtube.com/watch?v=969RAKkYESU",
+        "musicVideoSource": "youtube"
+      },
+      {
+        "name": "How Far We've Come",
+        "musicVideoURL": "https://www.youtube.com/watch?v=5d7EbtLb8ok",
         "musicVideoSource": "youtube"
       },
       {
@@ -4646,18 +4604,14 @@
       }
     ]
   },
-  "Matishyahu": {
-    "songs": [
-      {
-        "name": "One Day"
-      }
-    ]
-  },
   "Matisyahu": {
     "id": "114136",
     "songs": [
       {
         "name": "King Without A Crown"
+      },
+      {
+        "name": "One Day"
       },
       {
         "name": "Youth"
@@ -4902,7 +4856,9 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "Neutron Star Collision"
+        "name": "Neutron Star Collision (Love Is Forever)",
+        "musicVideoURL": "https://www.youtube.com/watch?v=MTvgnYGu9bg",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Resistance",
@@ -4955,7 +4911,9 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "I'm Not Ok (I Promise)"
+        "name": "I'm Not Okay (I Promise)",
+        "musicVideoURL": "https://www.youtube.com/watch?v=dhZTNgAs4Fc",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
@@ -5051,6 +5009,9 @@
     "id": "114706",
     "facebook": "https://www.facebook.com/newfoundglory",
     "songs": [
+      {
+        "name": "Hit Or Miss"
+      },
       {
         "name": "My Friends Over You"
       }
@@ -5298,7 +5259,9 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "This Too Will Pass"
+        "name": "This Too Shall Pass",
+        "musicVideoURL": "https://www.youtube.com/watch?v=qybUFnY7Y8w",
+        "musicVideoSource": "youtube"
       }
     ]
   },
@@ -5369,7 +5332,10 @@
       }
     ]
   },
-  "Obediah Parker": {
+  "Obadiah Parker": {
+    "id": "126161",
+    "facebook": "https://www.facebook.com/obadiahparker",
+    "twitter": "https://www.twitter.com/obadiahparker",
     "songs": [
       {
         "name": "Hey Ya"
@@ -6156,13 +6122,6 @@
       }
     ]
   },
-  "Red Jumpsuit Apparatus": {
-    "songs": [
-      {
-        "name": "Face Down"
-      }
-    ]
-  },
   "Reel Big Fish": {
     "id": "118990",
     "facebook": "https://www.facebook.com/ReelBigFish?ref=nf",
@@ -6614,11 +6573,7 @@
     "songs": [
       {
         "name": "Le Disko"
-      }
-    ]
-  },
-  "Shiny Toy Guys": {
-    "songs": [
+      },
       {
         "name": "You Are The One"
       }
@@ -7354,7 +7309,9 @@
         "name": "Stars"
       },
       {
-        "name": "The Sound"
+        "name": "The Sound (John M. Perkins' Blues)",
+        "musicVideoURL": "https://www.youtube.com/watch?v=mNQgABsUfK8",
+        "musicVideoSource": "youtube"
       }
     ]
   },
@@ -7470,7 +7427,8 @@
       }
     ]
   },
-  "The Academy Is ...": {
+  "The Academy Is...": {
+    "id": "114615",
     "songs": [
       {
         "name": "Slow Down"
@@ -7487,6 +7445,15 @@
         "name": "Gentlemen",
         "musicVideoURL": "https://www.youtube.com/watch?v=l6ER2_4q5KQ",
         "musicVideoSource": "youtube"
+      }
+    ]
+  },
+  "The Airborne Toxic Event": {
+    "id": "115500",
+    "twitter": "https://www.twitter.com/airborne_toxic",
+    "songs": [
+      {
+        "name": "Sometime Around Midnight"
       }
     ]
   },
@@ -7517,7 +7484,9 @@
     "id": "114157",
     "songs": [
       {
-        "name": "Boys Of Summer"
+        "name": "The Boys Of Summer",
+        "musicVideoURL": "https://www.youtube.com/watch?v=JbBkTtyZ3Hs",
+        "musicVideoSource": "youtube"
       }
     ]
   },
@@ -7631,6 +7600,9 @@
     "twitter": "https://www.twitter.com/crystalmethod",
     "songs": [
       {
+        "name": "Born Too Slow"
+      },
+      {
         "name": "Busy Child",
         "musicVideoURL": "https://www.youtube.com/watch?v=t6twhXA1Gyw",
         "musicVideoSource": "youtube"
@@ -7705,11 +7677,31 @@
       }
     ]
   },
+  "The Dead 60s": {
+    "id": "115137",
+    "songs": [
+      {
+        "name": "Riot Radio"
+      }
+    ]
+  },
   "The Dead Weather": {
     "id": "115366",
     "songs": [
       {
         "name": "Die By The Drop"
+      }
+    ]
+  },
+  "The Dirty Heads": {
+    "id": "118228",
+    "facebook": "https://www.facebook.com/DirtyHeads",
+    "twitter": "https://www.twitter.com/dirtyheads",
+    "songs": [
+      {
+        "name": "Lay Me Down",
+        "musicVideoURL": "https://www.youtube.com/watch?v=b6EDLIPDYbI",
+        "musicVideoSource": "youtube"
       }
     ]
   },
@@ -7731,7 +7723,9 @@
     "twitter": "https://www.twitter.com/theflaminglips",
     "songs": [
       {
-        "name": "Do You Realize?"
+        "name": "Do You Realize??",
+        "musicVideoURL": "https://www.youtube.com/watch?v=lPXWt2ESxVY",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "She Don't Use Jelly",
@@ -7779,6 +7773,18 @@
       {
         "name": "Over My Head (Cable Car)",
         "musicVideoURL": "https://www.youtube.com/watch?v=fFRkpvvop3I",
+        "musicVideoSource": "youtube"
+      }
+    ]
+  },
+  "The Gaslight Anthem": {
+    "id": "112110",
+    "facebook": "https://www.facebook.com/thegaslightanthem",
+    "twitter": "https://www.twitter.com/gaslightanthem",
+    "songs": [
+      {
+        "name": "The '59 Sound",
+        "musicVideoURL": "https://www.youtube.com/watch?v=G1lq40tR72Q",
         "musicVideoSource": "youtube"
       }
     ]
@@ -7909,7 +7915,9 @@
     "id": "112082",
     "songs": [
       {
-        "name": "Inertiatic E.S.P."
+        "name": "Inertiatic ESP",
+        "musicVideoURL": "https://www.youtube.com/watch?v=neSQgkEy_xQ",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "The Widow",
@@ -8020,9 +8028,6 @@
         "name": "Why Don't You Get A Job?",
         "musicVideoURL": "https://www.youtube.com/watch?v=LH-i8IvYIcg",
         "musicVideoSource": "youtube"
-      },
-      {
-        "name": "You're Gonna Go Far Kid"
       },
       {
         "name": "You're Gonna Go Far, Kid",
@@ -8348,11 +8353,6 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "Juicebox",
-        "musicVideoURL": "https://www.youtube.com/watch?v=GoltwBHXCx8",
-        "musicVideoSource": "youtube"
-      },
-      {
         "name": "Jukebox"
       },
       {
@@ -8588,7 +8588,9 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "You Don't Know What Love Is (You Just Do What You're Told)"
+        "name": "You Don't Know What Love Is (You Just Do As You're Told)",
+        "musicVideoURL": "https://www.youtube.com/watch?v=YLmIlVJYEtw",
+        "musicVideoSource": "youtube"
       }
     ]
   },
@@ -8615,13 +8617,6 @@
       }
     ]
   },
-  "Theory Of A Dead Man": {
-    "songs": [
-      {
-        "name": "Hate My Life"
-      }
-    ]
-  },
   "Theory Of A Deadman": {
     "id": "114741",
     "facebook": "https://www.facebook.com/theoryofadeadman",
@@ -8629,6 +8624,9 @@
     "songs": [
       {
         "name": "Bad Girlfriend"
+      },
+      {
+        "name": "Hate My Life"
       }
     ]
   },
@@ -8658,13 +8656,6 @@
       },
       {
         "name": "Semi-Charmed Life"
-      }
-    ]
-  },
-  "Thirty Seconds To Mars": {
-    "songs": [
-      {
-        "name": "Closer To The Edge"
       }
     ]
   },
@@ -8872,7 +8863,9 @@
     "twitter": "https://www.twitter.com/travisband",
     "songs": [
       {
-        "name": "Why Does It Always Rain On Me?"
+        "name": "Why Does It Always Rain On Me",
+        "musicVideoURL": "https://www.youtube.com/watch?v=Nwh3FmpZ7kg",
+        "musicVideoSource": "youtube"
       }
     ]
   },
