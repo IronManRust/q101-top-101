@@ -5870,6 +5870,11 @@
     "twitter": "https://www.twitter.com/qotsa",
     "songs": [
       {
+        "name": "Go With The Flow",
+        "musicVideoURL": "https://www.youtube.com/watch?v=DcHKOC64KnE",
+        "musicVideoSource": "youtube"
+      },
+      {
         "name": "Little Sister",
         "musicVideoURL": "https://www.youtube.com/watch?v=hGRqnNEOpe0",
         "musicVideoSource": "youtube"
@@ -5882,18 +5887,6 @@
       {
         "name": "The Lost Art Of Keeping A Secret",
         "musicVideoURL": "https://www.youtube.com/watch?v=0l0nzPpvbFs",
-        "musicVideoSource": "youtube"
-      }
-    ]
-  },
-  "Queens of the Stone Age": {
-    "id": "111497",
-    "facebook": "https://www.facebook.com/QOTSA",
-    "twitter": "https://www.twitter.com/qotsa",
-    "songs": [
-      {
-        "name": "Go With The Flow",
-        "musicVideoURL": "https://www.youtube.com/watch?v=DcHKOC64KnE",
         "musicVideoSource": "youtube"
       }
     ]
