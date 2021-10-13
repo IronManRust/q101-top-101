@@ -128,7 +128,7 @@
     "songs": [
       {
         "name": "Be Like That",
-        "musicVideoURL": "https://www.youtube.com/watch?v=CMXIOBBy1Mc",
+        "musicVideoURL": "https://www.youtube.com/watch?v=HHpMtWtgUvc",
         "musicVideoSource": "youtube"
       },
       {
@@ -435,7 +435,7 @@
   "Alice In Chains": {
     "id": "111618",
     "facebook": "https://www.facebook.com/aliceinchains",
-    "twitter": "https://www.twitter.com/#!/AliceInChains",
+    "twitter": "https://www.twitter.com/AliceInChains",
     "songs": [
       {
         "name": "Angry Chair"
@@ -2341,7 +2341,7 @@
     "songs": [
       {
         "name": "Lose Yourself",
-        "musicVideoURL": "https://www.youtube.com/watch?v=hO2wA0Te0wM",
+        "musicVideoURL": "https://www.youtube.com/watch?v=_Yhyp-_hX2s",
         "musicVideoSource": "youtube"
       },
       {
@@ -4624,7 +4624,9 @@
     "twitter": "https://www.twitter.com/iammatthewsweet",
     "songs": [
       {
-        "name": "I've Been Waiting"
+        "name": "I've Been Waiting",
+        "musicVideoURL": "https://www.youtube.com/watch?v=Qz7qj3MteS0",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Sick Of Myself"
