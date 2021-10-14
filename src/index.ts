@@ -42,7 +42,7 @@ for (const countdownYear of countdown.years) {
     .items
     .map((x) => {
       if (x.musicVideoSource === 'youtube' && x.musicVideoURL) {
-        return x.musicVideoURL.substring(x.musicVideoURL.indexOf('=') + 1)
+        return x.musicVideoURL.substring(x.musicVideoURL.indexOf('v=') + 2).substring(0, 11)
       } else {
         return ''
       }
