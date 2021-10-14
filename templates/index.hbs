@@ -24,19 +24,23 @@
         <div class="jumbotron text-center">
             <h1>{{title}}</h1>
         </div>
+        <br />
+        <h2>Introduction</h2>
         <div class="text-center">
             <p>{{description}}</p>
             <p><a href="./countdown.json" target="_blank">Countdown Data JSON</a></p>
             <p><a href="./artists.json" target="_blank">Artists Data JSON</a></p>
         </div>
+        <br />
+        <h2>Songs</h2>
         <div class="accordion" id="accordion">
             {{#each years}}
             <div class="card">
                 <div class="card-header" id="card-header-{{this.year}}">
                     <button class="btn btn-block" type="button" data-toggle="collapse" data-target="#collapse-{{this.year}}">
-                        <h2>
+                        <h3>
                             {{this.year}}
-                        </h2>
+                        </h3>
                     </button>
                 </div>
                 <div class="collapse" id="collapse-{{this.year}}" data-parent="#accordion">
@@ -95,6 +99,41 @@
             {{/each}}
         </div>
         <br />
+        <h2>Playlists</h2>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th scope="col">Year</th>
+                    <th scope="col">Playlists</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#each playlistItems}}
+                <tr>
+                    <th scope="row">{{this.year}}</th>
+                    <td>
+                        <ul class="list-group list-group-flush">
+                            {{#each this.sources}}
+                            <li class="list-group-item">
+                                {{#if this.url}}
+                                <a href="{{this.url}}" target="_blank">
+                                    <img src="./music-video-{{this.source}}.png" title="Playlist" /> {{this.songCount}} Song(s)
+                                </a>
+                                {{else}}
+                                <span>
+                                    <img src="./music-video-{{this.source}}.png" title="Playlist" /> No Songs
+                                </span>
+                                {{/if}}
+                            </li>
+                            {{/each}}
+                        </ul>
+                    </td>
+                </tr>
+                {{/each}}
+            </tbody>
+        </table>
+        <br />
+        <h2>Information</h2>
         <div class="text-center">
             <p>This countdown lists a total of {{positions}} positions consisting of {{artists.unique}} unique artists, {{artists.facebookCount}} ({{artists.facebookPercent}}%) of whom have Facebook accounts and {{artists.twitterCount}} ({{artists.twitterPercent}}%) of whom have Twitter accounts.</p>
             <p>A total of {{songs.unique}} songs appear on this countdown, which may be less than the total number of positions as a song can appear on the list for multiple years. Of those songs, {{songs.musicVideoCount}} ({{songs.musicVideoPercent}}%) have music videos.</p>

@@ -3,6 +3,7 @@ import handlebars from 'handlebars'
 import path from 'path'
 import { NormalizedPackageJson } from 'read-pkg'
 import { ArtistInformationList } from './artistInformationList'
+import { PlaylistItem, PlaylistList } from './playlist'
 import { Countdown } from '../types/countdown'
 
 const template = handlebars.compile(fs.readFileSync(path.resolve(__dirname, 'index.hbs'), 'utf-8'))
@@ -25,6 +26,52 @@ for (const artistName of Object.keys(artistInformationList)) {
       }
     }
   }
+}
+
+const playlistList: PlaylistList = {
+  playlistItems: []
+}
+for (const countdownYear of countdown.years) {
+  // Declare PlaylistItem
+  const playlistItem: PlaylistItem = {
+    year: countdownYear.year,
+    sources: []
+  }
+  // Build Sources - YouTube
+  const youtubeIDs: string[] = countdownYear
+    .items
+    .map((x) => {
+      if (x.musicVideoSource === 'youtube' && x.musicVideoURL) {
+        return x.musicVideoURL.substring(x.musicVideoURL.indexOf('=') + 1)
+      } else {
+        return ''
+      }
+    })
+    .filter((x) => {
+      return x.length > 0
+    })
+  while (youtubeIDs.length) {
+    const chunk = youtubeIDs.splice(0, 50) // Maximum Chunk Size
+    playlistItem.sources.push({
+      source: 'youtube',
+      songCount: chunk.length,
+      url: `https://www.youtube.com/watch_videos?video_ids=${chunk.join(',')}`
+    })
+  }
+  // Build Sources - Vimeo
+  playlistItem.sources.push({
+    source: 'vimeo',
+    songCount: 0,
+    url: undefined
+  })
+  // Build Sources - DailyMotion
+  playlistItem.sources.push({
+    source: 'dailymotion',
+    songCount: 0,
+    url: undefined
+  })
+  // Add PlaylistItem
+  playlistList.playlistItems.push(playlistItem)
 }
 
 const packageJSON: NormalizedPackageJson = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../package.json'), 'utf-8'))
@@ -83,6 +130,7 @@ const statistics = {
 
 const html = template({
   ...countdown,
+  ...playlistList,
   ...metadata,
   ...statistics
 })
