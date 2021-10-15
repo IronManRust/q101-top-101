@@ -33,6 +33,9 @@
         </div>
         <br />
         <h2>Songs</h2>
+        <div class="text-center">
+            <p>This section lists the countdown songs, grouped by year, and any associated links such as an artist's Facebook page, an artist's Twitter account or a song's music video.</p>
+        </div>
         <div class="accordion" id="accordion">
             {{#each years}}
             <div class="card">
@@ -100,6 +103,9 @@
         </div>
         <br />
         <h2>Playlists</h2>
+        <div class="text-center">
+            <p>This section lists playlists for each year consisting of those songs for which music videos are available. Due to the maximum size certain providers restrict a playlist to, some may be split into multiple segments.</p>
+        </div>
         <table class="table table-bordered">
             <thead>
                 <tr>
@@ -117,11 +123,11 @@
                             <li class="list-group-item">
                                 {{#if this.url}}
                                 <a href="{{this.url}}" target="_blank">
-                                    <img src="./music-video-{{this.source}}.png" title="Playlist" /> {{this.songCount}} Song(s)
+                                    <img src="./music-video-{{this.source}}.png" title="Playlist" /> {{this.songCount}} Available Song(s)
                                 </a>
                                 {{else}}
                                 <span>
-                                    <img src="./music-video-{{this.source}}.png" title="Playlist" /> No Songs
+                                    <img src="./music-video-{{this.source}}.png" title="Playlist" /> No Available Songs
                                 </span>
                                 {{/if}}
                             </li>
