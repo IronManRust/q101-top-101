@@ -59,7 +59,7 @@ const normalizeURL = (url: string | undefined): { value: string | undefined, sou
     for (const domain of domainsStandardized) {
       if (url.indexOf(domain.value) !== -1) {
         return {
-          value: `https://www.${url.substr(url.indexOf(domain.value))}`,
+          value: `https://www.${url.substr(url.indexOf(domain.value))}`.replace('/#!', ''),
           source: domain.source
         }
       }
