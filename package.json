@@ -24,6 +24,9 @@
         "url": "https://github.com/IronManRust/q101-top-101/issues",
         "email": "shawn_headrick@yahoo.com"
     },
+    "config": {
+        "apiKey": "1"
+    },
     "scripts": {
         "scrape": "npm run scrape:clean && npm run scrape:build && npm run scrape:execute && npm run scrape:cleanup",
         "scrape:clean": "npm run clean",

@@ -3,6 +3,7 @@ import chalk from 'chalk'
 import fs from 'fs'
 import path from 'path'
 import { ArtistInformationList } from './artistInformationList'
+import { Config } from './config'
 import { DBArtistList } from './dbArtistList'
 import { DBSongsList } from './dbSongsList'
 import { Source } from './source'
@@ -30,6 +31,10 @@ for (const year of countdown.years) {
       }
     }
   }
+}
+
+const filterURL = (url: string | undefined): string | undefined => {
+  return url && url !== '1' ? url : undefined
 }
 
 const normalizeURL = (url: string | undefined): { value: string | undefined, source: Source } => {
@@ -92,8 +97,7 @@ const normalizeURL = (url: string | undefined): { value: string | undefined, sou
   }
 }
 
-const process = async (artistInformationList: ArtistInformationList) => {
-  const apiKey = 1 // Public, Low-Volume Key
+const process = async (apiKey: string, artistInformationList: ArtistInformationList) => {
   const artistNames = Object.keys(artistInformationList).sort()
   await Promise.all(artistNames.map(async (artistName) => {
     try {
@@ -108,8 +112,8 @@ const process = async (artistInformationList: ArtistInformationList) => {
             if (artistName.toUpperCase().trim() === dbArtist.strArtist.toUpperCase().trim()) {
               console.log(chalk.green(`${chalk.bold('Artist, Exact Match:')} ${artistName}`))
               artistInformation.id = dbArtist.idArtist
-              artistInformation.facebook = normalizeURL(dbArtist.strFacebook || undefined).value
-              artistInformation.twitter = normalizeURL(dbArtist.strTwitter || undefined).value
+              artistInformation.facebook = normalizeURL(filterURL(dbArtist.strFacebook || undefined)).value
+              artistInformation.twitter = normalizeURL(filterURL(dbArtist.strTwitter || undefined)).value
               if (artistInformation.id) {
                 console.log(chalk.green(`${chalk.bold('Artist, ID Exists:')} ${artistName}`))
                 const responseSongs = await axios.get(`https://www.theaudiodb.com/api/v1/json/${apiKey}/mvid.php?i=${artistInformation.id}`)
@@ -122,7 +126,7 @@ const process = async (artistInformationList: ArtistInformationList) => {
                       for (const dbSong of dbSongsList.mvids) {
                         if (song.name.toUpperCase().trim() === dbSong.strTrack.toUpperCase().trim()) {
                           songFound = true
-                          const normalizedURL = normalizeURL(dbSong.strMusicVid || undefined)
+                          const normalizedURL = normalizeURL(filterURL(dbSong.strMusicVid || undefined))
                           song.musicVideoURL = normalizedURL.value
                           song.musicVideoSource = normalizedURL.source
                         }
@@ -177,4 +181,6 @@ const process = async (artistInformationList: ArtistInformationList) => {
   fs.writeFileSync(path.resolve(__dirname, 'artists.json'), JSON.stringify(artistInformationListSorted, null, 2), 'utf-8')
 }
 
-process(artistInformationList)
+const config: Config = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../package.json'), 'utf-8')).config
+
+process(config.apiKey, artistInformationList)

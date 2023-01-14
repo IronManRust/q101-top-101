@@ -589,7 +589,7 @@
     "songs": [
       {
         "name": "End Of Me",
-        "musicVideoURL": "https://www.youtube.com/watch?v=2JzFgvdo4Pk",
+        "musicVideoURL": "https://www.youtube.com/watch?v=FV7gw26T5V8",
         "musicVideoSource": "youtube"
       }
     ]
@@ -839,13 +839,15 @@
         "name": "Tropicalia"
       },
       {
-        "name": "Where It's At"
+        "name": "Where It's At",
+        "musicVideoURL": "https://www.youtube.com/watch?v=EPfmNxKLDG4",
+        "musicVideoSource": "youtube"
       }
     ]
   },
   "Belly": {
     "id": "127412",
-    "twitter": "https://www.twitter.com/reBELLYus‎",
+    "twitter": "https://www.twitter.com/reBELLYus",
     "songs": [
       {
         "name": "Feed The Tree"
@@ -923,7 +925,7 @@
       },
       {
         "name": "Human Behaviour",
-        "musicVideoURL": "https://www.youtube.com/watch?v=Rh22Q1S6iRQ",
+        "musicVideoURL": "https://www.youtube.com/watch?v=p0mRIhK9seg",
         "musicVideoSource": "youtube"
       },
       {
@@ -1383,7 +1385,9 @@
         "name": "Simple Lessons"
       },
       {
-        "name": "You"
+        "name": "You",
+        "musicVideoURL": "https://www.youtube.com/watch?v=fyz-bOqmwIo",
+        "musicVideoSource": "youtube"
       }
     ]
   },
@@ -1583,12 +1587,12 @@
       },
       {
         "name": "Speed Of Sound",
-        "musicVideoURL": "https://www.youtube.com/watch?v=TahH7B_aUZc",
+        "musicVideoURL": "https://www.youtube.com/watch?v=0k_1kvDh2UA",
         "musicVideoSource": "youtube"
       },
       {
         "name": "Talk",
-        "musicVideoURL": "https://www.youtube.com/watch?v=W0uqLM1uj_k",
+        "musicVideoURL": "https://www.youtube.com/watch?v=EH9meoWmAOM",
         "musicVideoSource": "youtube"
       },
       {
@@ -2066,7 +2070,7 @@
       },
       {
         "name": "I Feel You",
-        "musicVideoURL": "https://www.youtube.com/watch?v=SYoH4yYmdSk",
+        "musicVideoURL": "https://www.youtube.com/watch?v=iTKJ_itifQg",
         "musicVideoSource": "youtube"
       },
       {
@@ -2131,7 +2135,9 @@
     "id": "114646",
     "songs": [
       {
-        "name": "Counting Blue Cars"
+        "name": "Counting Blue Cars",
+        "musicVideoURL": "https://www.youtube.com/watch?v=Clxtg2pFTQM",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Once In A While"
@@ -2184,7 +2190,7 @@
       },
       {
         "name": "Stricken",
-        "musicVideoURL": "https://www.youtube.com/watch?v=3moLkjvhEu0",
+        "musicVideoURL": "https://www.youtube.com/watch?v=I77mjesUbkw",
         "musicVideoSource": "youtube"
       },
       {
@@ -2202,7 +2208,7 @@
       },
       {
         "name": "Voices",
-        "musicVideoURL": "https://www.youtube.com/watch?v=pKlg3jYMwRU",
+        "musicVideoURL": "https://www.youtube.com/watch?v=AwLxg-yvEmc",
         "musicVideoSource": "youtube"
       }
     ]
@@ -2231,13 +2237,17 @@
     "twitter": "https://www.twitter.com/duranduran",
     "songs": [
       {
-        "name": "Come Undone"
+        "name": "Come Undone",
+        "musicVideoURL": "https://www.youtube.com/watch?v=Epj84QVw2rc",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Electric Barbarella"
       },
       {
-        "name": "Ordinary World"
+        "name": "Ordinary World",
+        "musicVideoURL": "https://www.youtube.com/watch?v=FqIACCH20JU",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Too Much Information"
@@ -2909,7 +2919,7 @@
     "songs": [
       {
         "name": "#1 Crush",
-        "musicVideoURL": "https://www.youtube.com/watch?v=PX7LLua5NCM&list=RDEMHaYictvO-3kCRyUqz3lLxw&index=5",
+        "musicVideoURL": "https://www.youtube.com/watch?v=PX7LLua5NCM",
         "musicVideoSource": "youtube"
       },
       {
@@ -2975,7 +2985,9 @@
         "name": "Found Out About You"
       },
       {
-        "name": "Hey Jealousy"
+        "name": "Hey Jealousy",
+        "musicVideoURL": "https://www.youtube.com/watch?v=ah5gAkna3jI",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Mrs. Rita"
@@ -3085,7 +3097,7 @@
       },
       {
         "name": "Here Is Gone",
-        "musicVideoURL": "https://www.youtube.com/watch?v=yBI6FYRGxdY",
+        "musicVideoURL": "https://www.youtube.com/watch?v=tNtN83-vQmw",
         "musicVideoSource": "youtube"
       },
       {
@@ -3788,7 +3800,7 @@
     "songs": [
       {
         "name": "Hurt",
-        "musicVideoURL": "https://www.youtube.com/watch?v=vjMZi2XVzEA",
+        "musicVideoURL": "https://www.youtube.com/watch?v=8AHCfZTRGiI",
         "musicVideoSource": "youtube"
       }
     ]
@@ -4159,7 +4171,9 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "My Way"
+        "name": "My Way",
+        "musicVideoURL": "https://www.youtube.com/watch?v=Dn8vzTsnPps",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Nookie",
@@ -4167,7 +4181,9 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "Re-Arranged"
+        "name": "Re-Arranged",
+        "musicVideoURL": "https://www.youtube.com/watch?v=9QWOc0HnItM",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Rollin' (Air Raid Vehicle)",
@@ -4189,7 +4205,7 @@
       },
       {
         "name": "Breaking The Habit",
-        "musicVideoURL": "https://www.youtube.com/watch?v=acgvRle07GI",
+        "musicVideoURL": "https://www.youtube.com/watch?v=v2H4l9RpkwM",
         "musicVideoSource": "youtube"
       },
       {
@@ -4209,7 +4225,7 @@
       },
       {
         "name": "In The End",
-        "musicVideoURL": "https://www.youtube.com/watch?v=1yw1Tgj9-VU",
+        "musicVideoURL": "https://www.youtube.com/watch?v=eVTXPUF4Oz4",
         "musicVideoSource": "youtube"
       },
       {
@@ -4231,7 +4247,7 @@
       },
       {
         "name": "One Step Closer",
-        "musicVideoURL": "https://www.youtube.com/watch?v=pmUTBDuUGz8",
+        "musicVideoURL": "https://www.youtube.com/watch?v=4qlCC1GOwFw",
         "musicVideoSource": "youtube"
       },
       {
@@ -4241,7 +4257,7 @@
       },
       {
         "name": "Shadow Of The Day",
-        "musicVideoURL": "https://www.youtube.com/watch?v=3g8v45du-ZA",
+        "musicVideoURL": "https://www.youtube.com/watch?v=n1PCW0C1aiM",
         "musicVideoSource": "youtube"
       },
       {
@@ -4514,10 +4530,14 @@
     "twitter": "https://www.twitter.com/ManchesterOrch",
     "songs": [
       {
-        "name": "I've Got Friends"
+        "name": "I've Got Friends",
+        "musicVideoURL": "https://www.youtube.com/watch?v=h9ZGN_eAEbA",
+        "musicVideoSource": "youtube"
       },
       {
-        "name": "Shake It Out"
+        "name": "Shake It Out",
+        "musicVideoURL": "https://www.youtube.com/watch?v=FHSfyypZtag",
+        "musicVideoSource": "youtube"
       }
     ]
   },
@@ -4677,7 +4697,7 @@
     "songs": [
       {
         "name": "All Nightmare Long",
-        "musicVideoURL": "https://www.youtube.com/watch?v=spsnQWtsUFM",
+        "musicVideoURL": "https://www.youtube.com/watch?v=EFqjDXy9s5A",
         "musicVideoSource": "youtube"
       },
       {
@@ -4706,7 +4726,7 @@
       },
       {
         "name": "The Day That Never Comes",
-        "musicVideoURL": "https://www.youtube.com/watch?v=mRitfbhITLM",
+        "musicVideoURL": "https://www.youtube.com/watch?v=dkNfNR1WYMY",
         "musicVideoSource": "youtube"
       }
     ]
@@ -5026,7 +5046,7 @@
     "songs": [
       {
         "name": "Regret",
-        "musicVideoURL": "https://www.youtube.com/watch?v=IHGYkYBD0h4",
+        "musicVideoURL": "https://www.youtube.com/watch?v=JfI8pJQbcZQ",
         "musicVideoSource": "youtube"
       },
       {
@@ -5114,7 +5134,7 @@
       },
       {
         "name": "March Of The Pigs",
-        "musicVideoURL": "https://www.youtube.com/watch?v=PL72Tyxe1rc",
+        "musicVideoURL": "https://www.youtube.com/watch?v=pwjLcwbT-xE",
         "musicVideoSource": "youtube"
       },
       {
@@ -5142,7 +5162,7 @@
       },
       {
         "name": "The Perfect Drug",
-        "musicVideoURL": "https://www.youtube.com/watch?v=sSLqeZzTU8I",
+        "musicVideoURL": "https://www.youtube.com/watch?v=dn3j6-yQKWQ",
         "musicVideoSource": "youtube"
       },
       {
@@ -5460,16 +5480,22 @@
     "id": "113723",
     "songs": [
       {
-        "name": "Between Angels And Insects"
+        "name": "Between Angels And Insects",
+        "musicVideoURL": "https://www.youtube.com/watch?v=H2jCbXiEQI4",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Broken Home"
       },
       {
-        "name": "Forever"
+        "name": "Forever",
+        "musicVideoURL": "https://www.youtube.com/watch?v=_bISJ2zi1zQ",
+        "musicVideoSource": "youtube"
       },
       {
-        "name": "Getting Away With Murder"
+        "name": "Getting Away With Murder",
+        "musicVideoURL": "https://www.youtube.com/watch?v=-rdmG0k8S8k",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "I Almost Told You That I Loved You"
@@ -5486,10 +5512,14 @@
         "name": "Lifeline"
       },
       {
-        "name": "Scars"
+        "name": "Scars",
+        "musicVideoURL": "https://www.youtube.com/watch?v=eHbNU9WuVgw",
+        "musicVideoSource": "youtube"
       },
       {
-        "name": "She Loves Me Not"
+        "name": "She Loves Me Not",
+        "musicVideoURL": "https://www.youtube.com/watch?v=aoZEtBQJN4c",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Time Is Running Out"
@@ -5907,7 +5937,7 @@
     "songs": [
       {
         "name": "Bang and Blame",
-        "musicVideoURL": "https://www.youtube.com/watch?v=8FNfB6WfwM4",
+        "musicVideoURL": "https://www.youtube.com/watch?v=4cdZQ41rGAg",
         "musicVideoSource": "youtube"
       },
       {
@@ -6071,7 +6101,7 @@
       },
       {
         "name": "Can't Stop",
-        "musicVideoURL": "https://www.youtube.com/watch?v=BfOdWSiyWoc",
+        "musicVideoURL": "https://www.youtube.com/watch?v=8DyziWtkfBw",
         "musicVideoSource": "youtube"
       },
       {
@@ -6685,12 +6715,12 @@
     "songs": [
       {
         "name": "Before I Forget",
-        "musicVideoURL": "https://www.youtube.com/watch?v=v_09wFxoaeQ",
+        "musicVideoURL": "https://www.youtube.com/watch?v=mexXOdAF50g",
         "musicVideoSource": "youtube"
       },
       {
         "name": "Dead Memories",
-        "musicVideoURL": "https://www.youtube.com/watch?v=kP5PqJpk5lQ",
+        "musicVideoURL": "https://www.youtube.com/watch?v=OiaFz07y7oc",
         "musicVideoSource": "youtube"
       },
       {
@@ -6750,6 +6780,7 @@
   },
   "Sneaker Pimps": {
     "id": "112261",
+    "facebook": "https://www.facebook.com/sneakerpimpsmusic",
     "songs": [
       {
         "name": "6 Underground",
@@ -6826,7 +6857,9 @@
     "id": "117852",
     "songs": [
       {
-        "name": "Circles"
+        "name": "Circles",
+        "musicVideoURL": "https://www.youtube.com/watch?v=L_Ve9h1HNBA",
+        "musicVideoSource": "youtube"
       }
     ]
   },
@@ -7027,7 +7060,9 @@
     "id": "111600",
     "songs": [
       {
-        "name": "Fields Of Gold"
+        "name": "Fields Of Gold",
+        "musicVideoURL": "https://www.youtube.com/watch?v=KLVq0IAzh1A",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "If I Ever Lose My Faith In You"
@@ -7278,7 +7313,7 @@
       },
       {
         "name": "We're All To Blame",
-        "musicVideoURL": "https://www.youtube.com/watch?v=9Nov0HUKsEohttp://www.youtube.com/watch?v=9Nov0HUKsEo",
+        "musicVideoURL": "https://www.youtube.com/watch?v=9Nov0HUKsEo",
         "musicVideoSource": "youtube"
       }
     ]
@@ -7584,7 +7619,7 @@
       },
       {
         "name": "Zombie",
-        "musicVideoURL": "https://www.youtube.com/watch?v=Jcwsfns7KPQ",
+        "musicVideoURL": "https://www.youtube.com/watch?v=6Ejga4kJUts",
         "musicVideoSource": "youtube"
       }
     ]
@@ -8117,7 +8152,9 @@
     "twitter": "https://www.twitter.com/redjumpsuit",
     "songs": [
       {
-        "name": "Face Down"
+        "name": "Face Down",
+        "musicVideoURL": "https://www.youtube.com/watch?v=6Ux6SlOE9Qk",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Your Guardian Angel"
@@ -8286,7 +8323,9 @@
     "id": "122685",
     "songs": [
       {
-        "name": "Divine Thing"
+        "name": "Divine Thing",
+        "musicVideoURL": "https://www.youtube.com/watch?v=4FqohG8ReFc",
+        "musicVideoSource": "youtube"
       }
     ]
   },
@@ -8352,7 +8391,7 @@
       },
       {
         "name": "Last Nite",
-        "musicVideoURL": "https://www.youtube.com/watch?v=f1vvUec71v8",
+        "musicVideoURL": "https://www.youtube.com/watch?v=TOypSnKFHrE",
         "musicVideoSource": "youtube"
       },
       {
@@ -8362,7 +8401,7 @@
       },
       {
         "name": "Someday",
-        "musicVideoURL": "https://www.youtube.com/watch?v=YlYsDNilKDQ",
+        "musicVideoURL": "https://www.youtube.com/watch?v=knU9gRUWCno",
         "musicVideoSource": "youtube"
       }
     ]
@@ -8750,17 +8789,17 @@
     "songs": [
       {
         "name": "Schism",
-        "musicVideoURL": "https://www.youtube.com/watch?v=yMMz2VwbhVI",
+        "musicVideoURL": "https://www.youtube.com/watch?v=MM62wjLrgmA",
         "musicVideoSource": "youtube"
       },
       {
         "name": "Sober",
-        "musicVideoURL": "https://www.youtube.com/watch?v=t1krvOc7t1I",
+        "musicVideoURL": "https://www.youtube.com/watch?v=nspxAG12Cpc",
         "musicVideoSource": "youtube"
       },
       {
         "name": "Stinkfist",
-        "musicVideoURL": "https://www.youtube.com/watch?v=07pLGIgyfjw",
+        "musicVideoURL": "https://www.youtube.com/watch?v=6zpvlMp04D0",
         "musicVideoSource": "youtube"
       },
       {
@@ -8768,7 +8807,7 @@
       },
       {
         "name": "Vicarious",
-        "musicVideoURL": "https://www.youtube.com/watch?v=yQRS1Ryh9HU",
+        "musicVideoURL": "https://www.youtube.com/watch?v=h_TUP2vuaDs",
         "musicVideoSource": "youtube"
       }
     ]
@@ -8820,7 +8859,9 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "Meet Virginia"
+        "name": "Meet Virginia",
+        "musicVideoURL": "https://www.youtube.com/watch?v=A3Qvb7q9Nm0",
+        "musicVideoSource": "youtube"
       }
     ]
   },
@@ -8912,7 +8953,7 @@
       },
       {
         "name": "Discothèque",
-        "musicVideoURL": "https://www.youtube.com/watch?v=p2AjpPNDe-8",
+        "musicVideoURL": "https://www.youtube.com/watch?v=TpvF7Qq9svk",
         "musicVideoSource": "youtube"
       },
       {
