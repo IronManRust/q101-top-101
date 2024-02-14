@@ -765,7 +765,7 @@
       },
       {
         "name": "Ch‐Check It Out",
-        "musicVideoURL": "https://www.youtube.com/watch?v=LYpzWRk7E9I",
+        "musicVideoURL": "https://www.youtube.com/watch?v=6iuGp9gUeNk",
         "musicVideoSource": "youtube"
       },
       {
@@ -1053,7 +1053,9 @@
     "twitter": "https://www.twitter.com/blondieofficial",
     "songs": [
       {
-        "name": "Maria"
+        "name": "Maria",
+        "musicVideoURL": "https://www.youtube.com/watch?v=abw49k3rIN0",
+        "musicVideoSource": "youtube"
       }
     ]
   },
@@ -1602,7 +1604,7 @@
       },
       {
         "name": "Trouble",
-        "musicVideoURL": "https://www.youtube.com/watch?v=kHg-PhseKOQ",
+        "musicVideoURL": "https://www.youtube.com/watch?v=kcASPx3-HuI",
         "musicVideoSource": "youtube"
       },
       {
@@ -2090,12 +2092,12 @@
       },
       {
         "name": "Walking In My Shoes",
-        "musicVideoURL": "https://www.youtube.com/watch?v=-4YEW8uibkY",
+        "musicVideoURL": "https://www.youtube.com/watch?v=GrC_yuzO-Ss",
         "musicVideoSource": "youtube"
       },
       {
         "name": "Wrong",
-        "musicVideoURL": "https://www.youtube.com/watch?v=IvfcnpJRf0Q",
+        "musicVideoURL": "https://www.youtube.com/watch?v=fhnrrLxQEVQ",
         "musicVideoSource": "youtube"
       }
     ]
@@ -2123,7 +2125,7 @@
     "songs": [
       {
         "name": "Feel the Pain",
-        "musicVideoURL": "https://www.youtube.com/watch?v=OQZmrdwK7YM",
+        "musicVideoURL": "https://www.youtube.com/watch?v=JXkN3nJyWEA",
         "musicVideoSource": "youtube"
       },
       {
@@ -2982,7 +2984,9 @@
     "facebook": "https://www.facebook.com/pages/Gin-Blossoms/10194655949",
     "songs": [
       {
-        "name": "Found Out About You"
+        "name": "Found Out About You",
+        "musicVideoURL": "https://www.youtube.com/watch?v=1qB6XdAkkAo",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Hey Jealousy",
@@ -3053,7 +3057,9 @@
         "name": "Touche"
       },
       {
-        "name": "Voodoo"
+        "name": "Voodoo",
+        "musicVideoURL": "https://www.youtube.com/watch?v=9SSUQxGjZZ4",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Whatever"
@@ -3217,7 +3223,7 @@
       },
       {
         "name": "Geek Stink Breath",
-        "musicVideoURL": "https://www.youtube.com/watch?v=fr2T-Rcgq1c&has_verified=1",
+        "musicVideoURL": "https://www.youtube.com/watch?v=fr2T-Rcgq1c",
         "musicVideoSource": "youtube"
       },
       {
@@ -3256,7 +3262,7 @@
       },
       {
         "name": "Longview",
-        "musicVideoURL": "https://www.youtube.com/watch?v=Vy5XR-oxCus",
+        "musicVideoURL": "https://www.youtube.com/watch?v=42BBdzzgPNM",
         "musicVideoSource": "youtube"
       },
       {
@@ -4631,7 +4637,9 @@
         "name": "King Without A Crown"
       },
       {
-        "name": "One Day"
+        "name": "One Day",
+        "musicVideoURL": "https://www.youtube.com/watch?v=WRmBChQjZPs",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Youth"
@@ -5737,13 +5745,13 @@
     "songs": [
       {
         "name": "Twiggy Twiggy / Twiggy vs. James Bond",
-        "musicVideoURL": "https://www.youtube.com/watch?v=j_F49QSHuDE",
+        "musicVideoURL": "https://www.youtube.com/watch?v=8rAY4Wo-QkQ",
         "musicVideoSource": "youtube"
       }
     ]
   },
   "Placebo": {
-    "id": "111394",
+    "id": "175450",
     "facebook": "https://www.facebook.com/officialplacebo",
     "twitter": "https://www.twitter.com/PLACEBOWORLD",
     "songs": [
@@ -6281,6 +6289,7 @@
     ]
   },
   "Ruby": {
+    "id": "175603",
     "songs": [
       {
         "name": "Tiny Meat"
@@ -6301,7 +6310,9 @@
     "twitter": "https://www.twitter.com/RustedRoot",
     "songs": [
       {
-        "name": "Send Me On My Way"
+        "name": "Send Me On My Way",
+        "musicVideoURL": "https://www.youtube.com/watch?v=IGMabBGydC0",
+        "musicVideoSource": "youtube"
       }
     ]
   },
@@ -6309,7 +6320,9 @@
     "id": "120674",
     "songs": [
       {
-        "name": "Right Now"
+        "name": "Right Now",
+        "musicVideoURL": "https://www.youtube.com/watch?v=AtBaCEZJfJA",
+        "musicVideoSource": "youtube"
       }
     ]
   },
@@ -6536,7 +6549,7 @@
     "songs": [
       {
         "name": "All I Wanna Do",
-        "musicVideoURL": "https://www.youtube.com/watch?v=X5ouOa9k0gE",
+        "musicVideoURL": "https://www.youtube.com/watch?v=ClbmWkbocoY",
         "musicVideoSource": "youtube"
       },
       {
@@ -6710,8 +6723,6 @@
   },
   "Slipknot": {
     "id": "112125",
-    "facebook": "Slipknot",
-    "twitter": "Slipknot",
     "songs": [
       {
         "name": "Before I Forget",
@@ -7065,7 +7076,9 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "If I Ever Lose My Faith In You"
+        "name": "If I Ever Lose My Faith In You",
+        "musicVideoURL": "https://www.youtube.com/watch?v=7km4EHgkQiw",
+        "musicVideoSource": "youtube"
       }
     ]
   },
@@ -7206,7 +7219,9 @@
         "name": "Santeria"
       },
       {
-        "name": "What I Got"
+        "name": "What I Got",
+        "musicVideoURL": "https://www.youtube.com/watch?v=0Uc3ZrmhDN4",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Wrong Way"
@@ -7833,7 +7848,7 @@
     "songs": [
       {
         "name": "Hate To Say I Told You So",
-        "musicVideoURL": "https://www.youtube.com/watch?v=MCQ7VLoY7bQ",
+        "musicVideoURL": "https://www.youtube.com/watch?v=Uz1Jwyxd4tE",
         "musicVideoSource": "youtube"
       },
       {
@@ -8278,8 +8293,8 @@
       },
       {
         "name": "Tarantula",
-        "musicVideoURL": "https://www.vimeo.com/12894907",
-        "musicVideoSource": "vimeo"
+        "musicVideoURL": "https://www.youtube.com/watch?v=Ro8shNTlzTY",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "The End Is The Beginning Is The End"
@@ -8314,8 +8329,8 @@
       },
       {
         "name": "Zero",
-        "musicVideoURL": "https://www.dailymotion.com/video/xcu9m7",
-        "musicVideoSource": "dailymotion"
+        "musicVideoURL": "https://www.youtube.com/watch?v=3wk7C64kaP4",
+        "musicVideoSource": "youtube"
       }
     ]
   },
@@ -9064,7 +9079,7 @@
     "songs": [
       {
         "name": "Girl, You'll Be A Woman Soon",
-        "musicVideoURL": "https://www.youtube.com/watch?v=GxLR_VaWkMM",
+        "musicVideoURL": "https://www.youtube.com/watch?v=1fr1iyhkyVs",
         "musicVideoSource": "youtube"
       }
     ]

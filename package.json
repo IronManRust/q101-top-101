@@ -25,7 +25,8 @@
         "email": "shawn_headrick@yahoo.com"
     },
     "config": {
-        "apiKey": "1"
+        "apiKey": "1",
+        "timeout": 250
     },
     "scripts": {
         "scrape": "npm run scrape:clean && npm run scrape:build && npm run scrape:execute && npm run scrape:cleanup",

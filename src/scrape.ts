@@ -97,9 +97,18 @@ const normalizeURL = (url: string | undefined): { value: string | undefined, sou
   }
 }
 
-const process = async (apiKey: string, artistInformationList: ArtistInformationList) => {
+const process = async (apiKey: string, timeout: number, artistInformationList: ArtistInformationList) => {
   const artistNames = Object.keys(artistInformationList).sort()
-  await Promise.all(artistNames.map(async (artistName) => {
+  let delay = 0
+  const steps: Promise<string>[] = []
+  for (const artistName of artistNames) {
+    steps.push(new Promise((resolve) => {
+      setTimeout(resolve, delay)
+    }).then(() => { return artistName }))
+    delay += timeout
+  }
+  await Promise.all(steps.map(async (step) => {
+    const artistName = await step
     try {
       const responseArtist = await axios.get(`https://www.theaudiodb.com/api/v1/json/${apiKey}/search.php?s=${encodeURIComponent(artistName)}`)
       if (responseArtist.status === 200) {
@@ -183,4 +192,4 @@ const process = async (apiKey: string, artistInformationList: ArtistInformationL
 
 const config: Config = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../package.json'), 'utf-8')).config
 
-process(config.apiKey, artistInformationList)
+process(config.apiKey, config.timeout, artistInformationList)
