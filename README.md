@@ -1,6 +1,6 @@
 # Q101 Top 101
 
-[https://q101-top-101.netlify.com](https://q101-top-101.netlify.com "Q101 Top 101")
+[https://q101-top-101.netlify.app](https://q101-top-101.netlify.app "Q101 Top 101")
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/560daa86-7bf1-41b9-b6f2-3c4ea1a8f882/deploy-status)](https://app.netlify.com/sites/q101-top-101/deploys)
 
