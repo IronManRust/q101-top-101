@@ -6,8 +6,6 @@
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
     "alwaysStrict": true,
-    "baseUrl": ".",
-    "charset": "utf8",
     "declaration": true,
     "diagnostics": false,
     "disableSizeLimit": false,
@@ -27,9 +25,7 @@
     "jsxFactory": "React.createElement",
     "listEmittedFiles": false,
     "listFiles": false,
-    "locale": "en-us",
     "module": "commonjs",
-    "moduleResolution": "node",
     "newLine": "lf",
     "noEmit": false,
     "noEmitHelpers": false,
@@ -44,10 +40,10 @@
     "noStrictGenericChecks": false,
     "noUnusedLocals": true,
     "noUnusedParameters": false,
-    "outDir": "dist",
+    "outDir": "./dist",
     "paths": {
       "*": [
-        "node_modules/*"
+        "./node_modules/*"
       ]
     },
     "preserveConstEnums": true,
@@ -56,6 +52,7 @@
     "pretty": true,
     "removeComments": false,
     "resolveJsonModule": true,
+    "rootDir": "./src",
     "skipDefaultLibCheck": false,
     "skipLibCheck": true,
     "sourceMap": true,
@@ -69,6 +66,9 @@
     "suppressImplicitAnyIndexErrors": false,
     "target": "es6",
     "traceResolution": false,
+    "types": [
+      "node"
+    ],
     "useDefineForClassFields": true
   },
   "include": [
