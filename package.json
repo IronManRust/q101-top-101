@@ -28,6 +28,9 @@
         "apiKey": "2",
         "timeout": 250
     },
+    "engines": {
+        "node": ">=24"
+    },
     "scripts": {
         "scrape": "npm run scrape:clean && npm run scrape:build && npm run scrape:execute && npm run scrape:cleanup",
         "scrape:clean": "npm run clean",
