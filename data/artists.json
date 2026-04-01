@@ -94,7 +94,7 @@
     "songs": [
       {
         "name": "Because The Night",
-        "musicVideoURL": "https://www.youtube.com/watch?v=zKh1ZRyrQXY",
+        "musicVideoURL": "https://www.youtube.com/watch?v=_AQByCFr0gs",
         "musicVideoSource": "youtube"
       },
       {
@@ -438,7 +438,9 @@
     "twitter": "https://www.twitter.com/AliceInChains",
     "songs": [
       {
-        "name": "Angry Chair"
+        "name": "Angry Chair",
+        "musicVideoURL": "https://www.youtube.com/watch?v=IpEXM1Yziws",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Check My Brain",
@@ -452,7 +454,9 @@
         "name": "Got Me Wrong"
       },
       {
-        "name": "Grind"
+        "name": "Grind",
+        "musicVideoURL": "https://www.youtube.com/watch?v=83gddxVpitc",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Heaven Beside You",
@@ -460,13 +464,17 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "I Stay Away"
+        "name": "I Stay Away",
+        "musicVideoURL": "https://www.youtube.com/watch?v=ODTv9Lt5WYs",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Lesson Learned"
       },
       {
-        "name": "No Excuses"
+        "name": "No Excuses",
+        "musicVideoURL": "https://www.youtube.com/watch?v=r80HF68KM8g",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Rooster",
@@ -721,12 +729,12 @@
     "songs": [
       {
         "name": "21st Century (Digital Boy)",
-        "musicVideoURL": "https://www.youtube.com/watch?v=ZN6kCgMUjFw",
+        "musicVideoURL": "https://www.youtube.com/watch?v=v-D-fn-Z04w",
         "musicVideoSource": "youtube"
       },
       {
         "name": "Infected",
-        "musicVideoURL": "https://www.youtube.com/watch?v=Ik9ofiRTTQM",
+        "musicVideoURL": "https://www.youtube.com/watch?v=bxy_yYGZHyI",
         "musicVideoSource": "youtube"
       }
     ]
@@ -930,7 +938,7 @@
       },
       {
         "name": "It's Oh So Quiet",
-        "musicVideoURL": "https://www.youtube.com/watch?v=htobTBlCvUU",
+        "musicVideoURL": "https://www.youtube.com/watch?v=gLF-_Z8TK1k",
         "musicVideoSource": "youtube"
       }
     ]
@@ -1346,13 +1354,13 @@
     "songs": [
       {
         "name": "Never There",
-        "musicVideoURL": "https://www.youtube.com/watch?v=p5JSwtb4Rnw",
+        "musicVideoURL": "https://www.youtube.com/watch?v=FRZzUh9hcTo",
         "musicVideoSource": "youtube"
       },
       {
         "name": "No Phone",
-        "musicVideoURL": "https://www.vevo.com/watch/cake/no-phone/USSM20403469",
-        "musicVideoSource": "general"
+        "musicVideoURL": "https://www.youtube.com/watch?v=I93XzY8nRso",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Rock n' Roll Lifestyle"
@@ -1367,7 +1375,7 @@
       },
       {
         "name": "The Distance",
-        "musicVideoURL": "https://www.youtube.com/watch?v=BsYWoXT_UEw",
+        "musicVideoURL": "https://www.youtube.com/watch?v=KDv7ga2jxhM",
         "musicVideoSource": "youtube"
       },
       {
@@ -2087,7 +2095,7 @@
       },
       {
         "name": "Precious",
-        "musicVideoURL": "https://www.youtube.com/watch?v=Ts2DXY0zfLs",
+        "musicVideoURL": "https://www.youtube.com/watch?v=8yn3ViE6mhY",
         "musicVideoSource": "youtube"
       },
       {
@@ -2314,7 +2322,7 @@
     "songs": [
       {
         "name": "A Girl Like You",
-        "musicVideoURL": "https://www.youtube.com/watch?v=nkKxGzm98AU",
+        "musicVideoURL": "https://www.youtube.com/watch?v=6oqJ0JpMj6I",
         "musicVideoSource": "youtube"
       }
     ]
@@ -2367,7 +2375,9 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "The Way I Am"
+        "name": "The Way I Am",
+        "musicVideoURL": "https://www.youtube.com/watch?v=mQvteoFiMlg",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Without Me",
@@ -2867,7 +2877,7 @@
       },
       {
         "name": "This Fire",
-        "musicVideoURL": "https://www.youtube.com/watch?v=VHUxS8qkO8M",
+        "musicVideoURL": "https://www.youtube.com/watch?v=haW_ruZ_Be8",
         "musicVideoSource": "youtube"
       }
     ]
@@ -2921,7 +2931,7 @@
     "songs": [
       {
         "name": "#1 Crush",
-        "musicVideoURL": "https://www.youtube.com/watch?v=PX7LLua5NCM",
+        "musicVideoURL": "https://www.youtube.com/watch?v=dJbXjIEP6rM",
         "musicVideoSource": "youtube"
       },
       {
@@ -2956,7 +2966,7 @@
       },
       {
         "name": "The World Is Not Enough",
-        "musicVideoURL": "https://www.youtube.com/watch?v=8C5NLfYdZaE",
+        "musicVideoURL": "https://www.youtube.com/watch?v=JBrz-5ai1mo",
         "musicVideoSource": "youtube"
       },
       {
@@ -3571,7 +3581,7 @@
     "songs": [
       {
         "name": "Evil",
-        "musicVideoURL": "https://www.youtube.com/#/watch?v=eqfiHfDmOnw",
+        "musicVideoURL": "https://www.youtube.com/watch?v=dkpgz3uQ58U",
         "musicVideoSource": "youtube"
       },
       {
@@ -3581,9 +3591,7 @@
         "name": "PDA"
       },
       {
-        "name": "Slow Hands",
-        "musicVideoURL": "https://www.vimeo.com/59218235",
-        "musicVideoSource": "vimeo"
+        "name": "Slow Hands"
       },
       {
         "name": "The Heinrich Maneuver",
@@ -4109,7 +4117,7 @@
       },
       {
         "name": "Are You Gonna Go My Way",
-        "musicVideoURL": "https://www.youtube.com/watch?v=i5PZQMwL7iE",
+        "musicVideoURL": "https://www.youtube.com/watch?v=8LhCd1W2V0Q",
         "musicVideoSource": "youtube"
       },
       {
@@ -4828,7 +4836,7 @@
     "songs": [
       {
         "name": "The More You Ignore Me, The Closer I Get",
-        "musicVideoURL": "https://www.youtube.com/watch?v=jGdSpYMsk5A",
+        "musicVideoURL": "https://www.youtube.com/watch?v=4lCA5U2PIus",
         "musicVideoSource": "youtube"
       },
       {
@@ -4902,7 +4910,7 @@
       },
       {
         "name": "Supermassive Black Hole",
-        "musicVideoURL": "https://www.youtube.com/watch?v=8tugqHunwDA",
+        "musicVideoURL": "https://www.youtube.com/watch?v=Xsp3_a-PMTw",
         "musicVideoSource": "youtube"
       },
       {
@@ -5137,7 +5145,7 @@
       },
       {
         "name": "Hurt",
-        "musicVideoURL": "https://www.youtube.com/watch?v=AvJKVKglIRs",
+        "musicVideoURL": "https://www.youtube.com/watch?v=KR4DjYczINM",
         "musicVideoSource": "youtube"
       },
       {
@@ -5150,7 +5158,7 @@
       },
       {
         "name": "Only",
-        "musicVideoURL": "https://www.youtube.com/watch?v=fP581mozBYk",
+        "musicVideoURL": "https://www.youtube.com/watch?v=wwvLlEtxX3o",
         "musicVideoSource": "youtube"
       },
       {
@@ -5199,7 +5207,9 @@
         "name": "Aneurysm"
       },
       {
-        "name": "Dumb"
+        "name": "Dumb",
+        "musicVideoURL": "https://www.youtube.com/watch?v=GtBhclCigH0",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Heart-Shaped Box",
@@ -5427,7 +5437,9 @@
     "id": "111945",
     "songs": [
       {
-        "name": "Hey Ya!"
+        "name": "Hey Ya!",
+        "musicVideoURL": "https://www.youtube.com/watch?v=PWgvGjAhvIw",
+        "musicVideoSource": "youtube"
       }
     ]
   },
@@ -5996,7 +6008,7 @@
       },
       {
         "name": "Fake Plastic Trees",
-        "musicVideoURL": "https://www.youtube.com/watch?v=pKd06s1LNik",
+        "musicVideoURL": "https://www.youtube.com/watch?v=n5h0qHwNrHk",
         "musicVideoSource": "youtube"
       },
       {
@@ -6006,8 +6018,8 @@
       },
       {
         "name": "Knives Out",
-        "musicVideoURL": "https://www.vimeo.com/35666310",
-        "musicVideoSource": "vimeo"
+        "musicVideoURL": "https://www.youtube.com/watch?v=2Lpw3yMCWro",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Optimistic"
@@ -6017,8 +6029,8 @@
       },
       {
         "name": "There There",
-        "musicVideoURL": "https://www.vimeo.com/11720271",
-        "musicVideoSource": "vimeo"
+        "musicVideoURL": "https://www.youtube.com/watch?v=7AQSLozK7aA",
+        "musicVideoSource": "youtube"
       }
     ]
   },
@@ -6396,6 +6408,7 @@
     ]
   },
   "Satellite Party": {
+    "id": "184266",
     "songs": [
       {
         "name": "Hard Life Easy"
@@ -6723,6 +6736,7 @@
   },
   "Slipknot": {
     "id": "112125",
+    "facebook": "https://www.facebook.com/slipknot",
     "songs": [
       {
         "name": "Before I Forget",
@@ -6885,10 +6899,14 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "Blow Up The Outside World"
+        "name": "Blow Up The Outside World",
+        "musicVideoURL": "https://www.youtube.com/watch?v=sC2GjXMk7i4",
+        "musicVideoSource": "youtube"
       },
       {
-        "name": "Burden In My Hand"
+        "name": "Burden In My Hand",
+        "musicVideoURL": "https://www.youtube.com/watch?v=XmIqIVxUuKs",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Fell On Black Days",
@@ -6896,10 +6914,14 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "My Wave"
+        "name": "My Wave",
+        "musicVideoURL": "https://www.youtube.com/watch?v=HEbYxEXM2cE",
+        "musicVideoSource": "youtube"
       },
       {
-        "name": "Pretty Noose"
+        "name": "Pretty Noose",
+        "musicVideoURL": "https://www.youtube.com/watch?v=f8nkHrv_4Mg",
+        "musicVideoSource": "youtube"
       },
       {
         "name": "Spoonman",
@@ -7224,7 +7246,9 @@
         "musicVideoSource": "youtube"
       },
       {
-        "name": "Wrong Way"
+        "name": "Wrong Way",
+        "musicVideoURL": "https://www.youtube.com/watch?v=uLifSFBs_Lk",
+        "musicVideoSource": "youtube"
       }
     ]
   },
@@ -7672,7 +7696,7 @@
       },
       {
         "name": "Mint Car",
-        "musicVideoURL": "https://www.youtube.com/watch?v=MMKN5Uaydzw",
+        "musicVideoURL": "https://www.youtube.com/watch?v=Q7F9LhuMsrQ",
         "musicVideoSource": "youtube"
       },
       {
@@ -7683,12 +7707,12 @@
       },
       {
         "name": "The 13th",
-        "musicVideoURL": "https://www.youtube.com/watch?v=1EOCq9urWbs",
+        "musicVideoURL": "https://www.youtube.com/watch?v=_rhuktoGiy0",
         "musicVideoSource": "youtube"
       },
       {
         "name": "Wrong Number",
-        "musicVideoURL": "https://www.youtube.com/watch?v=my17DT2Hb3Q",
+        "musicVideoURL": "https://www.youtube.com/watch?v=heuiM4H1irc",
         "musicVideoSource": "youtube"
       }
     ]
@@ -8915,7 +8939,7 @@
     "songs": [
       {
         "name": "Why Does It Always Rain On Me",
-        "musicVideoURL": "https://www.youtube.com/watch?v=Nwh3FmpZ7kg",
+        "musicVideoURL": "https://www.youtube.com/watch?v=PXatLOWjr-k",
         "musicVideoSource": "youtube"
       }
     ]
